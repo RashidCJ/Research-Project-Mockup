@@ -1,0 +1,2701 @@
+región,población,sexo,edad,educación,ingreso,apoyo_statu_quo,voto
+Norte,175000,Hombre,65,Primaria,35000,1.0082,Sí
+Norte,175000,Hombre,29,Postsecundaria,7500,-1.29617,No
+Norte,175000,Mujer,38,Primaria,15000,1.23072,Sí
+Norte,175000,Mujer,49,Primaria,35000,-1.03163,No
+Norte,175000,Mujer,23,Secundaria,35000,-1.10496,No
+Norte,175000,Mujer,28,Primaria,7500,-1.04685,No
+Norte,175000,Hombre,26,Postsecundaria,35000,-0.78626,No
+Norte,175000,Mujer,24,Secundaria,15000,-1.11348,No
+Norte,175000,Mujer,41,Primaria,15000,-1.01292,Indeciso
+Norte,175000,Hombre,41,Primaria,15000,-1.29617,No
+Norte,175000,Hombre,64,Primaria,15000,1.36566,Sí
+Norte,175000,Hombre,19,Secundaria,35000,1.02791,Indeciso
+Norte,175000,Mujer,27,Postsecundaria,,1.43448,Sí
+Norte,175000,Mujer,46,Secundaria,75000,1.50684,Sí
+Norte,175000,Hombre,36,Postsecundaria,35000,1.49026,
+Norte,175000,Hombre,22,Secundaria,15000,-1.14189,Abstención
+Norte,175000,Mujer,20,Postsecundaria,15000,-0.85579,No
+Norte,175000,Hombre,30,Secundaria,35000,-0.90689,Indeciso
+Norte,175000,Hombre,67,Primaria,75000,1.32279,Sí
+Norte,175000,Mujer,50,Secundaria,2500,-1.05805,Indeciso
+Norte,175000,Mujer,38,Secundaria,35000,1.38534,Sí
+Norte,175000,Mujer,55,Postsecundaria,35000,1.45602,Sí
+Norte,175000,Hombre,18,Secundaria,75000,1.54808,Sí
+Norte,175000,Mujer,24,Postsecundaria,35000,1.61471,Sí
+Norte,175000,Hombre,58,Primaria,35000,1.52601,Sí
+Norte,175000,Mujer,28,Secundaria,35000,0.55328,Indeciso
+Norte,175000,Mujer,34,Primaria,7500,1.33619,Abstención
+Norte,175000,Mujer,43,Primaria,,0.15489,Abstención
+Norte,175000,Hombre,20,Postsecundaria,35000,-0.89281,No
+Norte,175000,Hombre,53,Postsecundaria,35000,-1.29617,Abstención
+Norte,175000,Mujer,32,Postsecundaria,35000,1.50986,Sí
+Norte,175000,Mujer,37,Postsecundaria,200000,0.96525,Sí
+Norte,175000,Hombre,36,Postsecundaria,7500,0.15489,Indeciso
+Norte,175000,Hombre,44,Postsecundaria,35000,1.16851,No
+Norte,175000,Hombre,20,Postsecundaria,15000,-1.29617,No
+Norte,175000,Mujer,36,Primaria,35000,-0.35147,Sí
+Norte,175000,Hombre,37,Primaria,7500,1.43203,Sí
+Norte,175000,Hombre,30,Secundaria,35000,0.2636,Abstención
+Norte,175000,Hombre,30,Primaria,15000,0.11067,Sí
+Norte,175000,Mujer,19,Primaria,15000,0.72102,Abstención
+Norte,125000,Mujer,33,Secundaria,35000,1.00232,Abstención
+Norte,125000,Hombre,30,Secundaria,15000,-1.1517,No
+Norte,125000,Mujer,37,Postsecundaria,35000,1.40361,Sí
+Norte,125000,Hombre,51,Primaria,15000,0.52166,Sí
+Norte,125000,Mujer,61,Primaria,35000,0.79952,Sí
+Norte,125000,Mujer,21,Secundaria,7500,0.53177,Indeciso
+Norte,125000,Mujer,70,Primaria,15000,1.48894,Sí
+Norte,125000,Hombre,35,Secundaria,35000,0.49674,Sí
+Norte,125000,Hombre,68,Primaria,35000,1.32695,Sí
+Norte,125000,Mujer,25,Primaria,35000,1.54808,Sí
+Norte,125000,Mujer,50,Primaria,7500,1.33168,Sí
+Norte,125000,Mujer,24,Secundaria,35000,1.03408,Sí
+Norte,125000,Hombre,66,Primaria,35000,0.87984,Indeciso
+Norte,125000,Hombre,25,Secundaria,75000,-0.42448,Abstención
+Norte,125000,Hombre,40,Secundaria,15000,-1.04016,No
+Norte,125000,Hombre,34,Postsecundaria,125000,-1.10088,No
+Norte,125000,Hombre,18,Secundaria,35000,-0.37211,Indeciso
+Norte,125000,Mujer,52,Secundaria,35000,1.24649,Sí
+Norte,125000,Mujer,35,Secundaria,35000,1.59577,Sí
+Norte,125000,Hombre,51,Secundaria,75000,1.34999,Sí
+Norte,125000,Hombre,33,Postsecundaria,75000,1.33168,Sí
+Norte,125000,Mujer,36,Secundaria,15000,0.80845,Sí
+Norte,125000,Mujer,24,Secundaria,35000,-0.48981,Indeciso
+Norte,125000,Mujer,43,Primaria,15000,1.04409,Sí
+Norte,125000,Hombre,50,Primaria,15000,-0.83203,Indeciso
+Norte,125000,Mujer,28,Primaria,35000,1.5877,Sí
+Norte,125000,Mujer,54,Primaria,15000,0.90506,Indeciso
+Norte,125000,Hombre,19,Secundaria,7500,0.52845,No
+Norte,125000,Mujer,26,Secundaria,35000,1.45329,Sí
+Norte,125000,Hombre,67,Postsecundaria,75000,0.23095,Abstención
+Norte,125000,Hombre,40,Postsecundaria,35000,-0.52639,No
+Norte,125000,Hombre,19,Postsecundaria,35000,-1.10706,No
+Norte,125000,Mujer,38,Secundaria,75000,1.06142,Sí
+Norte,125000,Mujer,22,Postsecundaria,35000,-1.30351,No
+Norte,125000,Hombre,38,Postsecundaria,75000,0.27293,Indeciso
+Norte,125000,Mujer,32,Secundaria,,-0.85035,No
+Norte,125000,Mujer,36,Secundaria,75000,0.18447,Abstención
+Norte,125000,Hombre,38,Postsecundaria,35000,-1.29617,No
+Norte,125000,Hombre,19,Secundaria,35000,-0.02965,No
+Norte,125000,Hombre,32,Postsecundaria,75000,1.48284,Sí
+Norte,125000,Hombre,38,Secundaria,15000,-0.59145,Indeciso
+Norte,125000,Hombre,54,Primaria,35000,-1.1921,No
+Norte,125000,Hombre,48,Primaria,35000,1.02326,Sí
+Norte,125000,Mujer,30,Secundaria,75000,-0.99223,No
+Norte,125000,Hombre,23,Postsecundaria,35000,-1.10784,Sí
+Norte,125000,Mujer,46,Secundaria,125000,1.5877,Sí
+Norte,125000,Mujer,19,Secundaria,7500,-0.14772,Indeciso
+Norte,125000,Mujer,54,Primaria,7500,0.22433,Indeciso
+Norte,125000,Hombre,23,Secundaria,15000,-1.12468,No
+Norte,125000,Hombre,68,Primaria,7500,0.11359,Indeciso
+Norte,125000,Mujer,44,Secundaria,35000,-1.14579,No
+Norte,125000,Hombre,65,Primaria,35000,1.02326,Sí
+Norte,125000,Mujer,24,Primaria,7500,-1.18567,No
+Norte,125000,Mujer,19,Secundaria,35000,1.05618,Sí
+Norte,125000,Hombre,21,Postsecundaria,15000,-0.7115,Abstención
+Norte,125000,Mujer,53,Primaria,75000,1.59943,Sí
+Norte,125000,Mujer,38,Primaria,15000,0.28099,Indeciso
+Norte,125000,Mujer,34,Primaria,2500,0.10807,
+Norte,125000,Hombre,28,Secundaria,35000,-0.52335,Abstención
+Norte,125000,Hombre,57,Secundaria,35000,-0.66752,No
+Norte,250000,Mujer,50,Primaria,15000,-0.97742,Sí
+Norte,250000,Hombre,45,Primaria,2500,0.71898,No
+Norte,250000,Hombre,19,Postsecundaria,15000,0.67533,Indeciso
+Norte,250000,Hombre,58,Primaria,15000,1.27496,Indeciso
+Norte,250000,Mujer,18,Secundaria,125000,0.15214,No
+Norte,250000,Mujer,67,Secundaria,7500,-1.29617,No
+Norte,250000,Hombre,30,Secundaria,7500,-0.71641,No
+Norte,250000,Mujer,23,Primaria,7500,-1.30366,No
+Norte,250000,Mujer,34,Primaria,7500,-0.122,Sí
+Norte,250000,Hombre,46,Primaria,75000,-1.17441,No
+Norte,250000,Hombre,66,Primaria,15000,-0.70463,Indeciso
+Norte,250000,Mujer,31,Secundaria,7500,0.0074400000000000004,Indeciso
+Norte,250000,Mujer,46,Secundaria,,0.15489,
+Norte,250000,Hombre,18,Secundaria,15000,-0.71653,No
+Norte,250000,Hombre,69,Primaria,7500,1.54808,Sí
+Norte,250000,Hombre,21,Secundaria,35000,-0.78334,No
+Norte,250000,Hombre,41,Postsecundaria,35000,0.25602,Indeciso
+Norte,250000,Hombre,49,Secundaria,35000,-0.30605,
+Norte,250000,Mujer,28,Postsecundaria,75000,1.23773,Abstención
+Norte,250000,Mujer,34,Primaria,35000,1.43203,Sí
+Norte,250000,Mujer,35,Secundaria,35000,-1.29617,No
+Norte,250000,Mujer,50,Secundaria,125000,1.5877,Sí
+Norte,250000,Hombre,66,Secundaria,75000,1.25462,Sí
+Norte,250000,Hombre,22,Postsecundaria,125000,-0.42219,No
+Norte,250000,Mujer,54,Secundaria,75000,-0.12077,No
+Norte,250000,Mujer,22,Postsecundaria,35000,-0.27527,No
+Norte,250000,Mujer,70,Primaria,75000,1.39831,Sí
+Norte,250000,Hombre,29,Secundaria,75000,0.09897,Indeciso
+Norte,250000,Mujer,50,Primaria,35000,-1.29617,No
+Norte,250000,Hombre,42,Postsecundaria,75000,1.45861,Sí
+Norte,250000,Hombre,33,Secundaria,7500,-1.29617,No
+Norte,250000,Hombre,52,Primaria,35000,-1.03168,No
+Norte,250000,Mujer,55,Secundaria,15000,-1.29617,No
+Norte,250000,Mujer,50,Primaria,35000,0.6853,Sí
+Norte,250000,Mujer,24,Primaria,7500,-1.2202,No
+Norte,250000,Mujer,26,Postsecundaria,35000,-1.29617,No
+Norte,250000,Hombre,23,Postsecundaria,35000,-1.01268,No
+Norte,250000,Mujer,55,Secundaria,35000,-0.38049,No
+Norte,250000,Mujer,37,Secundaria,35000,-0.46709,Indeciso
+Norte,250000,Hombre,38,Postsecundaria,15000,-0.88584,No
+Norte,250000,Hombre,18,Postsecundaria,75000,-1.21974,No
+Norte,250000,Hombre,36,Secundaria,35000,-0.40254,No
+Norte,250000,Mujer,18,Secundaria,,-1.22081,No
+Norte,250000,Mujer,36,Secundaria,7500,1.40604,Sí
+Norte,250000,Mujer,65,Postsecundaria,125000,-0.9981,No
+Norte,250000,Mujer,26,Postsecundaria,75000,1.48284,Sí
+Norte,250000,Mujer,55,Secundaria,75000,1.44104,Sí
+Norte,250000,Mujer,59,Secundaria,35000,1.5877,Sí
+Norte,250000,Hombre,18,Secundaria,15000,-0.70887,Abstención
+Norte,250000,Hombre,70,Primaria,7500,-0.36585,No
+Norte,250000,Mujer,24,Postsecundaria,35000,1.27926,Sí
+Norte,250000,Mujer,26,Postsecundaria,75000,-1.10017,No
+Norte,250000,Mujer,44,Postsecundaria,75000,1.44183,Sí
+Norte,250000,Hombre,53,Secundaria,15000,-1.29617,No
+Norte,250000,Hombre,35,Postsecundaria,125000,-0.72892,No
+Norte,250000,Mujer,26,Postsecundaria,125000,1.4162,Sí
+Norte,250000,Hombre,37,Primaria,15000,0.41711,No
+Norte,250000,Mujer,70,Postsecundaria,125000,1.44896,Sí
+Norte,250000,Hombre,23,Postsecundaria,35000,-1.25795,No
+Norte,250000,Mujer,18,Secundaria,35000,1.50986,Sí
+Norte,87500,Hombre,41,Postsecundaria,35000,-0.47135,Abstención
+Norte,87500,Mujer,30,Primaria,15000,1.60783,Sí
+Norte,87500,Mujer,46,Primaria,7500,1.51786,Sí
+Norte,87500,Hombre,22,Primaria,15000,-0.51949,No
+Norte,87500,Mujer,26,Secundaria,15000,-0.34236,Abstención
+Norte,87500,Mujer,42,Primaria,15000,1.54808,Sí
+Norte,87500,Mujer,25,Secundaria,15000,1.37129,Sí
+Norte,87500,Hombre,42,Primaria,15000,1.5877,Sí
+Norte,87500,Hombre,32,Postsecundaria,75000,1.36312,Sí
+Norte,87500,Mujer,51,Primaria,2500,1.59607,Sí
+Norte,87500,Hombre,18,Secundaria,15000,-1.10367,No
+Norte,87500,Mujer,44,Postsecundaria,35000,-0.71653,No
+Norte,87500,Hombre,40,Secundaria,15000,-1.03937,No
+Norte,87500,Mujer,33,Secundaria,2500,-1.14317,No
+Norte,87500,Mujer,21,Secundaria,35000,0.54901,Sí
+Norte,87500,Mujer,28,Primaria,15000,1.19006,Indeciso
+Norte,87500,Mujer,37,Secundaria,7500,-0.6617,No
+Norte,87500,Mujer,58,Primaria,7500,1.4527,Sí
+Norte,87500,Hombre,37,Secundaria,75000,1.40361,Sí
+Norte,87500,Hombre,18,Primaria,35000,-0.12713,Sí
+Norte,45000,Mujer,33,Secundaria,35000,0.9475,Sí
+Norte,45000,Mujer,45,Primaria,15000,0.83473,Indeciso
+Norte,45000,Mujer,34,Secundaria,15000,1.43653,Sí
+Norte,45000,Hombre,25,Postsecundaria,35000,0.32764,Sí
+Norte,45000,Hombre,70,Primaria,75000,0.01309,
+Norte,45000,Hombre,46,Primaria,35000,1.56214,Indeciso
+Norte,45000,Mujer,63,Primaria,7500,-0.78362,Indeciso
+Norte,45000,Mujer,53,Primaria,15000,0.9948,Sí
+Norte,45000,Hombre,32,Secundaria,35000,-0.16227,Abstención
+Norte,45000,Mujer,31,Postsecundaria,35000,0.98196,Sí
+Norte,45000,Hombre,23,Primaria,15000,0.37411,Sí
+Norte,45000,Mujer,25,Primaria,15000,1.33395,Sí
+Norte,45000,Mujer,39,Postsecundaria,15000,-0.59827,No
+Norte,45000,Mujer,25,Primaria,15000,0.43403,Sí
+Norte,45000,Hombre,48,Primaria,7500,1.62138,Sí
+Norte,45000,Hombre,65,Secundaria,2500,1.39445,Abstención
+Norte,45000,Mujer,25,Primaria,15000,1.5877,Sí
+Norte,45000,Hombre,18,Secundaria,15000,1.4156,Sí
+Norte,45000,Mujer,49,Primaria,,1.20211,Sí
+Norte,45000,Mujer,66,Primaria,2500,-1.29617,No
+Norte,3750,Hombre,60,Primaria,75000,-0.38693,No
+Norte,3750,Hombre,37,Postsecundaria,35000,-0.58756,No
+Norte,3750,Mujer,61,Secundaria,15000,1.44401,Indeciso
+Norte,3750,Mujer,34,Secundaria,35000,0.02178,No
+Norte,3750,Hombre,28,Secundaria,15000,-0.66899,No
+Norte,3750,Hombre,59,Primaria,35000,1.19563,Sí
+Norte,3750,Hombre,21,Primaria,15000,-0.04558,No
+Norte,3750,Mujer,27,Secundaria,2500,0.65137,Sí
+Norte,3750,Mujer,53,,15000,0.57867,Sí
+Norte,3750,Hombre,24,Secundaria,15000,-0.95939,No
+Norte,3750,Hombre,59,Primaria,7500,1.41416,Sí
+Norte,3750,Mujer,48,Primaria,7500,1.21125,Sí
+Norte,3750,Mujer,26,Primaria,2500,1.50986,Sí
+Norte,3750,Hombre,64,Primaria,7500,0.98716,Sí
+Norte,3750,Hombre,20,Primaria,15000,1.05745,Sí
+Norte,3750,Hombre,25,Secundaria,15000,0.34737,Sí
+Norte,3750,Mujer,49,Primaria,7500,0.15444,Sí
+Norte,3750,Hombre,70,Primaria,35000,-1.10356,No
+Norte,3750,Mujer,22,Secundaria,15000,1.05653,Sí
+Norte,3750,Hombre,18,Primaria,15000,0.0224,Sí
+Norte,125000,Mujer,58,Postsecundaria,35000,-0.82454,Indeciso
+Norte,125000,Hombre,31,Secundaria,35000,-0.91124,Sí
+Norte,125000,Mujer,48,Postsecundaria,35000,-0.82983,Sí
+Norte,125000,Hombre,64,Primaria,15000,1.33246,Indeciso
+Norte,125000,Mujer,23,Secundaria,15000,1.44853,Sí
+Norte,125000,Mujer,59,Primaria,7500,0.1502,Indeciso
+Norte,125000,Hombre,28,Postsecundaria,7500,-0.76181,
+Norte,125000,Mujer,37,Secundaria,15000,-0.64763,Indeciso
+Norte,125000,Mujer,28,Secundaria,35000,-1.07837,No
+Norte,125000,Mujer,51,Secundaria,7500,-0.78943,Indeciso
+Norte,125000,Mujer,27,Secundaria,7500,0.29045,Sí
+Norte,125000,Hombre,38,Secundaria,15000,-0.89647,No
+Norte,125000,Hombre,34,Postsecundaria,35000,-1.29617,No
+Norte,125000,Mujer,46,Primaria,2500,-1.29617,No
+Norte,125000,Hombre,25,Secundaria,7500,-0.92377,No
+Norte,125000,Hombre,29,Secundaria,75000,-0.6018,Sí
+Norte,125000,Mujer,26,Primaria,15000,1.3646,Abstención
+Norte,125000,Mujer,34,Primaria,7500,0.57019,Sí
+Norte,125000,Hombre,66,Primaria,7500,-0.18511,Sí
+Norte,125000,Mujer,44,Primaria,35000,1.51576,Sí
+Norte,125000,Hombre,38,Secundaria,7500,0.07104,Abstención
+Norte,125000,Hombre,39,Secundaria,7500,0.75719,Sí
+Norte,125000,Mujer,22,Secundaria,15000,-1.07861,No
+Norte,125000,Mujer,47,Primaria,15000,1.43653,Sí
+Norte,125000,Hombre,24,Secundaria,35000,0.00883,Sí
+Norte,125000,Hombre,27,Secundaria,35000,1.34829,Sí
+Norte,125000,Mujer,21,Secundaria,75000,-1.15231,No
+Norte,125000,Hombre,36,Postsecundaria,75000,1.01364,Sí
+Norte,125000,Mujer,62,Primaria,15000,0.23772,Sí
+Norte,125000,Hombre,24,Postsecundaria,,-0.72038,No
+Norte,125000,Hombre,48,Primaria,15000,-1.14049,
+Norte,125000,Mujer,70,Primaria,15000,1.25145,Sí
+Norte,125000,Mujer,49,Primaria,35000,0.61995,Indeciso
+Norte,125000,Hombre,33,Secundaria,35000,0.12409,Abstención
+Norte,125000,Mujer,35,Primaria,15000,-1.19054,No
+Norte,125000,Mujer,29,Primaria,15000,1.23505,Sí
+Norte,125000,Mujer,38,Primaria,15000,1.24225,Sí
+Norte,125000,Hombre,21,Secundaria,35000,-0.56293,No
+Norte,125000,Mujer,59,Postsecundaria,35000,-1.18011,No
+Norte,125000,Hombre,59,Primaria,15000,1.37738,Sí
+Norte,15000,Hombre,63,Primaria,7500,0.57069,Abstención
+Norte,15000,Mujer,27,Primaria,75000,-1.1401,Abstención
+Norte,15000,Hombre,24,Postsecundaria,35000,-0.89647,No
+Norte,15000,Mujer,37,Primaria,15000,-0.33039,Indeciso
+Norte,15000,Hombre,30,Secundaria,35000,-0.95133,Abstención
+Norte,15000,Hombre,53,Primaria,15000,-1.03452,Indeciso
+Norte,15000,Mujer,31,Secundaria,15000,0.29023,Sí
+Norte,15000,Hombre,27,Primaria,15000,-0.20566,No
+Norte,15000,Mujer,29,Primaria,35000,0.96777,Sí
+Norte,15000,Mujer,33,Primaria,15000,0.82724,Sí
+Norte,15000,Mujer,27,Primaria,15000,1.07644,Sí
+Norte,15000,Hombre,66,Primaria,15000,-0.53327,Indeciso
+Norte,15000,Hombre,27,Primaria,7500,-1.29617,Indeciso
+Norte,15000,Mujer,50,Primaria,35000,-0.82904,Indeciso
+Norte,15000,Hombre,64,Primaria,7500,-1.19662,No
+Norte,15000,Mujer,59,Primaria,7500,-0.0725,No
+Norte,15000,Mujer,32,Secundaria,15000,-0.87318,Sí
+Norte,15000,Hombre,26,Secundaria,75000,1.55477,Sí
+Norte,15000,Hombre,20,Secundaria,15000,-0.5265,Abstención
+Norte,15000,Hombre,39,Primaria,15000,1.3766,Sí
+Norte,87500,Mujer,29,Postsecundaria,15000,-1.23032,No
+Norte,87500,Mujer,47,Primaria,35000,1.22543,Sí
+Norte,87500,Hombre,68,Primaria,15000,1.40952,Sí
+Norte,87500,Hombre,19,Primaria,7500,0.90496,Indeciso
+Norte,87500,Mujer,35,Primaria,7500,-1.23032,Sí
+Norte,87500,Mujer,29,Primaria,7500,0.40561,Sí
+Norte,87500,Hombre,58,Primaria,15000,-1.29617,No
+Norte,87500,Hombre,70,Primaria,15000,-0.13177,Sí
+Norte,87500,Mujer,36,Primaria,15000,-0.46162,No
+Norte,87500,Hombre,30,Secundaria,35000,-1.00254,No
+Norte,87500,Hombre,31,Primaria,15000,-0.93686,Sí
+Norte,87500,Hombre,31,Primaria,7500,-0.89725,No
+Norte,87500,Mujer,30,Primaria,7500,-1.11878,Indeciso
+Norte,87500,Hombre,37,Secundaria,15000,-1.29617,No
+Norte,87500,Mujer,48,Primaria,7500,-1.23032,Indeciso
+Norte,87500,Hombre,20,Secundaria,,-0.18727,No
+Norte,87500,Mujer,52,Primaria,15000,0.21063,No
+Norte,87500,Hombre,70,Primaria,7500,0.07094,Abstención
+Norte,87500,Mujer,50,Primaria,15000,0.51411,Sí
+Norte,87500,Mujer,29,Primaria,15000,0.09532,Abstención
+Norte,25000,Hombre,24,Secundaria,75000,-1.26552,
+Norte,25000,Mujer,37,Primaria,15000,1.17633,Indeciso
+Norte,25000,Hombre,68,Primaria,15000,1.37208,Sí
+Norte,25000,Mujer,29,Primaria,35000,1.01672,Sí
+Norte,25000,Mujer,35,Primaria,2500,0.05559,Sí
+Norte,25000,Hombre,24,Secundaria,7500,0.77841,Sí
+Norte,25000,Mujer,60,Secundaria,35000,1.46136,Sí
+Norte,25000,Hombre,21,Secundaria,35000,-1.00054,No
+Norte,25000,Hombre,53,Postsecundaria,35000,-1.29617,No
+Norte,25000,Mujer,35,Postsecundaria,35000,-0.81863,Indeciso
+Norte,25000,Mujer,60,Primaria,7500,-0.69788,Abstención
+Norte,25000,Mujer,49,Primaria,15000,-1.2727,
+Norte,25000,Mujer,26,Secundaria,7500,-1.03006,No
+Norte,25000,Hombre,28,Secundaria,15000,0.48311,Abstención
+Norte,25000,Hombre,43,Secundaria,35000,-1.29617,No
+Norte,25000,Hombre,35,Postsecundaria,200000,-0.95913,Abstención
+Norte,25000,Mujer,23,Primaria,15000,1.21184,Sí
+Norte,25000,Hombre,26,Secundaria,15000,-1.1868,No
+Norte,25000,Mujer,58,Primaria,35000,0.53257,No
+Norte,25000,Mujer,70,Primaria,15000,1.33444,Sí
+Central,25000,Mujer,44,Primaria,7500,-0.96154,Indeciso
+Central,25000,Hombre,32,Secundaria,15000,-0.87595,No
+Central,25000,Mujer,32,Secundaria,15000,0.73621,Sí
+Central,25000,Mujer,60,Secundaria,15000,-0.78119,No
+Central,25000,Hombre,45,Primaria,15000,1.08003,Indeciso
+Central,25000,Mujer,45,Primaria,15000,0.32158,Indeciso
+Central,25000,Hombre,21,Primaria,2500,1.03727,Sí
+Central,25000,Hombre,32,Secundaria,35000,-1.25795,No
+Central,25000,Hombre,44,Postsecundaria,35000,-1.29617,No
+Central,25000,Hombre,56,Secundaria,75000,1.51576,Sí
+Central,25000,Mujer,67,Primaria,15000,-0.52966,Sí
+Central,25000,Mujer,27,Secundaria,35000,1.19271,Sí
+Central,25000,Mujer,29,Secundaria,7500,-1.29617,No
+Central,25000,Hombre,51,Primaria,35000,-1.29617,No
+Central,25000,Hombre,26,Secundaria,35000,-0.61861,No
+Central,25000,Mujer,56,Primaria,7500,-1.1209,Abstención
+Central,25000,Mujer,36,Primaria,15000,-0.36391,Indeciso
+Central,25000,Hombre,58,Primaria,15000,-1.26325,No
+Central,25000,Hombre,35,Primaria,35000,0.08007,Indeciso
+Central,25000,Hombre,34,Primaria,35000,-1.29617,No
+Central,45000,Mujer,56,Primaria,7500,-1.25795,No
+Central,45000,Mujer,24,Primaria,7500,-1.29617,No
+Central,45000,Hombre,20,Secundaria,35000,-1.29617,No
+Central,45000,Hombre,21,Secundaria,35000,-1.19504,No
+Central,45000,Hombre,58,Secundaria,35000,-1.14049,No
+Central,45000,Mujer,33,Secundaria,75000,-0.30372,No
+Central,45000,Hombre,35,Secundaria,75000,-1.21834,No
+Central,45000,Mujer,32,Primaria,15000,1.5877,Sí
+Central,45000,Mujer,40,Postsecundaria,75000,-1.29617,No
+Central,45000,Hombre,36,Postsecundaria,200000,-0.21637,No
+Central,45000,Mujer,18,Secundaria,35000,-0.31489,Indeciso
+Central,45000,Hombre,57,Postsecundaria,35000,1.43772,Sí
+Central,45000,Hombre,44,Secundaria,35000,-1.03566,No
+Central,45000,Mujer,51,Primaria,15000,1.15628,Sí
+Central,45000,Hombre,26,Secundaria,35000,-0.64455,No
+Central,45000,Hombre,34,Secundaria,75000,0.66781,Sí
+Central,45000,Mujer,47,Secundaria,75000,-0.897,No
+Central,45000,Mujer,42,Secundaria,200000,0.99498,
+Central,45000,Mujer,18,Secundaria,75000,-0.92939,No
+Central,45000,Hombre,51,Postsecundaria,75000,-1.08055,No
+Central,62500,Mujer,26,Secundaria,15000,0.66877,Sí
+Central,62500,Hombre,29,Postsecundaria,75000,0.77374,Sí
+Central,62500,Mujer,27,Primaria,15000,1.25914,Sí
+Central,62500,Mujer,57,Secundaria,2500,1.5877,Sí
+Central,62500,Hombre,67,Primaria,7500,1.59802,Sí
+Central,62500,Mujer,30,Secundaria,35000,0.93454,Sí
+Central,62500,Hombre,21,Secundaria,15000,-1.06991,No
+Central,62500,Hombre,68,Primaria,15000,-1.29617,No
+Central,62500,Mujer,55,Primaria,7500,-1.10678,
+Central,62500,Mujer,38,Secundaria,15000,-1.00007,No
+Central,62500,Hombre,21,Secundaria,75000,-0.6626,Abstención
+Central,62500,Hombre,50,Secundaria,75000,-1.14103,No
+Central,62500,Mujer,19,Secundaria,15000,-1.14361,No
+Central,62500,Mujer,57,Secundaria,15000,-1.29617,No
+Central,62500,Mujer,51,Secundaria,15000,-1.15092,No
+Central,62500,Hombre,69,Primaria,15000,-1.29617,No
+Central,62500,Hombre,22,Postsecundaria,75000,-1.07977,No
+Central,62500,Mujer,32,Secundaria,7500,-1.29617,No
+Central,62500,Mujer,68,Primaria,35000,-1.29617,No
+Central,62500,Hombre,22,Postsecundaria,35000,-1.29617,No
+Central,15000,Hombre,48,Primaria,15000,-0.75604,No
+Central,15000,Hombre,31,Primaria,7500,0.36202,Sí
+Central,15000,Mujer,25,Secundaria,15000,-0.86459,No
+Central,15000,Mujer,52,Primaria,7500,-0.72812,Indeciso
+Central,15000,Hombre,39,Primaria,35000,1.47024,Sí
+Central,15000,Hombre,68,,7500,-1.1415,Indeciso
+Central,15000,Mujer,22,Primaria,15000,1.54808,Sí
+Central,15000,Hombre,19,Secundaria,35000,-0.98933,No
+Central,15000,Mujer,47,Primaria,7500,0.15506,Indeciso
+Central,15000,Hombre,18,Primaria,35000,-0.99498,No
+Central,15000,Mujer,33,Secundaria,35000,0.45262,Indeciso
+Central,15000,Hombre,49,Primaria,15000,0.18113,Indeciso
+Central,15000,Mujer,40,Secundaria,7500,-0.75505,Abstención
+Central,15000,Hombre,28,Primaria,15000,-0.36182,Indeciso
+Central,15000,Mujer,37,Secundaria,15000,0.42459,Sí
+Central,15000,Mujer,38,Secundaria,35000,0.59831,Indeciso
+Central,15000,Mujer,27,Primaria,15000,-1.12193,Indeciso
+Central,15000,Hombre,26,Primaria,35000,1.19153,Indeciso
+Central,15000,Hombre,21,Primaria,35000,-0.72868,No
+Central,15000,Hombre,54,Primaria,7500,-1.09392,No
+Central,15000,Hombre,27,Secundaria,35000,0.6118,Indeciso
+Central,15000,Hombre,46,Primaria,35000,7.8e-4,
+Central,15000,Hombre,32,Secundaria,35000,-1.18933,No
+Central,15000,Mujer,22,Secundaria,7500,-0.89654,Abstención
+Central,15000,Mujer,40,Secundaria,35000,-0.29904,Abstención
+Central,15000,Hombre,70,Postsecundaria,15000,1.29276,Sí
+Central,15000,Hombre,42,Secundaria,35000,1.10717,Sí
+Central,15000,Hombre,20,Postsecundaria,125000,0.4198,No
+Central,15000,Mujer,23,Postsecundaria,125000,0.30914,Indeciso
+Central,15000,Mujer,64,Primaria,7500,1.25272,Sí
+Central,15000,Hombre,21,Postsecundaria,35000,1.44401,Sí
+Central,15000,Hombre,70,Primaria,7500,-0.9845,Indeciso
+Central,15000,Hombre,57,Primaria,2500,-0.64767,No
+Central,15000,Mujer,33,Secundaria,7500,0.11608,Indeciso
+Central,15000,Mujer,57,Primaria,2500,1.4473800000000001,Sí
+Central,15000,Hombre,38,Primaria,7500,-0.59124,Indeciso
+Central,15000,Hombre,30,Primaria,2500,1.13733,Indeciso
+Central,15000,Mujer,56,Primaria,7500,-1.29617,No
+Central,15000,Mujer,33,Primaria,15000,-0.27875,Indeciso
+Central,15000,Mujer,64,Primaria,2500,-1.09626,Indeciso
+Central,250000,Mujer,35,Secundaria,200000,-1.11826,No
+Central,250000,Mujer,40,Secundaria,75000,1.05576,Indeciso
+Central,250000,Hombre,66,Primaria,75000,1.46885,Sí
+Central,250000,Hombre,22,Secundaria,35000,1.06974,Abstención
+Central,250000,Mujer,43,Secundaria,75000,-1.10254,
+Central,250000,Hombre,23,Secundaria,35000,-1.25795,No
+Central,250000,Mujer,28,Secundaria,35000,-1.29617,No
+Central,250000,Mujer,62,Primaria,15000,-1.29617,No
+Central,250000,Hombre,28,Primaria,2500,-1.29617,No
+Central,250000,Hombre,39,Primaria,15000,0.75644,Sí
+Central,250000,Mujer,42,Secundaria,35000,1.22853,Sí
+Central,250000,Mujer,23,Secundaria,7500,-1.29617,No
+Central,250000,Hombre,19,Secundaria,35000,-1.1113,No
+Central,250000,Mujer,19,Secundaria,15000,-0.18302,Indeciso
+Central,250000,Hombre,59,Secundaria,15000,-1.29617,No
+Central,250000,Mujer,33,Secundaria,35000,-0.21633,No
+Central,250000,Mujer,48,Secundaria,7500,0.29811,Indeciso
+Central,250000,Hombre,44,Postsecundaria,35000,-1.18151,No
+Central,250000,Mujer,70,Secundaria,35000,-1.03066,Indeciso
+Central,250000,Hombre,25,Secundaria,35000,0.76551,Abstención
+Central,250000,Mujer,57,Secundaria,15000,0.26703,Sí
+Central,250000,Mujer,23,Secundaria,15000,-1.21132,Abstención
+Central,250000,Hombre,47,Primaria,15000,-1.29617,Abstención
+Central,250000,Hombre,23,Primaria,7500,0.11608,Abstención
+Central,250000,Mujer,29,Primaria,7500,0.11608,Indeciso
+Central,250000,Hombre,30,Primaria,7500,-0.96845,No
+Central,250000,Mujer,38,Secundaria,7500,0.29811,Indeciso
+Central,250000,Mujer,22,Primaria,2500,-0.93017,No
+Central,250000,Mujer,41,Secundaria,2500,-1.27556,Indeciso
+Central,250000,Hombre,58,Primaria,35000,-0.91779,Abstención
+Central,250000,Mujer,61,,75000,1.29824,Sí
+Central,250000,Mujer,29,Secundaria,15000,0.31346,Indeciso
+Central,250000,Mujer,41,Postsecundaria,,-0.63279,
+Central,250000,Hombre,28,Primaria,7500,-1.29617,No
+Central,250000,Hombre,44,Secundaria,7500,1.37208,Sí
+Central,250000,Hombre,30,Secundaria,2500,-1.29617,No
+Central,250000,Mujer,34,Postsecundaria,15000,-1.29617,No
+Central,250000,Mujer,43,Primaria,35000,-0.56792,Sí
+Central,250000,Hombre,70,Secundaria,35000,-0.94371,No
+Central,250000,Hombre,50,Secundaria,75000,0.53491,Sí
+Central,250000,Mujer,28,Secundaria,75000,-1.27876,No
+Central,250000,Hombre,65,Primaria,2500,1.47262,Sí
+Central,250000,Hombre,30,Primaria,7500,1.1925,Indeciso
+Central,250000,Mujer,22,Secundaria,7500,-1.33198,No
+Central,250000,Mujer,69,Secundaria,75000,0.73645,Indeciso
+Central,250000,Hombre,33,Postsecundaria,75000,-1.29617,No
+Central,250000,Mujer,36,Secundaria,7500,0.2074,Abstención
+Central,250000,Hombre,67,Secundaria,35000,-1.29617,No
+Central,250000,Mujer,70,Primaria,35000,-1.29617,No
+Central,250000,Mujer,30,Secundaria,15000,-1.29617,No
+Central,250000,Hombre,58,Secundaria,15000,1.09519,Sí
+Central,250000,Mujer,25,Secundaria,35000,-0.65599,No
+Central,250000,Mujer,42,Secundaria,15000,-0.85881,No
+Central,250000,Hombre,65,Secundaria,35000,-1.29617,No
+Central,250000,Hombre,24,Postsecundaria,15000,-1.03486,No
+Central,250000,Mujer,19,Primaria,7500,0.4159,Sí
+Central,250000,Hombre,23,Secundaria,35000,-0.75072,No
+Central,250000,Hombre,39,Primaria,35000,-1.29617,No
+Central,250000,Mujer,37,Primaria,15000,-1.00723,Sí
+Central,250000,Mujer,22,Primaria,15000,0.03479,Sí
+Central,250000,Hombre,25,Secundaria,7500,0.04881,Indeciso
+Central,250000,Mujer,31,Primaria,35000,0.54258,Indeciso
+Central,250000,Mujer,42,Secundaria,35000,1.23905,Indeciso
+Central,250000,Mujer,27,Secundaria,35000,0.58567,Indeciso
+Central,250000,Hombre,70,Primaria,35000,-0.69434,No
+Central,250000,Mujer,22,Primaria,35000,-1.1824,No
+Central,250000,Mujer,47,Primaria,35000,0.127,Sí
+Central,250000,Hombre,22,Secundaria,35000,-1.07569,No
+Central,250000,Hombre,58,Postsecundaria,125000,-0.64344,No
+Central,250000,Hombre,20,Secundaria,75000,-0.98357000000000006,Indeciso
+Central,250000,Hombre,31,Secundaria,35000,-1.15421,No
+Central,250000,Mujer,65,Primaria,35000,0.04406,Indeciso
+Central,250000,Mujer,23,Secundaria,35000,1.30163,Sí
+Central,250000,Hombre,39,Postsecundaria,75000,0.86302,Sí
+Central,250000,Hombre,27,Secundaria,35000,0.87325,Sí
+Central,250000,Hombre,63,Secundaria,35000,-0.84928,No
+Central,250000,Mujer,57,Primaria,35000,-1.0169,Indeciso
+Central,250000,Mujer,48,Secundaria,15000,0.27927,Abstención
+Central,250000,Mujer,19,Secundaria,75000,0.14576,Abstención
+Central,250000,Hombre,27,Postsecundaria,200000,-0.22146,Sí
+Central,250000,Hombre,62,Primaria,15000,-1.29617,No
+Central,250000,Hombre,19,Secundaria,2500,-1.22301,No
+Central,250000,Hombre,18,Secundaria,2500,-1.30351,Sí
+Central,250000,Mujer,34,Secundaria,7500,-1.25795,No
+Central,250000,Mujer,39,Primaria,75000,1.50846,Sí
+Central,250000,Mujer,26,Postsecundaria,35000,-0.97459,No
+Central,250000,Hombre,28,Postsecundaria,35000,-0.27603,Abstención
+Central,250000,Hombre,59,Postsecundaria,200000,0.84207,Sí
+Central,250000,Mujer,53,Postsecundaria,15000,1.38659,Sí
+Central,250000,Mujer,26,Postsecundaria,125000,-0.8109,No
+Central,250000,Mujer,56,Primaria,7500,-1.29617,No
+Central,250000,Mujer,27,Secundaria,35000,1.34452,Sí
+Central,250000,Hombre,65,Primaria,2500,-1.17732,No
+Central,250000,Mujer,63,Primaria,15000,-1.29617,No
+Central,250000,Hombre,29,Primaria,7500,-1.29617,No
+Central,250000,Mujer,37,Postsecundaria,35000,-1.29617,No
+Central,250000,Mujer,32,Secundaria,200000,1.23437,Sí
+Central,250000,Hombre,25,Secundaria,125000,-0.80253,No
+Central,250000,Hombre,70,Secundaria,75000,1.39831,Sí
+Central,250000,Hombre,60,Secundaria,200000,1.3094,Sí
+Central,250000,Hombre,48,Secundaria,200000,-0.54021,No
+Central,250000,Mujer,70,Secundaria,35000,-0.13432,Indeciso
+Central,250000,Mujer,22,Postsecundaria,75000,-1.06935,No
+Central,250000,Mujer,30,Postsecundaria,35000,-0.1658,Sí
+Central,250000,Hombre,31,Postsecundaria,75000,1.13365,Sí
+Central,250000,Hombre,28,Secundaria,15000,-0.32557,Indeciso
+Central,250000,Mujer,45,Secundaria,35000,-0.90844,No
+Central,250000,Mujer,70,Secundaria,35000,-1.19739,No
+Central,250000,Mujer,23,Postsecundaria,200000,-1.1886,No
+Central,250000,Hombre,20,Postsecundaria,75000,-0.12758,Indeciso
+Central,250000,Hombre,52,Secundaria,15000,0.29255,Indeciso
+Central,250000,Hombre,65,Postsecundaria,35000,1.5877,Sí
+Central,250000,Mujer,37,Secundaria,7500,-1.29629,No
+Central,250000,Hombre,24,Secundaria,75000,-0.68517,No
+Central,250000,Mujer,18,Secundaria,15000,-1.25795,No
+Central,250000,Hombre,41,Primaria,2500,-1.29617,No
+Central,250000,Mujer,28,Secundaria,15000,-1.25795,No
+Central,250000,Mujer,19,Secundaria,15000,-0.08274,Sí
+Central,250000,Hombre,21,Secundaria,35000,-0.92488,Abstención
+Central,250000,Mujer,36,Primaria,15000,-1.29617,Indeciso
+Central,8750,Mujer,27,Secundaria,7500,0.3505,Indeciso
+Central,8750,Mujer,40,Secundaria,15000,0.80306,Sí
+Central,8750,Hombre,25,Secundaria,35000,-0.9788,Indeciso
+Central,8750,Mujer,69,Primaria,7500,1.32322,Sí
+Central,8750,Hombre,70,Primaria,200000,0.51325,Sí
+Central,8750,Hombre,39,Primaria,2500,-0.86279,Indeciso
+Central,8750,Hombre,70,Primaria,7500,0.35125,Indeciso
+Central,8750,Hombre,34,Primaria,15000,1.5877,Sí
+Central,8750,Mujer,24,Primaria,15000,1.12054,Sí
+Central,8750,Mujer,40,Primaria,2500,1.2206,Indeciso
+Central,8750,Hombre,35,Primaria,15000,-0.21059,No
+Central,8750,Mujer,53,Primaria,35000,1.29609,Sí
+Central,8750,Hombre,31,Secundaria,35000,1.48693,Sí
+Central,8750,Hombre,62,Primaria,75000,-1.14049,No
+Central,8750,Mujer,33,Secundaria,2500,-0.81005,Abstención
+Central,8750,Hombre,20,Secundaria,75000,-0.08662,No
+Central,8750,Hombre,61,Primaria,75000,0.08005,Indeciso
+Central,8750,Mujer,20,Postsecundaria,35000,-0.88127,No
+Central,8750,Mujer,50,Primaria,2500,-1.13456,No
+Central,8750,Hombre,36,Postsecundaria,35000,0.18951,
+Central,125000,Mujer,36,Secundaria,35000,-1.18401,No
+Central,125000,Hombre,63,Primaria,75000,-0.34932,Sí
+Central,125000,Hombre,59,Secundaria,125000,1.33168,Sí
+Central,125000,Hombre,25,Postsecundaria,75000,-0.045469999999999997,No
+Central,125000,Mujer,23,Secundaria,35000,0.58791,Sí
+Central,125000,Hombre,21,Postsecundaria,75000,-1.14049,No
+Central,125000,Mujer,34,Secundaria,125000,-0.8795,Abstención
+Central,125000,Mujer,58,Secundaria,200000,1.21521,Sí
+Central,125000,Hombre,41,Secundaria,75000,-0.55437,No
+Central,125000,Mujer,19,Secundaria,75000,1.01503,Indeciso
+Central,125000,Mujer,54,Primaria,15000,-0.5497,No
+Central,125000,Mujer,20,Primaria,15000,1.13325,Indeciso
+Central,125000,Hombre,29,Secundaria,75000,-1.03701,No
+Central,125000,Hombre,63,Secundaria,35000,-0.26969,No
+Central,125000,Mujer,65,Primaria,7500,-1.28897,Indeciso
+Central,125000,Hombre,30,Secundaria,15000,-0.76805,Abstención
+Central,125000,Mujer,59,Primaria,15000,1.00672,Sí
+Central,125000,Mujer,29,Secundaria,35000,1.06426,Abstención
+Central,125000,Hombre,44,Primaria,15000,-0.13466,No
+Central,125000,Mujer,32,Secundaria,35000,-0.18149,No
+Central,62500,Mujer,25,Primaria,2500,-1.29617,No
+Central,62500,Mujer,38,Secundaria,35000,0.76091,Sí
+Central,62500,Hombre,19,Secundaria,75000,0.28186,Abstención
+Central,62500,Mujer,29,Primaria,15000,0.00293,Sí
+Central,62500,Hombre,40,Primaria,7500,1.43009,Sí
+Central,62500,Hombre,48,Secundaria,15000,-0.09579,Sí
+Central,62500,Mujer,21,Secundaria,15000,-0.56194,Sí
+Central,62500,Hombre,27,Primaria,15000,1.5877,Sí
+Central,62500,Mujer,66,Primaria,35000,1.40283,Sí
+Central,62500,Hombre,36,Primaria,7500,-1.29617,No
+Central,62500,Hombre,38,Postsecundaria,7500,-1.22503,No
+Central,62500,Hombre,19,Secundaria,7500,-1.26325,
+Central,62500,Mujer,18,Primaria,7500,1.43653,Sí
+Central,62500,Mujer,40,Primaria,7500,-1.09176,Indeciso
+Central,62500,Mujer,53,Primaria,2500,-1.29617,No
+Central,62500,Hombre,23,Secundaria,15000,-0.60929,No
+Central,62500,Hombre,60,Primaria,15000,1.19498,Sí
+Central,62500,Mujer,24,Primaria,75000,0.98906,Abstención
+Central,62500,Hombre,26,Primaria,15000,0.85118,Indeciso
+Central,62500,Mujer,53,Primaria,15000,-1.29617,No
+Central,175000,Mujer,39,Secundaria,35000,1.24709,Sí
+Central,175000,Mujer,19,Secundaria,15000,-0.66475,Sí
+Central,175000,Hombre,33,Secundaria,15000,-1.22285,No
+Central,175000,Mujer,21,Postsecundaria,35000,-1.29293,Abstención
+Central,175000,Hombre,39,Secundaria,35000,-0.5387,Abstención
+Central,175000,Mujer,30,Primaria,15000,-0.26213,Indeciso
+Central,175000,Hombre,30,Secundaria,35000,0.75432,
+Central,175000,Hombre,37,Secundaria,35000,1.43793,Sí
+Central,175000,Mujer,38,Primaria,2500,-1.21695,No
+Central,175000,Mujer,46,Primaria,2500,1.54808,Sí
+Central,175000,Hombre,21,Secundaria,75000,0.90752,Sí
+Central,175000,Mujer,35,Secundaria,200000,-1.00723,No
+Central,175000,Mujer,64,Secundaria,75000,-1.27876,No
+Central,175000,Hombre,33,Postsecundaria,125000,-1.25795,No
+Central,175000,Hombre,48,Secundaria,75000,0.73356,Indeciso
+Central,175000,Mujer,55,Primaria,2500,1.46184,Indeciso
+Central,175000,Mujer,27,Secundaria,7500,-0.49793,Abstención
+Central,175000,Hombre,22,Secundaria,35000,-1.05257,No
+Central,175000,Hombre,36,Secundaria,15000,-0.6507,No
+Central,175000,Hombre,49,Primaria,15000,-0.13599,Indeciso
+Central,175000,Hombre,29,Postsecundaria,35000,0.6494,Abstención
+Central,175000,Mujer,24,Secundaria,7500,-0.98901,No
+Central,175000,Hombre,30,Primaria,15000,-1.17312,No
+Central,175000,Mujer,37,Primaria,7500,-1.29617,
+Central,175000,Mujer,46,Primaria,15000,0.97835,Sí
+Central,175000,Hombre,18,Secundaria,15000,-0.79884,No
+Central,175000,Mujer,24,Secundaria,15000,0.26893,Abstención
+Central,175000,Mujer,56,Primaria,15000,1.51126,Sí
+Central,175000,Mujer,20,Secundaria,15000,0.75833,Sí
+Central,175000,Hombre,40,Secundaria,125000,1.38337,Sí
+Central,175000,Mujer,18,Postsecundaria,15000,-1.07377,No
+Central,175000,Hombre,31,Postsecundaria,125000,0.14096,Indeciso
+Central,175000,Mujer,36,Secundaria,35000,0.92806,Indeciso
+Central,175000,Mujer,39,Secundaria,75000,0.51058,Indeciso
+Central,175000,Hombre,44,Secundaria,2500,0.47079,Indeciso
+Central,175000,Mujer,29,Secundaria,35000,1.11235,Sí
+Central,175000,Hombre,30,Primaria,15000,-0.69377,No
+Central,175000,Mujer,50,Primaria,15000,-0.93468,Indeciso
+Central,175000,Hombre,66,Primaria,7500,0.55558,Sí
+Central,175000,Hombre,64,Primaria,15000,0.7835,Sí
+Central,15000,Mujer,54,Postsecundaria,75000,1.30775,Sí
+Central,15000,Mujer,32,Primaria,,0.07811,Indeciso
+Central,15000,Hombre,25,Primaria,15000,-0.27405,Indeciso
+Central,15000,Hombre,54,Secundaria,35000,0.96337,Sí
+Central,15000,Hombre,24,Secundaria,,0.4586,
+Central,15000,Hombre,18,Postsecundaria,35000,-0.72698,No
+Central,15000,Mujer,24,Secundaria,35000,0.82449,Abstención
+Central,15000,Mujer,23,Secundaria,35000,1.28602,Sí
+Central,15000,Mujer,38,Secundaria,7500,0.19175,No
+Central,15000,Hombre,36,Secundaria,15000,-1.11878,No
+Central,15000,Mujer,33,Secundaria,35000,1.47024,Sí
+Central,15000,Mujer,37,Postsecundaria,35000,1.34591,Sí
+Central,15000,Hombre,57,Secundaria,75000,-0.29196,Indeciso
+Central,15000,Hombre,38,Primaria,15000,-0.56775,No
+Central,15000,Hombre,34,Secundaria,35000,-1.21974,No
+Central,15000,Mujer,39,Primaria,7500,1.5877,Sí
+Central,15000,Mujer,59,Primaria,35000,0.49301,Indeciso
+Central,15000,Hombre,29,Secundaria,15000,-1.22876,Abstención
+Central,15000,Hombre,70,Primaria,15000,1.5877,Sí
+Central,15000,Mujer,34,Postsecundaria,35000,0.01279,No
+Central,15000,Mujer,30,Secundaria,35000,1.07897,Sí
+Central,15000,Hombre,35,Postsecundaria,15000,-0.97431,No
+Central,15000,Mujer,27,Secundaria,35000,1.32855,Indeciso
+Central,15000,Hombre,38,Secundaria,35000,1.5877,
+Central,15000,Mujer,45,Primaria,7500,1.39186,
+Central,15000,Mujer,31,Secundaria,2500,-0.92695,No
+Central,15000,Hombre,34,Secundaria,35000,-0.70263,No
+Central,15000,Mujer,67,Primaria,15000,0.94646,Indeciso
+Central,15000,Hombre,61,Primaria,15000,0.56632,Indeciso
+Central,15000,Hombre,59,Primaria,15000,-1.14049,No
+Central,15000,Mujer,53,Primaria,,1.5877,Sí
+Central,15000,Hombre,44,Primaria,7500,0.89793,Sí
+Central,15000,Mujer,33,Primaria,7500,1.24161,Sí
+Central,15000,Hombre,34,Primaria,7500,-0.54032,Abstención
+Central,15000,Hombre,22,Primaria,15000,-1.22503,No
+Central,15000,Mujer,20,Secundaria,7500,0.61719,
+Central,15000,Hombre,43,Primaria,75000,1.56817,Sí
+Central,15000,Mujer,43,Primaria,7500,1.08466,
+Central,15000,Hombre,26,Primaria,15000,-0.24317,
+Central,15000,Hombre,68,Secundaria,2500,-1.29617,Abstención
+Central,15000,Mujer,40,Primaria,2500,0.39304,Abstención
+Central,15000,Mujer,44,Primaria,2500,0.41004,
+Central,15000,Hombre,55,Primaria,15000,0.32051,Indeciso
+Central,15000,Mujer,21,Secundaria,,-0.4243,Indeciso
+Central,15000,Hombre,22,Secundaria,15000,-0.40299,No
+Central,15000,Hombre,64,Primaria,7500,1.33395,Indeciso
+Central,15000,Hombre,22,Secundaria,7500,-1.29617,No
+Central,15000,Hombre,30,Primaria,7500,-1.29617,No
+Central,15000,Mujer,21,Secundaria,7500,0.40932,Indeciso
+Central,15000,Mujer,37,Primaria,7500,1.48894,Sí
+Central,15000,Mujer,38,Secundaria,35000,1.51326,Sí
+Central,15000,Hombre,34,Secundaria,7500,-1.14579,No
+Central,15000,Mujer,30,Secundaria,35000,-1.30485,No
+Central,15000,Hombre,60,Primaria,7500,0.90604,Sí
+Central,15000,Hombre,45,Primaria,15000,0.81951,Sí
+Central,15000,Hombre,42,Primaria,7500,1.0111,No
+Central,15000,Mujer,60,Primaria,35000,-0.92728,Indeciso
+Central,15000,Mujer,22,Secundaria,35000,1.11308,Abstención
+Central,15000,Hombre,23,Secundaria,7500,0.12472,Indeciso
+Central,15000,Hombre,20,Postsecundaria,15000,-1.0234,No
+Central,45000,Mujer,35,Primaria,7500,1.25841,
+Central,45000,Hombre,54,Primaria,7500,0.80784,
+Central,45000,Mujer,60,Primaria,2500,1.5877,Sí
+Central,45000,Hombre,22,Secundaria,15000,1.00996,
+Central,45000,Hombre,28,Secundaria,7500,0.42771,
+Central,45000,Hombre,53,Primaria,2500,-1.29617,No
+Central,45000,Mujer,29,Secundaria,7500,-0.70096,
+Central,45000,Mujer,30,Primaria,7500,0.97,Indeciso
+Central,45000,Mujer,58,Primaria,15000,1.50846,Sí
+Central,45000,Hombre,28,Secundaria,7500,-0.6341,Sí
+Central,45000,Mujer,42,Primaria,35000,0.1921,Indeciso
+Central,45000,Hombre,40,Postsecundaria,35000,1.44322,Sí
+Central,45000,Hombre,66,Primaria,15000,1.29875,Indeciso
+Central,45000,Hombre,28,Secundaria,7500,-1.01171,Abstención
+Central,45000,Mujer,60,Primaria,15000,-0.62453,Sí
+Central,45000,Mujer,30,Secundaria,15000,-1.21873,No
+Central,45000,Hombre,24,Primaria,15000,-1.29617,No
+Central,45000,Hombre,63,Postsecundaria,75000,-0.98189,No
+Central,45000,Mujer,25,Postsecundaria,35000,1.40361,Sí
+Central,45000,Mujer,57,Secundaria,15000,-1.29617,
+Central,25000,Mujer,49,Primaria,7500,-0.612,Indeciso
+Central,25000,Mujer,25,Primaria,15000,0.84305,Sí
+Central,25000,Mujer,37,Secundaria,35000,0.63836,Indeciso
+Central,25000,Hombre,19,Secundaria,75000,0.06239,No
+Central,25000,Hombre,53,Secundaria,35000,1.33246,Sí
+Central,25000,Mujer,34,Secundaria,,0.34195,Indeciso
+Central,25000,Mujer,37,Secundaria,35000,0.16682,Indeciso
+Central,25000,Hombre,22,Secundaria,15000,,
+Central,25000,Hombre,44,Secundaria,35000,0.87593,Sí
+Central,25000,Hombre,31,Secundaria,75000,0.16466,Indeciso
+Central,25000,Mujer,29,Secundaria,35000,0.03032,Indeciso
+Central,25000,Mujer,21,Primaria,7500,0.78563,Abstención
+Central,25000,Mujer,58,Primaria,7500,1.68665,Sí
+Central,25000,Hombre,22,Primaria,15000,-1.26325,No
+Central,25000,Hombre,68,Primaria,2500,-0.80882,No
+Central,25000,Mujer,47,Postsecundaria,15000,-0.67532,Indeciso
+Central,25000,Mujer,30,Primaria,15000,1.41999,Sí
+Central,25000,Hombre,21,Primaria,15000,-1.06433,No
+Central,25000,Hombre,50,Secundaria,35000,0.24274,Indeciso
+Central,25000,Hombre,38,Postsecundaria,35000,-0.75159,No
+Central,87500,Mujer,19,Secundaria,7500,-0.96542,Indeciso
+Central,87500,Mujer,60,Primaria,15000,-0.16861,No
+Central,87500,Hombre,64,Primaria,7500,0.60565,Indeciso
+Central,87500,Hombre,25,Primaria,35000,0.36082,Abstención
+Central,87500,Mujer,60,Primaria,15000,0.1327,Indeciso
+Central,87500,Hombre,27,Postsecundaria,75000,-0.73188,No
+Central,87500,Hombre,26,Postsecundaria,35000,-1.14103,No
+Central,87500,Mujer,23,Postsecundaria,35000,-0.96823,No
+Central,87500,Mujer,60,Primaria,35000,1.03942,Sí
+Central,87500,Hombre,52,Postsecundaria,75000,-1.29617,No
+Central,87500,Mujer,45,Postsecundaria,35000,0.32782,Sí
+Central,87500,Mujer,23,Primaria,15000,-0.52933,Indeciso
+Central,87500,Mujer,35,Postsecundaria,75000,-1.26652,
+Central,87500,Hombre,43,Primaria,15000,-1.11878,No
+Central,87500,Hombre,35,Postsecundaria,75000,-1.29617,No
+Central,87500,Mujer,22,Primaria,2500,1.3924,Sí
+Central,87500,Hombre,22,Primaria,15000,-0.80408,No
+Central,87500,Mujer,51,Primaria,2500,1.47157,Sí
+Central,87500,Hombre,42,Primaria,15000,0.27852,Indeciso
+Central,87500,Hombre,44,Primaria,15000,-1.01069,Indeciso
+Central,175000,Mujer,37,Postsecundaria,35000,-1.05333,No
+Central,175000,Hombre,28,Primaria,15000,0.59039,
+Central,175000,Mujer,20,Secundaria,,0.31206,Indeciso
+Central,175000,Hombre,40,Postsecundaria,35000,-0.12877,No
+Central,175000,Mujer,19,Secundaria,7500,0.13374,Indeciso
+Central,175000,Mujer,28,Secundaria,7500,-1.11442,Indeciso
+Central,175000,Hombre,49,Primaria,15000,-1.19148,No
+Central,175000,Hombre,55,Primaria,15000,-0.55326,No
+Central,175000,Hombre,24,Primaria,15000,-1.25986,No
+Central,175000,Mujer,44,Secundaria,7500,-1.15622,Indeciso
+Central,175000,Hombre,20,Secundaria,15000,0.27435,Abstención
+Central,175000,Mujer,40,Postsecundaria,75000,0.79492,Indeciso
+Central,175000,Mujer,26,Secundaria,,0.15754,Indeciso
+Central,175000,Mujer,48,Primaria,,1.29284,Indeciso
+Central,175000,Hombre,49,Postsecundaria,200000,-1.21834,No
+Central,175000,Mujer,53,Secundaria,15000,1.5877,Sí
+Central,175000,Mujer,20,Primaria,2500,1.1384,Sí
+Central,175000,Hombre,20,Secundaria,15000,0.29898,Sí
+Central,175000,Mujer,27,Postsecundaria,35000,-1.18011,No
+Central,175000,Hombre,36,Postsecundaria,75000,-0.70445,No
+Central,175000,Mujer,18,Secundaria,75000,0.98417,Abstención
+Central,175000,Hombre,50,Primaria,15000,-1.29617,No
+Central,175000,Mujer,40,Primaria,15000,-1.29617,No
+Central,175000,Hombre,21,Secundaria,75000,-1.29617,No
+Central,175000,Hombre,43,Primaria,15000,-1.29617,No
+Central,175000,Mujer,23,Secundaria,7500,-0.81291,Abstención
+Central,175000,Mujer,39,Primaria,7500,1.5877,Sí
+Central,175000,Mujer,64,Primaria,,-1.80301,Indeciso
+Central,175000,Hombre,54,Secundaria,35000,1.21952,Indeciso
+Central,175000,Hombre,22,Secundaria,35000,0.74317,Sí
+Central,175000,Mujer,42,Primaria,15000,-1.29617,No
+Central,175000,Hombre,18,Secundaria,75000,0.90886,Abstención
+Central,175000,Mujer,20,Primaria,35000,-1.14456,No
+Central,175000,Mujer,29,Secundaria,15000,0.91463,Sí
+Central,175000,Hombre,40,Primaria,35000,0.78439,Indeciso
+Central,175000,Mujer,60,Primaria,7500,-1.15225,No
+Central,175000,Mujer,35,Primaria,15000,0.9464,Sí
+Central,175000,Hombre,39,Primaria,7500,0.42314,Indeciso
+Central,175000,Hombre,26,Secundaria,15000,-0.79157,No
+Central,175000,Hombre,25,Secundaria,125000,1.08773,
+Central,175000,Hombre,19,Postsecundaria,35000,0.35572,Sí
+Central,175000,Mujer,47,Primaria,15000,-0.32176,Indeciso
+Central,175000,Mujer,23,Secundaria,7500,-0.7989,Abstención
+Central,175000,Mujer,45,Primaria,7500,0.44717,Sí
+Central,175000,Hombre,52,Primaria,15000,1.22444,Indeciso
+Central,175000,Mujer,28,Postsecundaria,,1.49096,Sí
+Central,175000,Mujer,28,Postsecundaria,125000,0.06371,Sí
+Central,175000,Hombre,39,Postsecundaria,200000,-0.19457,No
+Central,175000,Mujer,41,Postsecundaria,75000,1.41116,Sí
+Central,175000,Hombre,30,Secundaria,15000,-0.61942,Indeciso
+Central,175000,Mujer,32,Secundaria,15000,-0.99973,No
+Central,175000,Hombre,29,Secundaria,35000,-1.07308,No
+Central,175000,Hombre,31,Postsecundaria,35000,-0.7163,No
+Central,175000,Hombre,37,Postsecundaria,35000,-0.47005,
+Central,175000,Mujer,42,Postsecundaria,35000,-1.00592,No
+Central,175000,Mujer,25,Secundaria,15000,-0.97034,Indeciso
+Central,175000,Mujer,58,Primaria,7500,0.06874,Indeciso
+Central,175000,Mujer,36,Secundaria,,,Indeciso
+Central,175000,Hombre,28,Secundaria,75000,-0.99275,No
+Central,175000,Hombre,40,Primaria,15000,-0.08067,Indeciso
+Central,25000,Mujer,29,Primaria,7500,-0.78136,Indeciso
+Central,25000,Mujer,54,Primaria,7500,0.26943,Indeciso
+Central,25000,Hombre,33,Primaria,15000,1.17576,Indeciso
+Central,25000,Mujer,37,Primaria,15000,1.47615,Sí
+Central,25000,Hombre,54,Primaria,7500,0.96198,Sí
+Central,25000,Hombre,65,Primaria,15000,0.79963,Sí
+Central,25000,Mujer,29,Secundaria,15000,-0.39404,Indeciso
+Central,25000,Hombre,19,Secundaria,35000,-0.73973,No
+Central,25000,Hombre,26,Postsecundaria,35000,-1.08349,No
+Central,25000,Mujer,45,Primaria,15000,1.56861,Sí
+Central,25000,Hombre,25,Primaria,7500,-1.14489,
+Central,25000,Mujer,40,Primaria,,1.12691,Sí
+Central,25000,Mujer,34,Secundaria,15000,-0.92196,Indeciso
+Central,25000,Hombre,39,Primaria,7500,-1.29617,No
+Central,25000,Hombre,36,Primaria,7500,0.80323,Sí
+Central,25000,Hombre,47,Secundaria,15000,0.29779,Sí
+Central,25000,Mujer,30,Primaria,7500,0.24277,Indeciso
+Central,25000,Mujer,59,Primaria,15000,1.5877,Sí
+Central,25000,Hombre,26,Postsecundaria,15000,-0.01365,Indeciso
+Central,25000,Hombre,23,Primaria,,-1.07036,No
+Central,62500,Mujer,45,Primaria,,0.1523,Sí
+Central,62500,Hombre,52,Primaria,2500,-0.9757,No
+Central,62500,Mujer,21,Primaria,15000,0.63187,Indeciso
+Central,62500,Hombre,19,Postsecundaria,75000,-0.64524,No
+Central,62500,Mujer,20,Secundaria,35000,0.81443,Sí
+Central,62500,Hombre,20,Secundaria,7500,0.71902,Sí
+Central,62500,Mujer,47,Primaria,15000,0.35864,Sí
+Central,62500,Mujer,25,Secundaria,15000,-1.08876,No
+Central,62500,Hombre,42,Secundaria,15000,1.09242,Sí
+Central,62500,Hombre,40,Primaria,35000,1.43653,Sí
+Central,62500,Mujer,29,Postsecundaria,75000,-0.83828,No
+Central,62500,Mujer,58,Primaria,15000,0.32249,Abstención
+Central,62500,Hombre,40,Postsecundaria,35000,-0.54836,No
+Central,62500,Hombre,27,Postsecundaria,35000,-1.25795,No
+Central,62500,Mujer,38,Secundaria,75000,0.04945,Sí
+Central,62500,Mujer,30,Secundaria,35000,0.78044,Indeciso
+Central,62500,Mujer,45,Primaria,35000,-1.25861,No
+Central,62500,Hombre,21,Secundaria,15000,0.0958,Indeciso
+Central,62500,Hombre,25,Secundaria,35000,-1.00739,No
+Central,62500,Hombre,50,Primaria,15000,-0.82423,No
+Central,15000,Hombre,28,Primaria,7500,1.55041,Indeciso
+Central,15000,Mujer,24,Secundaria,15000,1.21971,Indeciso
+Central,15000,Mujer,20,Secundaria,,0.36649,Sí
+Central,15000,Mujer,65,Secundaria,15000,0.25733,Sí
+Central,15000,Hombre,42,Secundaria,7500,-0.82337,No
+Central,15000,Mujer,48,Primaria,15000,0.57449,Sí
+Central,15000,Mujer,25,Primaria,15000,0.71863,Indeciso
+Central,15000,Hombre,34,Secundaria,,,Indeciso
+Central,15000,Hombre,46,Secundaria,35000,-0.2559,No
+Central,15000,Hombre,44,Primaria,35000,-0.25763,Indeciso
+Central,15000,Hombre,23,Primaria,15000,0.41138,Abstención
+Central,15000,Hombre,48,Primaria,7500,1.00124,Sí
+Central,15000,Hombre,29,Primaria,7500,1.28046,Sí
+Central,15000,Mujer,70,Primaria,7500,0.75321,
+Central,15000,Mujer,18,Primaria,2500,-0.76832,Sí
+Central,15000,Hombre,23,Secundaria,7500,0.02383,Sí
+Central,15000,Hombre,70,Primaria,7500,-1.29617,No
+Central,15000,Mujer,30,Secundaria,7500,1.31961,Indeciso
+Central,15000,Mujer,46,Primaria,2500,0.69169,Sí
+Central,15000,Hombre,70,Primaria,7500,1.3601,Sí
+Central,25000,Mujer,69,Primaria,7500,1.32047,Sí
+Central,25000,Hombre,56,Primaria,7500,1.4702,Indeciso
+Central,25000,Hombre,22,Primaria,7500,1.35787,Sí
+Central,25000,Hombre,27,Primaria,15000,1.3093,
+Central,25000,Hombre,34,Secundaria,15000,0.39928,Indeciso
+Central,25000,Mujer,19,Secundaria,15000,0.90219,Indeciso
+Central,25000,Mujer,20,Primaria,35000,1.08088,Sí
+Central,25000,Hombre,29,Secundaria,35000,0.65511,Indeciso
+Central,25000,Mujer,46,Primaria,2500,0.75797,Sí
+Central,25000,Hombre,61,Primaria,2500,1.47615,Sí
+Central,25000,Hombre,65,Primaria,15000,0.6589,Indeciso
+Central,25000,Mujer,41,Primaria,7500,1.4045,Sí
+Central,25000,Hombre,18,Primaria,2500,-1.22876,No
+Central,25000,Hombre,50,Primaria,7500,1.45616,Sí
+Central,25000,Mujer,28,Secundaria,15000,1.55465,Sí
+Central,25000,Mujer,19,Secundaria,7500,1.50229,Sí
+Central,25000,Hombre,27,Secundaria,15000,0.58726,Abstención
+Central,25000,Mujer,39,Primaria,7500,0.76371,Indeciso
+Central,25000,Hombre,70,Primaria,7500,1.04827,Indeciso
+Central,25000,Mujer,45,Primaria,7500,0.40629,Indeciso
+Central,25000,Mujer,39,Primaria,15000,0.43968,
+Central,25000,Mujer,32,Primaria,7500,1.5877,Sí
+Central,25000,Hombre,22,Secundaria,15000,-0.95379,No
+Central,25000,Mujer,60,Primaria,7500,1.5877,Sí
+Central,25000,Hombre,64,Primaria,7500,1.43653,Sí
+Central,25000,Mujer,40,Secundaria,,1.17767,Sí
+Central,25000,Mujer,30,Secundaria,35000,0.68807,Sí
+Central,25000,Hombre,65,Primaria,,1.5877,Sí
+Central,25000,Hombre,70,Primaria,,1.5877,Sí
+Central,25000,Hombre,24,Postsecundaria,15000,-1.19137,No
+Central,25000,Mujer,21,Primaria,15000,1.33829,Sí
+Central,25000,Mujer,49,Secundaria,7500,1.35481,Sí
+Central,25000,Mujer,21,Secundaria,,0.53658,Indeciso
+Central,25000,Hombre,54,Primaria,15000,0.9338,Indeciso
+Central,25000,Hombre,24,Primaria,15000,-1.22258,No
+Central,25000,Hombre,18,Secundaria,75000,-0.88064,No
+Central,25000,Hombre,62,Primaria,35000,1.55678,Indeciso
+Central,25000,Mujer,44,Primaria,7500,0.91033,Indeciso
+Central,25000,Mujer,18,Secundaria,35000,0.34316,Sí
+Central,25000,Hombre,27,Primaria,35000,-0.02385,Sí
+Sur,125000,Hombre,18,Secundaria,15000,1.29424,Sí
+Sur,125000,Hombre,44,Primaria,2500,-1.29617,No
+Sur,125000,Mujer,31,Postsecundaria,15000,-1.29617,No
+Sur,125000,Mujer,58,Secundaria,35000,-1.29617,No
+Sur,125000,Hombre,68,Primaria,7500,-1.29617,No
+Sur,125000,Mujer,47,Primaria,7500,1.54802,Sí
+Sur,125000,Mujer,32,Secundaria,,0.92815,Sí
+Sur,125000,Mujer,22,Primaria,7500,0.5492,Sí
+Sur,125000,Hombre,40,Postsecundaria,75000,1.43203,Sí
+Sur,125000,Hombre,35,Primaria,2500,1.17367,Sí
+Sur,125000,Hombre,65,Secundaria,15000,1.1643,Sí
+Sur,125000,Hombre,35,Primaria,15000,0.85852,Indeciso
+Sur,125000,Mujer,18,Primaria,7500,1.26956,Sí
+Sur,125000,Mujer,66,Secundaria,15000,0.40663,Abstención
+Sur,125000,Mujer,22,Secundaria,7500,0.96938,Sí
+Sur,125000,Hombre,23,Secundaria,15000,-0.73957,No
+Sur,125000,Hombre,60,Primaria,2500,0.6589,Indeciso
+Sur,125000,Mujer,55,Primaria,,-0.09889,
+Sur,125000,Hombre,21,Primaria,2500,1.25084,Sí
+Sur,125000,Mujer,54,Primaria,15000,0.69887,Sí
+Sur,45000,Hombre,40,Primaria,75000,0.46287,Indeciso
+Sur,45000,Mujer,19,Secundaria,15000,0.81279,Indeciso
+Sur,45000,Hombre,32,Primaria,75000,0.99576,Indeciso
+Sur,45000,Mujer,54,Primaria,75000,0.23543,Indeciso
+Sur,45000,Hombre,35,Primaria,2500,1.00383,Indeciso
+Sur,45000,Mujer,19,Postsecundaria,15000,-0.5488,Indeciso
+Sur,45000,Mujer,40,Primaria,7500,0.66545,Indeciso
+Sur,45000,Hombre,25,Primaria,2500,1.25306,Sí
+Sur,45000,Hombre,48,Secundaria,35000,-1.29617,No
+Sur,45000,Hombre,37,Postsecundaria,35000,0.19914,Sí
+Sur,45000,Mujer,32,Secundaria,7500,0.21006,Indeciso
+Sur,45000,Mujer,18,Secundaria,7500,1.31037,Sí
+Sur,45000,Hombre,53,Postsecundaria,75000,1.48547,Sí
+Sur,45000,Hombre,25,Postsecundaria,35000,1.1538,Sí
+Sur,45000,Mujer,45,Primaria,2500,-0.60865,Indeciso
+Sur,45000,Mujer,54,Secundaria,7500,-0.2688,No
+Sur,45000,Mujer,60,Primaria,75000,-0.89149,Sí
+Sur,45000,Mujer,18,Primaria,75000,-0.97181,No
+Sur,45000,Mujer,49,Postsecundaria,2500,-0.86092,No
+Sur,45000,Hombre,30,Primaria,7500,1.04754,Sí
+Sur,15000,Hombre,33,Primaria,7500,0.20483,Sí
+Sur,15000,Mujer,36,Primaria,7500,-1.26247,No
+Sur,15000,Hombre,62,Primaria,2500,1.30792,Sí
+Sur,15000,Mujer,21,Secundaria,15000,-0.78802,No
+Sur,15000,Hombre,36,Primaria,15000,-0.72822,No
+Sur,15000,Mujer,65,Primaria,7500,0.82519,Indeciso
+Sur,15000,Mujer,22,Postsecundaria,7500,0.24983,Indeciso
+Sur,15000,Hombre,25,Secundaria,15000,-1.18323,No
+Sur,15000,Hombre,63,Primaria,2500,1.43793,Sí
+Sur,15000,Hombre,26,Secundaria,35000,-1.10367,No
+Sur,15000,Hombre,67,Secundaria,2500,-0.82983,Indeciso
+Sur,15000,Hombre,25,Primaria,35000,-0.40224,Abstención
+Sur,15000,Mujer,30,Secundaria,35000,0.2461,Indeciso
+Sur,15000,Mujer,70,Primaria,7500,-1.16134,Indeciso
+Sur,15000,Mujer,27,Secundaria,15000,1.40733,Indeciso
+Sur,15000,Hombre,27,Postsecundaria,35000,-0.50424,No
+Sur,15000,Mujer,61,Primaria,7500,1.1493,Sí
+Sur,15000,Hombre,27,Primaria,2500,1.09701,Sí
+Sur,15000,Mujer,70,Primaria,7500,0.86323,Indeciso
+Sur,15000,Hombre,53,Secundaria,35000,0.71448,Sí
+Sur,8750,Hombre,36,Primaria,7500,1.0188,Sí
+Sur,8750,Hombre,19,Primaria,7500,0.83115000000000006,Sí
+Sur,8750,Hombre,28,Secundaria,15000,-1.00723,No
+Sur,8750,Mujer,50,Primaria,7500,-1.08585,No
+Sur,8750,Mujer,20,Primaria,2500,-0.96528,No
+Sur,8750,Hombre,65,Primaria,7500,0.93522,Sí
+Sur,8750,Mujer,36,Primaria,7500,1.55399,Sí
+Sur,8750,Hombre,60,Secundaria,125000,0.97823,Sí
+Sur,8750,Mujer,28,Secundaria,35000,1.40361,Sí
+Sur,8750,Hombre,28,Secundaria,35000,1.33246,Sí
+Sur,8750,Mujer,48,Secundaria,7500,1.43732,Sí
+Sur,8750,Hombre,58,Primaria,7500,1.5877,Sí
+Sur,8750,Mujer,25,Secundaria,2500,-0.93058,Indeciso
+Sur,8750,Hombre,60,Primaria,7500,1.25541,Indeciso
+Sur,8750,Hombre,23,Secundaria,15000,-0.61822,
+Sur,8750,Mujer,25,Secundaria,15000,0.10978,Indeciso
+Sur,8750,Mujer,19,Secundaria,35000,0.81609,Sí
+Sur,8750,Hombre,23,Secundaria,75000,1.32935,Sí
+Sur,8750,Mujer,59,Primaria,15000,0.07679,Indeciso
+Sur,8750,Hombre,37,Primaria,15000,1.51284,No
+Sur,125000,Mujer,37,Primaria,15000,0.01293,Abstención
+Sur,125000,Mujer,31,Secundaria,7500,0.90908,Sí
+Sur,125000,Hombre,27,Primaria,7500,-1.1464,No
+Sur,125000,Hombre,41,Secundaria,15000,-0.9406,No
+Sur,125000,Hombre,37,Primaria,15000,0.74986,Sí
+Sur,125000,Hombre,68,Primaria,15000,0.38388,Indeciso
+Sur,125000,Hombre,25,Primaria,7500,0.3898,Indeciso
+Sur,125000,Hombre,25,Primaria,7500,0.96249,Sí
+Sur,125000,Mujer,42,Primaria,7500,0.401,Sí
+Sur,125000,Mujer,23,Primaria,2500,1.5877,Sí
+Sur,125000,Mujer,32,Secundaria,15000,1.55477,Sí
+Sur,125000,Hombre,59,Secundaria,2500,-0.69048,Sí
+Sur,125000,Hombre,28,Secundaria,15000,1.36539,Sí
+Sur,125000,Mujer,37,Secundaria,15000,-0.40457,Indeciso
+Sur,125000,Mujer,42,Primaria,15000,1.39692,Sí
+Sur,125000,Hombre,36,Secundaria,35000,0.16282,Sí
+Sur,125000,Hombre,26,Secundaria,35000,1.25257,Sí
+Sur,125000,Mujer,42,Primaria,15000,0.31096,Sí
+Sur,125000,Mujer,18,Secundaria,35000,1.40361,Sí
+Sur,125000,Mujer,35,Postsecundaria,35000,-0.31346,No
+Sur,25000,Mujer,23,Primaria,35000,-0.78492,Abstención
+Sur,25000,Mujer,45,Primaria,15000,1.27441,Sí
+Sur,25000,Hombre,20,Postsecundaria,35000,-0.3202,Abstención
+Sur,25000,Hombre,62,Primaria,15000,0.99792,Sí
+Sur,25000,Hombre,50,Primaria,35000,0.1526,Abstención
+Sur,25000,Mujer,21,Primaria,15000,1.09549,Sí
+Sur,25000,Mujer,40,Primaria,35000,0.10905,Sí
+Sur,25000,Hombre,67,Primaria,15000,-0.87023,Indeciso
+Sur,25000,Hombre,19,Primaria,35000,-0.97943,No
+Sur,25000,Hombre,22,Secundaria,15000,-0.08141,Sí
+Sur,25000,Hombre,48,Postsecundaria,15000,0.80633,Sí
+Sur,25000,Mujer,49,Primaria,7500,0.13589,Indeciso
+Sur,25000,Hombre,27,Primaria,15000,-0.0728,Indeciso
+Sur,25000,Mujer,38,Secundaria,15000,1.27567,Sí
+Sur,25000,Hombre,23,Secundaria,15000,-0.96901,No
+Sur,25000,Mujer,47,Primaria,7500,0.14576,Sí
+Sur,25000,Mujer,35,Secundaria,7500,1.54808,Sí
+Sur,25000,Hombre,24,Secundaria,2500,0.24455,Sí
+Sur,25000,Mujer,22,Secundaria,15000,1.43793,Sí
+Sur,25000,Hombre,54,Primaria,7500,-0.91601,Indeciso
+Sur,25000,Mujer,25,Secundaria,7500,1.21252,Abstención
+Sur,25000,Hombre,59,Primaria,2500,1.39241,Sí
+Sur,25000,Hombre,30,Secundaria,7500,-0.37017,Sí
+Sur,25000,Hombre,26,Primaria,7500,1.18326,Sí
+Sur,25000,Mujer,41,Secundaria,15000,1.36173,Sí
+Sur,25000,Mujer,52,Primaria,2500,-0.79576,Indeciso
+Sur,25000,Mujer,21,Postsecundaria,15000,-1.29617,No
+Sur,25000,Hombre,36,Primaria,7500,-0.0493,No
+Sur,25000,Hombre,28,Primaria,2500,0.13858,Indeciso
+Sur,25000,Hombre,42,Primaria,2500,0.12341,Sí
+Sur,25000,Mujer,22,Postsecundaria,35000,-0.7125,No
+Sur,25000,Mujer,36,Secundaria,35000,-0.0338,Indeciso
+Sur,25000,Mujer,36,Postsecundaria,35000,0.21687,Indeciso
+Sur,25000,Hombre,57,Primaria,7500,-0.43126,Indeciso
+Sur,25000,Hombre,20,Primaria,7500,0.2575,Sí
+Sur,25000,Mujer,37,Primaria,2500,1.5877,Sí
+Sur,25000,Hombre,23,Secundaria,2500,-1.19739,No
+Sur,25000,Mujer,24,Primaria,2500,1.46885,Sí
+Sur,25000,Mujer,29,Primaria,7500,1.3587,Abstención
+Sur,25000,Hombre,55,Primaria,7500,1.47615,Sí
+Sur,250000,Hombre,48,Postsecundaria,35000,0.40498,Sí
+Sur,250000,Mujer,23,Secundaria,35000,-1.29293,No
+Sur,250000,Hombre,40,Secundaria,35000,-1.1517,No
+Sur,250000,Hombre,20,Secundaria,35000,0.98762,Sí
+Sur,250000,Mujer,38,Postsecundaria,75000,0.05047,Sí
+Sur,250000,Mujer,26,Secundaria,15000,-0.88716,No
+Sur,250000,Mujer,49,Secundaria,15000,-1.07783,Abstención
+Sur,250000,Hombre,55,Secundaria,35000,-0.1693,No
+Sur,250000,Hombre,39,Postsecundaria,75000,-0.9353,No
+Sur,250000,Hombre,33,Primaria,,-1.03486,No
+Sur,250000,Mujer,18,Secundaria,200000,0.11608,Indeciso
+Sur,250000,Mujer,65,Primaria,,0.32554,Sí
+Sur,250000,Hombre,21,Postsecundaria,75000,-0.80281,No
+Sur,250000,Mujer,33,Secundaria,75000,-1.0632,No
+Sur,250000,Hombre,42,Postsecundaria,125000,-1.03503,No
+Sur,250000,Mujer,24,Secundaria,35000,1.26582,Sí
+Sur,250000,Mujer,21,Secundaria,15000,-0.05113,Sí
+Sur,250000,Hombre,33,Postsecundaria,15000,0.30861,
+Sur,250000,Hombre,52,Postsecundaria,7500,0.51881,Indeciso
+Sur,250000,Mujer,70,Secundaria,75000,1.25757,Indeciso
+Sur,250000,Mujer,26,Primaria,7500,0.64423,Sí
+Sur,250000,Mujer,53,Primaria,7500,-0.07279,No
+Sur,250000,Hombre,21,Primaria,15000,0.53116,Sí
+Sur,250000,Mujer,34,Primaria,15000,0.52985,Indeciso
+Sur,250000,Hombre,60,Primaria,35000,1.40283,Sí
+Sur,250000,Mujer,28,Secundaria,7500,-1.14049,No
+Sur,250000,Mujer,19,Secundaria,35000,-1.09015,No
+Sur,250000,Hombre,45,Postsecundaria,35000,-0.56055,No
+Sur,250000,Hombre,18,Secundaria,15000,-0.92939,No
+Sur,250000,Mujer,42,Primaria,35000,-0.15489,
+Sur,250000,Hombre,30,Primaria,15000,1.06038,
+Sur,250000,Hombre,21,Secundaria,15000,-0.16832,No
+Sur,250000,Mujer,37,Primaria,35000,1.04304,Sí
+Sur,250000,Mujer,24,Primaria,7500,-0.88666,Sí
+Sur,250000,Hombre,36,Postsecundaria,75000,-1.2204,No
+Sur,250000,Mujer,39,Postsecundaria,200000,-1.19438,No
+Sur,250000,Mujer,18,Postsecundaria,,0.37771,Sí
+Sur,250000,Mujer,40,Postsecundaria,200000,1.3454,Sí
+Sur,250000,Hombre,55,Postsecundaria,200000,-1.21974,No
+Sur,250000,Hombre,22,Postsecundaria,15000,-0.81078,No
+Sur,250000,Hombre,42,Secundaria,15000,-1.03314,
+Sur,250000,Mujer,26,Primaria,7500,0.02034,Indeciso
+Sur,250000,Hombre,25,Postsecundaria,35000,1.3274,Sí
+Sur,250000,Mujer,51,Secundaria,15000,-1.0312,Indeciso
+Sur,250000,Mujer,39,Primaria,75000,-0.28245,No
+Sur,250000,Mujer,39,Secundaria,15000,-1.30713,No
+Sur,250000,Mujer,50,,2500,-1.29617,No
+Sur,250000,Hombre,22,Postsecundaria,35000,-1.1517,No
+Sur,250000,Mujer,21,Secundaria,35000,-1.01948,Indeciso
+Sur,250000,Hombre,47,Secundaria,15000,-0.97273,No
+Sur,250000,Mujer,23,Secundaria,2500,1.35949,Sí
+Sur,250000,Mujer,40,Primaria,2500,-1.29617,
+Sur,250000,Hombre,32,Secundaria,7500,0.43679,Indeciso
+Sur,250000,Hombre,29,Postsecundaria,,0.96494,Sí
+Sur,250000,Hombre,37,Secundaria,15000,-0.48129,No
+Sur,250000,Mujer,24,Secundaria,15000,-1.18602,No
+Sur,250000,Hombre,18,Secundaria,,-1.10618,
+Sur,250000,Mujer,58,Primaria,35000,0.3561,
+Sur,250000,Hombre,65,Primaria,15000,-1.29617,No
+Sur,250000,Mujer,65,Primaria,15000,-0.22181,Indeciso
+Sur,250000,Mujer,57,Primaria,35000,,
+Sur,250000,Hombre,41,Secundaria,75000,-0.78299,No
+Sur,250000,Hombre,30,Postsecundaria,75000,-0.85229,
+Sur,250000,Mujer,22,Secundaria,15000,-0.86098,
+Sur,250000,Hombre,27,Postsecundaria,35000,,Indeciso
+Sur,250000,Hombre,22,Secundaria,15000,-0.69824,No
+Sur,250000,Hombre,48,Primaria,2500,-1.09862,Abstención
+Sur,250000,Mujer,40,Primaria,2500,-1.22285,No
+Sur,250000,Hombre,29,Secundaria,,0.01222,Indeciso
+Sur,250000,Mujer,24,Postsecundaria,200000,0.75867,Indeciso
+Sur,250000,Hombre,62,Primaria,35000,-1.10181,Indeciso
+Sur,250000,Mujer,30,Secundaria,7500,-0.72077,No
+Sur,250000,Hombre,31,Postsecundaria,15000,-1.05625,No
+Sur,250000,Hombre,29,Postsecundaria,15000,-0.08136,No
+Sur,250000,Mujer,48,Primaria,7500,-1.29617,No
+Sur,250000,Mujer,53,Primaria,2500,0.55703,Sí
+Sur,250000,Mujer,22,Primaria,15000,-1.05197,Sí
+Sur,250000,Hombre,30,Secundaria,7500,-1.04084,No
+Sur,250000,Hombre,43,Secundaria,15000,-1.29617,No
+Sur,250000,Hombre,38,Secundaria,15000,-1.21232,No
+Sur,250000,Mujer,39,Secundaria,125000,-0.43399,Indeciso
+Sur,250000,Hombre,40,Postsecundaria,75000,-1.11744,No
+Sur,250000,Mujer,66,Postsecundaria,75000,-1.04075,No
+Sur,250000,Hombre,30,Postsecundaria,75000,-1.06681,No
+Sur,250000,Mujer,26,Secundaria,35000,1.39831,Sí
+Sur,250000,Mujer,28,Secundaria,7500,-1.00003,No
+Sur,250000,Hombre,35,Primaria,15000,0.34456,Sí
+Sur,250000,Mujer,46,Secundaria,2500,1.07149,Indeciso
+Sur,250000,Mujer,19,Secundaria,35000,0.25636,Abstención
+Sur,250000,Hombre,65,Primaria,2500,-1.29617,No
+Sur,250000,Hombre,22,Secundaria,35000,-0.29019,Sí
+Sur,250000,Mujer,53,Primaria,2500,1.5877,Sí
+Sur,250000,Mujer,18,Primaria,2500,0.43869,No
+Sur,250000,Hombre,48,Primaria,,-0.15992,
+Sur,250000,Hombre,33,Secundaria,35000,-0.97949,No
+Sur,250000,Hombre,53,Primaria,7500,-1.10088,No
+Sur,250000,Hombre,33,Primaria,15000,1.47476,Sí
+Sur,250000,Hombre,37,Primaria,15000,-0.05639,Indeciso
+Sur,250000,Mujer,34,Primaria,7500,-0.9089,No
+Sur,250000,Mujer,36,Primaria,15000,0.47789,Sí
+Sur,250000,Mujer,36,Secundaria,7500,-0.75762,Indeciso
+Sur,250000,Mujer,38,Secundaria,75000,-0.67253,No
+Sur,250000,Hombre,36,Secundaria,35000,1.22715,
+Sur,250000,Hombre,22,Secundaria,15000,-0.88058,No
+Sur,250000,Mujer,18,Postsecundaria,35000,-1.06673,No
+Sur,250000,Mujer,31,Postsecundaria,75000,-1.07899,No
+Sur,250000,Mujer,55,Primaria,,-1.2727,Indeciso
+Sur,250000,Mujer,70,Primaria,75000,,Indeciso
+Sur,250000,Mujer,18,Secundaria,7500,-0.99975,No
+Sur,250000,Mujer,36,Secundaria,15000,-0.71567,Abstención
+Sur,250000,Hombre,56,Postsecundaria,35000,-1.20544,No
+Sur,250000,Mujer,70,Secundaria,35000,1.43203,No
+Sur,250000,Hombre,29,Postsecundaria,,-1.25656,No
+Sur,250000,Mujer,22,Postsecundaria,7500,-1.29617,No
+Sur,250000,Mujer,40,Secundaria,35000,1.33821,
+Sur,250000,Hombre,45,Postsecundaria,35000,-0.92947,
+Sur,250000,Hombre,30,Primaria,15000,0.25023,Sí
+Sur,250000,Mujer,44,Primaria,7500,0.38898,Abstención
+Sur,250000,Mujer,25,Secundaria,15000,0.81611,Sí
+Sur,250000,Mujer,48,Primaria,7500,-0.11207,Indeciso
+Sur,25000,Mujer,22,Postsecundaria,15000,-1.06129,No
+Sur,25000,Mujer,63,Primaria,15000,-0.27926,Sí
+Sur,25000,Hombre,57,Primaria,15000,0.74066,Sí
+Sur,25000,Hombre,22,Secundaria,35000,-1.19945,No
+Sur,25000,Hombre,25,Primaria,7500,-1.09176,Indeciso
+Sur,25000,Mujer,21,Secundaria,2500,-0.80256,No
+Sur,25000,Mujer,51,Postsecundaria,35000,1.38626,Sí
+Sur,25000,Hombre,70,Primaria,15000,-0.48681,Indeciso
+Sur,25000,Hombre,36,Postsecundaria,15000,-0.90237,No
+Sur,25000,Hombre,25,Primaria,15000,-0.79222,No
+Sur,25000,Mujer,24,Postsecundaria,15000,0.58929,Indeciso
+Sur,25000,Hombre,58,Secundaria,75000,1.55477,Sí
+Sur,25000,Mujer,59,Primaria,15000,-1.29617,No
+Sur,25000,Hombre,28,Primaria,7500,-1.1195600000000001,No
+Sur,25000,Mujer,21,Secundaria,35000,-0.40754,No
+Sur,25000,Hombre,21,Postsecundaria,15000,-0.79464,No
+Sur,25000,Mujer,38,Postsecundaria,75000,-1.29617,No
+Sur,25000,Hombre,70,Primaria,35000,-0.91196,Indeciso
+Sur,25000,Mujer,60,Secundaria,15000,1.43203,Sí
+Sur,25000,Mujer,25,Primaria,15000,-0.76597,No
+Sur,15000,Mujer,38,Primaria,15000,-0.60892,Indeciso
+Sur,15000,Mujer,24,Secundaria,7500,1.27453,Indeciso
+Sur,15000,Hombre,20,Primaria,7500,-0.44311,No
+Sur,15000,Hombre,58,Primaria,7500,1.46885,Sí
+Sur,15000,Hombre,58,Primaria,7500,1.68819,Sí
+Sur,15000,Mujer,69,Secundaria,15000,1.03459,Sí
+Sur,15000,Hombre,29,Primaria,15000,0.32316,Sí
+Sur,15000,Mujer,34,Secundaria,35000,-0.38947,Indeciso
+Sur,15000,Mujer,47,Secundaria,7500,-1.00879,No
+Sur,15000,Mujer,62,Primaria,7500,0.24454,Indeciso
+Sur,15000,Mujer,27,Secundaria,7500,-1.00877,No
+Sur,15000,Hombre,69,Primaria,7500,1.5877,Sí
+Sur,15000,Mujer,70,Primaria,7500,0.90441,Sí
+Sur,15000,Hombre,35,Primaria,7500,0.17868,Sí
+Sur,15000,Hombre,19,Secundaria,15000,-0.86197,No
+Sur,15000,Mujer,37,Primaria,7500,1.5877,Sí
+Sur,15000,Mujer,21,Secundaria,15000,-0.99603,No
+Sur,15000,Hombre,20,Primaria,7500,-0.96762,No
+Sur,15000,Hombre,61,Primaria,7500,0.27293,
+Sur,15000,Hombre,19,Secundaria,35000,0.11796,Indeciso
+Sur,45000,Hombre,28,Secundaria,15000,-1.1464,No
+Sur,45000,Mujer,27,Primaria,15000,-1.07534,
+Sur,45000,Hombre,41,Secundaria,35000,-0.21053,No
+Sur,45000,Hombre,23,Primaria,2500,0.95611,No
+Sur,45000,Mujer,53,Primaria,15000,0.13473,
+Sur,45000,Mujer,36,Secundaria,15000,-1.04877,No
+Sur,45000,Mujer,27,Secundaria,7500,-1.21695,No
+Sur,45000,Hombre,64,Secundaria,15000,-0.88369,No
+Sur,45000,Hombre,31,Secundaria,7500,-1.04155,No
+Sur,45000,Hombre,49,Postsecundaria,7500,0.4324,Sí
+Sur,45000,Hombre,25,Postsecundaria,15000,-1.29617,No
+Sur,45000,Mujer,33,Primaria,7500,-0.25351,No
+Sur,45000,Mujer,22,Primaria,15000,-0.72379,Sí
+Sur,45000,Hombre,63,Primaria,35000,0.81197,Sí
+Sur,45000,Mujer,67,Primaria,7500,-0.62189,No
+Sur,45000,Mujer,26,Secundaria,7500,-1.22285,Indeciso
+Sur,45000,Mujer,49,Primaria,15000,-1.29617,No
+Sur,45000,Hombre,65,Secundaria,15000,-0.51411,
+Sur,45000,Mujer,44,Primaria,35000,-0.15201,
+Sur,45000,Hombre,30,Postsecundaria,15000,-0.51062,No
+Sur,25000,Mujer,58,Primaria,2500,-0.93163,No
+Sur,25000,Hombre,66,Primaria,2500,1.48145,Sí
+Sur,25000,Mujer,37,Primaria,7500,0.93681,Indeciso
+Sur,25000,Mujer,28,Primaria,7500,1.25522,Sí
+Sur,25000,Hombre,20,Secundaria,2500,0.0072,No
+Sur,25000,Hombre,49,Primaria,7500,1.29306,Sí
+Sur,25000,Mujer,30,Secundaria,7500,1.5877,Sí
+Sur,25000,Mujer,67,Primaria,15000,1.39971,Sí
+Sur,25000,Mujer,31,Primaria,7500,1.24248,Sí
+Sur,25000,Hombre,33,Secundaria,15000,-0.20032,Indeciso
+Sur,25000,Hombre,29,Primaria,2500,-1.29617,No
+Sur,25000,Hombre,69,Primaria,7500,1.18476,Sí
+Sur,25000,Mujer,27,Secundaria,15000,0.35728,Sí
+Sur,25000,Mujer,43,Primaria,7500,-0.86824,
+Sur,25000,Hombre,64,Primaria,,-1.05791,Abstención
+Sur,25000,Mujer,20,Primaria,2500,1.22013,Sí
+Sur,25000,Mujer,38,Primaria,15000,0.95449,Sí
+Sur,25000,Hombre,64,Primaria,,0.34505,No
+Sur,25000,Hombre,24,Secundaria,7500,0.36676,No
+Sur,25000,Hombre,34,Postsecundaria,15000,0.06712,Abstención
+Sur,8750,Hombre,28,Postsecundaria,75000,-0.18762,Abstención
+Sur,8750,Hombre,70,Primaria,7500,0.94771,Indeciso
+Sur,8750,Mujer,38,Secundaria,15000,1.18423,Sí
+Norte,8750,Mujer,32,Primaria,7500,1.22566,Sí
+Sur,8750,Hombre,32,Secundaria,75000,1.35949,
+Sur,8750,Mujer,24,Primaria,7500,1.38957,Sí
+Sur,8750,Mujer,37,Secundaria,7500,1.33244,Sí
+Sur,8750,Hombre,50,Primaria,7500,1.5935,Sí
+Sur,8750,Hombre,50,Primaria,7500,1.19527,Sí
+Sur,8750,Hombre,29,Primaria,15000,1.35218,Indeciso
+Sur,8750,Hombre,26,Secundaria,7500,1.2728,Sí
+Sur,8750,Hombre,37,Postsecundaria,7500,-1.04106,No
+Sur,8750,Mujer,20,Primaria,2500,1.47476,Sí
+Sur,8750,Mujer,36,Primaria,35000,-0.98395,Indeciso
+Sur,8750,Hombre,38,Primaria,15000,1.5038,Sí
+Sur,8750,Mujer,26,Primaria,7500,1.20337,Sí
+Sur,8750,Hombre,46,Secundaria,7500,1.44322,Sí
+Sur,8750,Mujer,68,Primaria,15000,0.06376,Indeciso
+Sur,8750,Mujer,37,Primaria,2500,1.456,Sí
+Sur,8750,Hombre,34,Postsecundaria,75000,0.8459,Indeciso
+Sur,45000,Mujer,46,Postsecundaria,35000,1.17549,Sí
+Sur,45000,Hombre,47,Secundaria,75000,-1.22876,No
+Sur,45000,Mujer,20,Secundaria,35000,0.2422,No
+Sur,45000,Hombre,26,Primaria,15000,0.67166,Sí
+Sur,45000,Hombre,19,Secundaria,75000,1.21306,Sí
+Sur,45000,Mujer,32,Postsecundaria,15000,1.21501,
+Sur,45000,Mujer,20,Secundaria,15000,1.19375,Sí
+Sur,45000,Mujer,65,Primaria,7500,1.5877,Sí
+Sur,45000,Hombre,45,Primaria,7500,1.5877,Sí
+Sur,45000,Hombre,27,Secundaria,35000,0.83702,Sí
+Sur,45000,Mujer,40,Postsecundaria,35000,0.91251,Indeciso
+Sur,45000,Mujer,33,Postsecundaria,15000,1.47024,Sí
+Sur,45000,Hombre,37,Postsecundaria,35000,-0.26722,No
+Sur,45000,Mujer,39,Primaria,,1.31511,Sí
+Sur,45000,Hombre,29,Secundaria,35000,-0.68978,
+Sur,45000,Hombre,32,Primaria,35000,1.3526,Sí
+Sur,45000,Mujer,30,Primaria,7500,0.07743,Abstención
+Sur,45000,Mujer,44,Primaria,15000,1.13002,Sí
+Sur,45000,Mujer,60,Primaria,7500,1.29953,Indeciso
+Sur,45000,Hombre,37,Secundaria,15000,-1.15543,Abstención
+Sur,25000,Mujer,58,Primaria,7500,0.50186,No
+Sur,25000,Hombre,35,Primaria,15000,0.10046,Indeciso
+Sur,25000,Hombre,47,Secundaria,35000,1.47615,Sí
+Sur,25000,Mujer,45,Primaria,7500,0.02279,Abstención
+Sur,25000,Mujer,20,Secundaria,,1.27928,Sí
+Sur,25000,Mujer,45,Primaria,7500,1.5877,Sí
+Sur,25000,Hombre,21,Secundaria,15000,1.08435,Sí
+Sur,25000,Mujer,18,Postsecundaria,35000,1.36539,Sí
+Sur,25000,Mujer,25,Postsecundaria,35000,-1.29617,No
+Sur,25000,Hombre,65,Postsecundaria,35000,-1.22876,No
+Sur,25000,Mujer,47,Primaria,2500,1.5877,Sí
+Sur,25000,Hombre,56,Primaria,7500,0.229,No
+Sur,25000,Hombre,59,Primaria,15000,-0.2766,Sí
+Sur,25000,Mujer,23,Primaria,7500,0.27658,Sí
+Sur,25000,Hombre,19,Secundaria,15000,1.29798,Sí
+Sur,25000,Hombre,38,Secundaria,35000,-0.28181,No
+Sur,25000,Mujer,48,Primaria,7500,0.36525,Sí
+Sur,25000,Hombre,27,Primaria,7500,1.47024,Sí
+Sur,25000,Mujer,18,Primaria,7500,-1.29617,No
+Sur,25000,Hombre,26,Primaria,7500,0.9508,Sí
+Sur,25000,Hombre,24,Primaria,15000,-1.15693,No
+Sur,25000,Hombre,29,Secundaria,15000,-0.33243,No
+Sur,25000,Mujer,33,Primaria,7500,1.29012,Sí
+Sur,25000,Mujer,58,Primaria,7500,,Sí
+Sur,25000,Hombre,36,Secundaria,15000,1.50846,Sí
+Sur,25000,Hombre,35,Secundaria,35000,1.00996,Sí
+Sur,25000,Mujer,54,Secundaria,35000,-1.21695,No
+Sur,25000,Mujer,20,Secundaria,35000,0.41846,Indeciso
+Sur,25000,Hombre,46,Secundaria,75000,1.48735,Sí
+Sur,25000,Mujer,24,Secundaria,35000,-0.26866,No
+Sur,25000,Mujer,24,Primaria,2500,0.90932,Sí
+Sur,25000,Hombre,20,Postsecundaria,35000,-0.08054,Sí
+Sur,25000,Hombre,41,Secundaria,35000,0.82505,Sí
+Sur,25000,Hombre,48,Primaria,15000,-0.70898,No
+Sur,25000,Mujer,50,Primaria,35000,0.14576,Indeciso
+Sur,25000,Mujer,34,Primaria,7500,1.2641,Sí
+Sur,25000,Hombre,43,Primaria,15000,0.97998,Sí
+Sur,25000,Hombre,18,Secundaria,7500,-0.85414,No
+Sur,25000,Mujer,36,Primaria,7500,1.58486,Sí
+Sur,25000,Mujer,57,Primaria,7500,-0.35168,No
+Sur,250000,Hombre,21,Postsecundaria,7500,0.62396,Abstención
+Sur,250000,Hombre,36,Postsecundaria,75000,1.43653,Sí
+Sur,250000,Mujer,43,Primaria,7500,-0.20299,Sí
+Sur,250000,Mujer,30,Secundaria,35000,-0.82983,Indeciso
+Sur,250000,Mujer,33,Secundaria,15000,0.32316,Indeciso
+Sur,250000,Mujer,38,Primaria,15000,-0.44442,No
+Sur,250000,Hombre,28,Secundaria,15000,-0.07212,Indeciso
+Sur,250000,Mujer,36,Secundaria,15000,0.91548,Indeciso
+Sur,250000,Mujer,22,Secundaria,35000,0.32842,Sí
+Sur,250000,Hombre,36,Secundaria,35000,1.12564,Sí
+Sur,250000,Mujer,32,Postsecundaria,35000,0.2002,Abstención
+Sur,250000,Hombre,29,Secundaria,75000,-1.08646,No
+Sur,250000,Mujer,31,Secundaria,75000,0.18242,Indeciso
+Sur,250000,Hombre,45,Secundaria,75000,1.01395,Sí
+Sur,250000,Mujer,38,Secundaria,35000,-1.29617,No
+Sur,250000,Hombre,56,Secundaria,35000,-0.93647,Indeciso
+Sur,250000,Hombre,48,Primaria,35000,0.11316,Sí
+Sur,250000,Mujer,29,Postsecundaria,200000,-1.29617,No
+Sur,250000,Mujer,49,Secundaria,125000,0.06119,Sí
+Sur,250000,Hombre,18,Secundaria,75000,-1.22285,No
+Sur,250000,Mujer,32,Postsecundaria,75000,1.01661,Sí
+Sur,250000,Mujer,57,Secundaria,35000,0.27836,Indeciso
+Sur,250000,Mujer,39,Primaria,7500,-0.55281,No
+Sur,250000,Hombre,25,Secundaria,15000,-0.48886,Indeciso
+Sur,250000,Hombre,65,Postsecundaria,35000,-1.23032,No
+Sur,250000,Mujer,52,Primaria,15000,-0.87337,No
+Sur,250000,Hombre,64,Primaria,7500,-1.12468,No
+Sur,250000,Mujer,38,Secundaria,2500,0.47106,Indeciso
+Sur,250000,Mujer,35,Primaria,35000,0.65343,Indeciso
+Sur,250000,Hombre,20,Primaria,15000,-0.68757,No
+Sur,250000,Mujer,40,Primaria,7500,-0.03691,Sí
+Sur,250000,Mujer,21,Secundaria,7500,1.1925,Abstención
+Sur,250000,Hombre,68,Secundaria,35000,-1.04094,No
+Sur,250000,Hombre,31,Primaria,15000,1.36267,Sí
+Sur,250000,Hombre,23,Secundaria,125000,-1.06402,No
+Sur,250000,Mujer,45,Primaria,35000,1.69876,
+Sur,250000,Mujer,18,Secundaria,35000,-1.16969,Indeciso
+Sur,250000,Mujer,31,Secundaria,7500,0.59524,Indeciso
+Sur,250000,Hombre,22,Secundaria,35000,-0.96697,No
+Sur,250000,Hombre,37,Secundaria,35000,1.36617,Abstención
+Sur,15000,Mujer,59,Primaria,75000,1.325,Sí
+Sur,15000,Mujer,23,Secundaria,35000,1.51515,Sí
+Sur,15000,Hombre,38,Primaria,15000,0.23917,Indeciso
+Sur,15000,Hombre,21,Secundaria,,-0.33534,Abstención
+Sur,15000,Hombre,31,Secundaria,35000,0.50833,
+Sur,15000,Mujer,41,Primaria,7500,-0.72318,No
+Sur,15000,Hombre,43,Primaria,15000,0.59896,Sí
+Sur,15000,Hombre,23,Postsecundaria,7500,1.5877,Sí
+Sur,15000,Mujer,35,Primaria,15000,1.5877,Sí
+Sur,15000,Hombre,60,Primaria,7500,0.57763,No
+Sur,15000,Mujer,36,Secundaria,2500,0.19238,Indeciso
+Sur,15000,Hombre,43,Secundaria,15000,-0.43921,Indeciso
+Sur,15000,Mujer,35,Postsecundaria,35000,1.5877,Sí
+Sur,15000,Hombre,22,Primaria,7500,0.67327,No
+Sur,15000,Mujer,27,Postsecundaria,35000,,
+Sur,15000,Hombre,25,Primaria,15000,-0.97709,No
+Sur,15000,Hombre,66,Primaria,15000,1.57366,Sí
+Sur,15000,Mujer,33,Primaria,15000,1.40952,Sí
+Sur,15000,Hombre,59,Primaria,7500,1.5877,Sí
+Sur,15000,Mujer,67,Primaria,7500,0.51637,No
+Sur,15000,Hombre,21,Primaria,15000,-1.00723,No
+Sur,15000,Hombre,54,Primaria,15000,0.20137,Sí
+Sur,15000,Mujer,35,Secundaria,35000,0.16992,Abstención
+Norte,15000,Hombre,21,Postsecundaria,35000,1.29424,Sí
+Sur,15000,Hombre,55,Secundaria,35000,-1.29617,No
+Sur,15000,Hombre,23,Secundaria,2500,0.43877,
+Sur,15000,Hombre,66,Primaria,15000,-1.29617,No
+Sur,15000,Mujer,49,Primaria,2500,-1.1292,
+Sur,15000,Hombre,68,Primaria,7500,0.97936,Sí
+Sur,15000,Mujer,20,Primaria,2500,0.09844,Sí
+Sur,15000,Mujer,31,Secundaria,35000,0.65654,Indeciso
+Sur,15000,Hombre,23,Secundaria,35000,-1.11878,No
+Sur,15000,Hombre,27,Secundaria,7500,0.57369,Sí
+Sur,15000,Hombre,60,Secundaria,7500,0.31993,Indeciso
+Sur,15000,Mujer,43,Primaria,7500,1.06426,Sí
+Sur,15000,Hombre,34,Primaria,15000,1.5877,Indeciso
+Sur,15000,Hombre,43,Primaria,35000,-0.54177,No
+Sur,15000,Hombre,37,Secundaria,35000,1.26614,Sí
+Sur,15000,Mujer,48,Primaria,2500,0.89357,Indeciso
+Sur,15000,Mujer,28,Primaria,7500,1.1521,Indeciso
+Sur,25000,Mujer,21,Secundaria,35000,-0.80987,No
+Sur,25000,Hombre,50,Secundaria,75000,-0.05229,Indeciso
+Sur,25000,Mujer,45,Secundaria,35000,-0.41564,Indeciso
+Sur,25000,Hombre,30,Secundaria,35000,0.30179,Sí
+Sur,25000,Mujer,69,Secundaria,7500,-0.11321,Indeciso
+Sur,25000,Mujer,56,Primaria,2500,1.43432,
+Sur,25000,Mujer,28,Primaria,35000,0.19238,Indeciso
+Sur,25000,Mujer,37,Primaria,2500,-0.36626,Abstención
+Sur,25000,Hombre,30,Secundaria,2500,1.00098,Sí
+Sur,25000,Hombre,37,Primaria,7500,,Indeciso
+Sur,25000,Hombre,21,Primaria,35000,-0.35694,No
+Sur,25000,Mujer,40,Primaria,2500,-0.23049,Indeciso
+Sur,25000,Hombre,57,Primaria,7500,0.10233,Sí
+Sur,25000,Hombre,27,Secundaria,15000,-0.43537,No
+Sur,25000,Mujer,18,Secundaria,2500,1.56059,Sí
+Sur,25000,Mujer,25,Primaria,7500,1.36755,Sí
+Sur,25000,Mujer,49,Primaria,2500,0.16314,Sí
+Sur,25000,Hombre,18,Secundaria,7500,-1.21834,No
+Sur,25000,Hombre,47,Postsecundaria,35000,-1.14049,No
+Sur,25000,Mujer,22,Primaria,15000,1.54947,Sí
+Sur,125000,Hombre,43,Postsecundaria,75000,-0.92993,No
+Sur,125000,Mujer,52,Primaria,15000,0.9584,Sí
+Sur,125000,Mujer,24,Secundaria,15000,-0.67175,Abstención
+Sur,125000,Hombre,18,Secundaria,15000,-0.98612,No
+Sur,125000,Hombre,28,Postsecundaria,75000,-1.14049,No
+Sur,125000,Hombre,43,Primaria,200000,1.50201,Sí
+Sur,125000,Mujer,37,Primaria,35000,0.47684,
+Sur,125000,Mujer,23,Secundaria,35000,-1.26853,No
+Sur,125000,Hombre,23,Postsecundaria,35000,-1.03486,No
+Sur,125000,Hombre,42,Postsecundaria,35000,0.66881,Indeciso
+Sur,125000,Hombre,20,Secundaria,15000,0.52377,Indeciso
+Sur,125000,Mujer,20,Postsecundaria,35000,-1.0495,No
+Sur,125000,Mujer,48,Primaria,15000,-0.90176,Indeciso
+Sur,125000,Hombre,36,Secundaria,15000,0.60546,Indeciso
+Sur,125000,Mujer,33,Primaria,75000,-1.29617,No
+Sur,125000,Mujer,38,Postsecundaria,125000,-0.15788,No
+Sur,125000,Hombre,37,Primaria,35000,1.28625,Sí
+Sur,125000,Hombre,22,Postsecundaria,200000,1.12564,Sí
+Sur,125000,Hombre,42,Postsecundaria,200000,1.54808,Sí
+Sur,125000,Mujer,19,Postsecundaria,200000,1.54808,Sí
+Sur,15000,Hombre,41,Primaria,15000,1.37299,Sí
+Sur,15000,Hombre,27,Postsecundaria,,1.35464,Indeciso
+Sur,15000,Mujer,23,Secundaria,7500,0.68101,Sí
+Sur,15000,Hombre,56,Primaria,7500,0.35966,Indeciso
+Sur,15000,Mujer,44,Primaria,75000,1.40449,Sí
+Sur,15000,Mujer,33,Primaria,15000,-1.29617,No
+Sur,15000,Hombre,19,Secundaria,15000,1.71355,Sí
+Sur,15000,Hombre,37,Primaria,35000,1.43203,Sí
+Sur,15000,Mujer,62,Primaria,2500,1.26728,Indeciso
+Sur,15000,Mujer,36,Primaria,15000,0.8591,Indeciso
+Sur,15000,Mujer,26,Postsecundaria,35000,-1.04234,No
+Sur,15000,Mujer,36,Primaria,35000,0.13228,Indeciso
+Sur,15000,Hombre,40,Postsecundaria,75000,0.41409,No
+Sur,15000,Hombre,22,Primaria,15000,1.14114,Sí
+Sur,15000,Hombre,32,Primaria,15000,1.45955,Sí
+Sur,15000,Mujer,19,Primaria,2500,0.50295,Sí
+Sur,15000,Hombre,34,Secundaria,75000,1.36617,Sí
+Sur,15000,Hombre,69,Primaria,15000,1.39479,Sí
+Sur,15000,Mujer,32,Secundaria,35000,0.52178,Sí
+Sur,15000,Mujer,39,Primaria,2500,0.39966,Sí
+Sur,25000,Mujer,31,Primaria,7500,1.50986,Sí
+Sur,25000,Mujer,57,Primaria,7500,1.54731,Indeciso
+Sur,25000,Hombre,28,Primaria,15000,0.67731,Indeciso
+Sur,25000,Hombre,33,Primaria,15000,-0.82779,Indeciso
+Sur,25000,Hombre,63,Secundaria,35000,1.01347,Sí
+Sur,25000,Mujer,36,Primaria,15000,0.49424,Indeciso
+Sur,25000,Hombre,52,Secundaria,7500,0.77456,Sí
+Sur,25000,Mujer,44,Primaria,35000,0.52212,Sí
+Sur,25000,Hombre,19,Secundaria,2500,1.40641,Indeciso
+Sur,25000,Mujer,27,Secundaria,35000,0.92562,Abstención
+Sur,25000,Mujer,29,Secundaria,2500,-1.25656,Indeciso
+Sur,25000,Hombre,66,Primaria,7500,-0.84133,
+Sur,25000,Hombre,24,Primaria,2500,-1.25656,Indeciso
+Sur,25000,Mujer,59,Primaria,7500,-1.29617,Sí
+Sur,25000,Mujer,31,Secundaria,15000,1.00888,Sí
+Sur,25000,Mujer,45,Secundaria,7500,1.09242,Sí
+Sur,25000,Mujer,19,Postsecundaria,15000,-0.14866,Abstención
+Sur,25000,Hombre,37,Postsecundaria,7500,-0.61342,No
+Sur,25000,Hombre,36,Secundaria,7500,0.84092,Abstención
+Sur,25000,Hombre,21,Primaria,7500,0.73054,Sí
+Sur,125000,Mujer,59,Primaria,15000,-0.89099,Indeciso
+Sur,125000,Mujer,32,Postsecundaria,35000,1.06803,Sí
+Sur,125000,Hombre,47,Primaria,35000,-1.18323,No
+Sur,125000,Hombre,18,Secundaria,35000,-0.92939,No
+Sur,125000,Hombre,34,Secundaria,15000,-0.75084,No
+Sur,125000,Hombre,29,Secundaria,35000,0.95989,
+Sur,125000,Mujer,24,Secundaria,35000,-1.25795,No
+Sur,125000,Hombre,52,Secundaria,15000,-0.55931,
+Sur,125000,Mujer,52,Primaria,35000,1.09454,Sí
+Sur,125000,Mujer,54,Primaria,35000,1.34252,Sí
+Sur,125000,Mujer,45,Primaria,2500,1.27772,Indeciso
+Sur,125000,Mujer,32,Primaria,7500,-0.0968,Indeciso
+Sur,125000,Hombre,40,Primaria,7500,0.70614,Indeciso
+Sur,125000,Hombre,34,Primaria,7500,-0.84411,No
+Sur,125000,Hombre,44,Primaria,15000,-0.12988,Abstención
+Sur,125000,Hombre,39,Secundaria,75000,-1.14049,No
+Sur,125000,Mujer,40,Secundaria,125000,0.14576,Abstención
+Sur,125000,Mujer,55,Primaria,2500,-1.00723,No
+Sur,125000,Mujer,21,Primaria,15000,0.11541,Sí
+Sur,125000,Hombre,18,Secundaria,7500,-1.15309,No
+Sur,125000,Hombre,70,Secundaria,75000,1.05894,Sí
+Sur,125000,Mujer,31,Secundaria,125000,1.43203,Sí
+Sur,125000,Mujer,35,Postsecundaria,75000,1.03393,Sí
+Sur,125000,Mujer,40,Secundaria,35000,0.43786,Sí
+Sur,125000,Hombre,27,Postsecundaria,125000,-0.32494,No
+Sur,125000,Mujer,55,Primaria,15000,-0.36459,Abstención
+Sur,125000,Mujer,28,Primaria,15000,1.49187,Sí
+Sur,125000,Mujer,41,Primaria,15000,-0.66172,No
+Sur,125000,Hombre,36,Primaria,75000,0.84959,Indeciso
+Sur,125000,Hombre,19,Secundaria,7500,-0.17095,Sí
+Sur,125000,Mujer,29,Secundaria,15000,-1.07733,Indeciso
+Sur,125000,Hombre,47,Secundaria,35000,1.43203,Sí
+Sur,125000,Hombre,30,Secundaria,15000,-0.93468,No
+Sur,125000,Hombre,22,Secundaria,15000,-1.18993,No
+Sur,125000,Mujer,43,Secundaria,15000,1.03251,Sí
+Sur,125000,Mujer,67,Primaria,15000,1.00184,Sí
+Sur,125000,Hombre,22,Secundaria,35000,-0.84201,No
+Sur,125000,Mujer,29,Primaria,7500,1.44774,Sí
+Sur,125000,Mujer,24,Secundaria,35000,1.24184,Sí
+Sur,125000,Hombre,49,Primaria,35000,1.5877,Sí
+Sur,15000,Mujer,50,Secundaria,75000,,Abstención
+Sur,15000,Mujer,21,Primaria,7500,-1.14317,No
+Sur,15000,Mujer,58,Primaria,15000,1.32577,Sí
+Sur,15000,Hombre,18,Postsecundaria,,2.04859,Indeciso
+Sur,15000,Hombre,62,Secundaria,35000,1.12272,Sí
+Sur,15000,Hombre,47,Secundaria,125000,0.66292,Sí
+Sur,15000,Hombre,23,Secundaria,15000,-1.00193,No
+Sur,15000,Hombre,66,Primaria,7500,1.17153,Indeciso
+Sur,15000,Mujer,30,Secundaria,7500,0.99168,Sí
+Sur,15000,Mujer,36,Postsecundaria,75000,1.47693,Sí
+Sur,15000,Hombre,29,Primaria,15000,1.3991,Indeciso
+Sur,15000,Mujer,31,Primaria,15000,1.31661,Sí
+Sur,15000,Hombre,58,Primaria,2500,-0.76995,Indeciso
+Sur,15000,Mujer,57,Primaria,7500,-1.22954,Indeciso
+Sur,15000,Hombre,26,Primaria,2500,-1.15762,No
+Sur,15000,Hombre,24,Primaria,,,No
+Sur,15000,Mujer,25,Secundaria,200000,1.5877,Indeciso
+Sur,15000,Mujer,48,Primaria,75000,1.5877,Sí
+Sur,15000,Hombre,60,Primaria,15000,1.16179,Sí
+Sur,15000,Mujer,27,Primaria,7500,1.35,No
+Sur,125000,Mujer,44,Secundaria,7500,-0.6549,No
+Sur,125000,Mujer,22,Secundaria,7500,-1.10678,No
+Sur,125000,Hombre,63,Primaria,35000,1.32162,Sí
+Sur,125000,Hombre,28,Secundaria,35000,0.1252,Sí
+Sur,125000,Hombre,27,Postsecundaria,35000,-0.99172,No
+Sur,125000,Mujer,24,Secundaria,75000,1.37068,Sí
+Sur,125000,Hombre,32,Secundaria,15000,-1.18173,No
+Sur,125000,Mujer,25,Primaria,7500,-0.70047,No
+Sur,125000,Mujer,59,Primaria,,,Sí
+Sur,125000,Hombre,39,Primaria,7500,0.40746,Indeciso
+Sur,125000,Hombre,31,Primaria,75000,1.15958,Indeciso
+Sur,125000,Hombre,41,Secundaria,15000,0.99704,No
+Sur,125000,Mujer,31,Postsecundaria,125000,1.27275,
+Sur,125000,Hombre,42,Postsecundaria,125000,0.12256,Abstención
+Sur,125000,Mujer,41,Primaria,15000,1.20579,Indeciso
+Sur,125000,Mujer,49,Primaria,35000,1.23693,Sí
+Sur,125000,Hombre,39,Postsecundaria,75000,-0.83444,No
+Sur,125000,Mujer,25,Secundaria,35000,0.29024,Sí
+Sur,125000,Hombre,20,Secundaria,35000,-0.42725,Sí
+Sur,125000,Mujer,39,Primaria,75000,-0.11784,Sí
+Sur,25000,Mujer,24,Postsecundaria,,-0.6705,Indeciso
+Sur,25000,Mujer,22,Postsecundaria,15000,1.00318,Sí
+Sur,25000,Mujer,41,Primaria,7500,1.00528,Sí
+Sur,25000,Hombre,64,Postsecundaria,35000,1.5877,Sí
+Sur,25000,Hombre,18,Secundaria,15000,-0.839,No
+Sur,25000,Mujer,19,Secundaria,7500,0.22416,No
+Sur,25000,Hombre,38,Primaria,15000,1.4029,Sí
+Sur,25000,Hombre,23,Secundaria,35000,0.34331,Abstención
+Sur,25000,Hombre,21,Primaria,35000,0.74667,Indeciso
+Sur,25000,Mujer,43,Primaria,2500,-1.26524,No
+Sur,25000,Mujer,51,Primaria,2500,0.28952,Indeciso
+Sur,25000,Hombre,39,Primaria,7500,-0.82861,Abstención
+Sur,25000,Hombre,26,Primaria,35000,-0.41063,No
+Sur,25000,Mujer,33,Secundaria,35000,0.55175,Sí
+Sur,25000,Mujer,55,Primaria,7500,-1.29617,Indeciso
+Sur,25000,Mujer,40,Primaria,2500,-0.30396,Sí
+Sur,25000,Mujer,70,Primaria,15000,1.32577,Sí
+Sur,25000,Mujer,31,Primaria,15000,-1.04981,Indeciso
+Sur,25000,Hombre,43,Primaria,35000,0.61457,Sí
+Sur,25000,Hombre,22,Primaria,15000,1.51655,Sí
+Sur,25000,Mujer,51,Primaria,35000,0.98642,
+Sur,25000,Mujer,24,Secundaria,35000,0.46682,No
+Sur,25000,Mujer,24,Primaria,35000,-0.25323,Sí
+Sur,25000,Hombre,38,Primaria,35000,0.66157,Sí
+Sur,25000,Hombre,25,Secundaria,75000,1.25199,Sí
+Sur,25000,Hombre,28,Secundaria,75000,-0.89167,Abstención
+Sur,25000,Hombre,60,Primaria,7500,0.34221,No
+Sur,25000,Hombre,27,Secundaria,75000,-0.78296,Indeciso
+Sur,25000,Mujer,37,Secundaria,7500,-1.25899,Sí
+Sur,25000,Mujer,26,Primaria,7500,0.79717,Sí
+Sur,25000,Hombre,34,Primaria,75000,0.31015,Indeciso
+Sur,25000,Mujer,30,Postsecundaria,35000,0.44087,Abstención
+Sur,25000,Mujer,41,Secundaria,35000,0.84982,Abstención
+Sur,25000,Mujer,37,Primaria,15000,-0.98021,Indeciso
+Sur,25000,Hombre,39,Secundaria,35000,0.75548,Indeciso
+Sur,25000,Hombre,34,Postsecundaria,75000,1.36206,Sí
+Sur,25000,Hombre,42,Postsecundaria,125000,-1.03027,No
+Sur,25000,Mujer,52,Primaria,15000,1.31484,Indeciso
+Sur,25000,Mujer,19,Primaria,15000,0.22425,Indeciso
+Sur,25000,Mujer,37,Postsecundaria,35000,-0.16155,Indeciso
+Sur,25000,Mujer,50,Secundaria,35000,-1.29617,
+Sur,25000,Mujer,23,Secundaria,15000,-1.18602,No
+Sur,25000,Hombre,32,Secundaria,75000,0.9301,Indeciso
+Sur,25000,Hombre,42,Secundaria,125000,0.67322,Abstención
+Sur,25000,Hombre,32,Secundaria,35000,0.01598,Indeciso
+Sur,25000,Hombre,45,Primaria,7500,-1.14952,No
+Sur,25000,Mujer,30,Secundaria,2500,-1.04842,No
+Sur,25000,Hombre,30,Secundaria,2500,1.43653,Sí
+Sur,25000,Mujer,66,Primaria,15000,1.5877,Sí
+Sur,25000,Mujer,22,Primaria,2500,-0.97507,No
+Sur,25000,Hombre,41,Primaria,2500,-1.29617,
+Sur,25000,Mujer,38,Secundaria,35000,-1.045,No
+Sur,25000,Hombre,35,Secundaria,35000,-1.21974,No
+Sur,25000,Hombre,65,Primaria,15000,-1.29617,No
+Sur,25000,Mujer,28,Secundaria,15000,-0.43759,Abstención
+Sur,25000,Hombre,59,Secundaria,35000,0.76631,Sí
+Sur,25000,Hombre,28,Primaria,35000,1.27034,Sí
+Sur,25000,Mujer,21,Secundaria,35000,0.61585,Sí
+Sur,25000,Mujer,52,Primaria,15000,0.9282,Indeciso
+Sur,25000,Mujer,64,Secundaria,75000,-0.03354,No
+Ciudad de Santiago,250000,Hombre,33,Secundaria,35000,-1.06452,No
+Ciudad de Santiago,250000,Hombre,50,Primaria,15000,0.45059,Sí
+Ciudad de Santiago,250000,Mujer,25,Postsecundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,55,Secundaria,15000,-1.10897,No
+Ciudad de Santiago,250000,Hombre,27,Postsecundaria,35000,0.20291,Sí
+Ciudad de Santiago,250000,Hombre,20,Secundaria,15000,-1.05543,No
+Ciudad de Santiago,250000,Hombre,51,Secundaria,15000,-1.29617,
+Ciudad de Santiago,250000,Mujer,22,Secundaria,,-0.26023,No
+Ciudad de Santiago,250000,Mujer,43,Primaria,35000,0.49878,Indeciso
+Ciudad de Santiago,250000,Hombre,40,Postsecundaria,75000,1.24546,Sí
+Ciudad de Santiago,250000,Mujer,36,Secundaria,15000,-0.58334,Abstención
+Ciudad de Santiago,250000,Hombre,45,Primaria,35000,-1.1113,No
+Ciudad de Santiago,250000,Mujer,32,Secundaria,15000,0.88028,
+Ciudad de Santiago,250000,Mujer,23,Secundaria,35000,0.62692,Sí
+Ciudad de Santiago,250000,Hombre,18,Secundaria,,-0.50453,No
+Ciudad de Santiago,250000,Hombre,28,Postsecundaria,75000,-0.93008,No
+Ciudad de Santiago,250000,Hombre,44,Secundaria,75000,1.5877,Sí
+Ciudad de Santiago,250000,Mujer,22,Postsecundaria,35000,-0.3024,Indeciso
+Ciudad de Santiago,250000,Mujer,45,Primaria,15000,-0.49024,Sí
+Ciudad de Santiago,250000,Hombre,42,Primaria,7500,-1.12096,Indeciso
+Ciudad de Santiago,250000,Mujer,37,Primaria,15000,1.44774,Indeciso
+Ciudad de Santiago,250000,Mujer,26,Primaria,15000,0.30361,Indeciso
+Ciudad de Santiago,250000,Hombre,33,Postsecundaria,35000,-0.58329,No
+Ciudad de Santiago,250000,Mujer,45,Secundaria,7500,0.19216,Indeciso
+Ciudad de Santiago,250000,Hombre,53,Postsecundaria,35000,-1.034,No
+Ciudad de Santiago,250000,Mujer,24,Postsecundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,47,Postsecundaria,75000,-0.40469,No
+Ciudad de Santiago,250000,Mujer,36,Postsecundaria,35000,-1.05877,No
+Ciudad de Santiago,250000,Hombre,34,Postsecundaria,75000,0.71248,
+Ciudad de Santiago,250000,Hombre,45,Postsecundaria,125000,1.29875,Sí
+Ciudad de Santiago,250000,Hombre,53,Secundaria,15000,-0.93017,
+Ciudad de Santiago,250000,Mujer,39,Secundaria,125000,1.5877,Sí
+Ciudad de Santiago,250000,Mujer,35,Secundaria,35000,-0.75754,Indeciso
+Ciudad de Santiago,250000,Mujer,53,Secundaria,35000,-0.37617,Indeciso
+Ciudad de Santiago,250000,Hombre,20,Secundaria,75000,-0.78955,No
+Ciudad de Santiago,250000,Hombre,50,Primaria,15000,0.02737,Sí
+Ciudad de Santiago,250000,Mujer,67,Primaria,7500,0.84968,Sí
+Ciudad de Santiago,250000,Mujer,30,Secundaria,35000,0.60127,Sí
+Ciudad de Santiago,250000,Mujer,65,Primaria,15000,-1.06347,No
+Ciudad de Santiago,250000,Hombre,33,Secundaria,15000,0.91949,Indeciso
+Ciudad de Santiago,250000,Mujer,57,Primaria,15000,0.06283,Sí
+Ciudad de Santiago,250000,Mujer,21,Postsecundaria,35000,-0.36306,Abstención
+Ciudad de Santiago,250000,Hombre,28,Secundaria,15000,-1.02236,Sí
+Ciudad de Santiago,250000,Mujer,52,Primaria,35000,1.22526,
+Ciudad de Santiago,250000,Hombre,36,Postsecundaria,15000,-1.15236,No
+Ciudad de Santiago,250000,Hombre,40,Primaria,,0.14822,
+Ciudad de Santiago,250000,Mujer,58,Secundaria,15000,1.21422,
+Ciudad de Santiago,250000,Mujer,22,Secundaria,,-1.01895,No
+Ciudad de Santiago,250000,Hombre,38,Postsecundaria,35000,-0.50707,No
+Ciudad de Santiago,250000,Mujer,59,Secundaria,15000,-0.09055,Indeciso
+Ciudad de Santiago,250000,Hombre,32,Secundaria,35000,-0.12109,Indeciso
+Ciudad de Santiago,250000,Mujer,52,Secundaria,15000,-1.10692,No
+Ciudad de Santiago,250000,Mujer,21,Postsecundaria,15000,-0.89847,No
+Ciudad de Santiago,250000,Mujer,23,Postsecundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,36,Secundaria,75000,1.25914,Sí
+Ciudad de Santiago,250000,Hombre,65,Primaria,35000,1.55312,Sí
+Ciudad de Santiago,250000,Hombre,29,Postsecundaria,35000,-1.06618,
+Ciudad de Santiago,250000,Mujer,47,Secundaria,35000,0.1623,Indeciso
+Ciudad de Santiago,250000,Mujer,32,Primaria,2500,1.29311,Sí
+Ciudad de Santiago,250000,Mujer,51,Primaria,15000,1.14251,
+Ciudad de Santiago,250000,Mujer,44,Postsecundaria,125000,1.47615,Sí
+Ciudad de Santiago,250000,Hombre,57,Primaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,50,Primaria,15000,0.6546,Sí
+Ciudad de Santiago,250000,Hombre,35,Secundaria,35000,0.36224,Indeciso
+Ciudad de Santiago,250000,Mujer,20,Postsecundaria,35000,0.88345,Sí
+Ciudad de Santiago,250000,Mujer,48,Secundaria,35000,-0.11023,Indeciso
+Ciudad de Santiago,250000,Mujer,33,Secundaria,35000,0.94201,Sí
+Ciudad de Santiago,250000,Hombre,20,Secundaria,35000,0.42371,No
+Ciudad de Santiago,250000,Hombre,36,Secundaria,35000,0.35407,Sí
+Ciudad de Santiago,250000,Hombre,70,Secundaria,15000,1.4103,Sí
+Ciudad de Santiago,250000,Hombre,67,Primaria,7500,-1.07308,No
+Ciudad de Santiago,250000,Hombre,25,Secundaria,15000,0.02663,Indeciso
+Ciudad de Santiago,250000,Hombre,37,Secundaria,15000,-0.92721,No
+Ciudad de Santiago,250000,Mujer,26,Secundaria,15000,1.36523,Sí
+Ciudad de Santiago,250000,Mujer,39,Secundaria,15000,0.63292,Sí
+Ciudad de Santiago,250000,Hombre,45,Primaria,15000,-0.68375,No
+Ciudad de Santiago,250000,Hombre,24,Postsecundaria,35000,1.47164,Sí
+Ciudad de Santiago,250000,Mujer,32,Primaria,7500,1.2092,Indeciso
+Ciudad de Santiago,250000,Mujer,45,Primaria,15000,-1.26247,No
+Ciudad de Santiago,250000,Hombre,50,Primaria,7500,-1.29617,No
+Ciudad de Santiago,250000,Mujer,40,Primaria,15000,-0.77529,Indeciso
+Ciudad de Santiago,250000,Mujer,19,Secundaria,,0.13859,
+Ciudad de Santiago,250000,Hombre,35,Postsecundaria,75000,-0.8322,No
+Ciudad de Santiago,250000,Hombre,28,Secundaria,15000,1.37129,Sí
+Ciudad de Santiago,250000,Hombre,47,Primaria,7500,-1.29617,No
+Ciudad de Santiago,250000,Hombre,21,Secundaria,15000,-1.04205,No
+Ciudad de Santiago,250000,Hombre,53,Primaria,35000,-0.89545,
+Ciudad de Santiago,250000,Mujer,39,Primaria,35000,-1.17235,No
+Ciudad de Santiago,250000,Mujer,20,Postsecundaria,35000,-0.04348,No
+Ciudad de Santiago,250000,Hombre,63,Primaria,15000,1.5877,Sí
+Ciudad de Santiago,250000,Hombre,32,Secundaria,2500,-0.6265,No
+Ciudad de Santiago,250000,Hombre,50,Primaria,15000,0.69498,
+Ciudad de Santiago,250000,Mujer,43,Primaria,15000,1.33205,Sí
+Ciudad de Santiago,250000,Hombre,30,Secundaria,35000,1.24611,Sí
+Ciudad de Santiago,250000,Mujer,20,Secundaria,15000,1.4186,Sí
+Ciudad de Santiago,250000,Hombre,56,Primaria,35000,-0.24431,Indeciso
+Ciudad de Santiago,250000,Hombre,36,Postsecundaria,35000,-1.29617,Abstención
+Ciudad de Santiago,250000,Hombre,27,Postsecundaria,35000,-0.76483,No
+Ciudad de Santiago,250000,Mujer,20,Primaria,7500,0.96737,Sí
+Ciudad de Santiago,250000,Hombre,40,Postsecundaria,35000,-1.25666,
+Ciudad de Santiago,250000,Mujer,24,Secundaria,7500,-1.29617,No
+Ciudad de Santiago,250000,Mujer,49,Primaria,35000,-1.06985,No
+Ciudad de Santiago,250000,Hombre,41,Postsecundaria,35000,-0.25322,Indeciso
+Ciudad de Santiago,250000,Hombre,18,Secundaria,35000,0.27038,No
+Ciudad de Santiago,250000,Mujer,31,Secundaria,35000,1.6051,Indeciso
+Ciudad de Santiago,250000,Hombre,52,Primaria,,0.77545,
+Ciudad de Santiago,250000,Hombre,28,Postsecundaria,35000,-0.5752,
+Ciudad de Santiago,250000,Mujer,70,Secundaria,,0.75064,Abstención
+Ciudad de Santiago,250000,Hombre,37,Postsecundaria,35000,-0.55383,No
+Ciudad de Santiago,250000,Mujer,22,Secundaria,75000,1.40347,Sí
+Ciudad de Santiago,250000,Mujer,55,Secundaria,35000,-0.39484,Indeciso
+Ciudad de Santiago,250000,Hombre,22,Secundaria,35000,-0.19563,Indeciso
+Ciudad de Santiago,250000,Hombre,61,Primaria,35000,0.46818,Indeciso
+Ciudad de Santiago,250000,Hombre,62,Primaria,35000,-0.40587,Indeciso
+Ciudad de Santiago,250000,Mujer,58,Secundaria,35000,1.24625,
+Ciudad de Santiago,250000,Mujer,27,Primaria,125000,0.68235,Abstención
+Ciudad de Santiago,250000,Mujer,19,Secundaria,7500,0.48183,Indeciso
+Ciudad de Santiago,250000,Mujer,46,Secundaria,35000,-1.26441,Abstención
+Ciudad de Santiago,250000,Hombre,36,Secundaria,15000,-1.1854,No
+Ciudad de Santiago,250000,Mujer,60,Primaria,35000,0.3834,Sí
+Ciudad de Santiago,250000,Hombre,34,Postsecundaria,35000,0.54921,Indeciso
+Ciudad de Santiago,250000,Mujer,23,Secundaria,7500,-1.30482,
+Ciudad de Santiago,250000,Hombre,22,Secundaria,15000,-1.11582,Abstención
+Ciudad de Santiago,250000,Mujer,47,Primaria,15000,0.83048,Sí
+Ciudad de Santiago,250000,Hombre,43,Secundaria,35000,-0.1826,No
+Ciudad de Santiago,250000,Hombre,49,Primaria,35000,0.74014,Indeciso
+Ciudad de Santiago,250000,Hombre,57,Primaria,7500,-1.29617,No
+Ciudad de Santiago,250000,Mujer,37,Secundaria,35000,-0.3003,Indeciso
+Ciudad de Santiago,250000,Hombre,25,Secundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,44,Primaria,15000,1.32555,Sí
+Ciudad de Santiago,250000,Mujer,19,Primaria,15000,-0.47883,Indeciso
+Ciudad de Santiago,250000,Mujer,31,Secundaria,,1.41649,Abstención
+Ciudad de Santiago,250000,Hombre,24,Secundaria,15000,0.72708,Sí
+Ciudad de Santiago,250000,Mujer,63,Primaria,,,Indeciso
+Ciudad de Santiago,250000,Hombre,38,Primaria,,0.6589,
+Ciudad de Santiago,250000,Mujer,19,Postsecundaria,35000,-0.82327,No
+Ciudad de Santiago,250000,Hombre,49,,,,
+Ciudad de Santiago,250000,Hombre,18,Secundaria,15000,-1.25656,No
+Ciudad de Santiago,250000,Mujer,38,Primaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,36,Secundaria,2500,0.0074400000000000004,Indeciso
+Ciudad de Santiago,250000,Mujer,69,Primaria,15000,1.25678,Sí
+Ciudad de Santiago,250000,Hombre,21,Postsecundaria,75000,0.28707,Sí
+Ciudad de Santiago,250000,Mujer,25,Postsecundaria,15000,1.09971,Abstención
+Ciudad de Santiago,250000,Hombre,42,Secundaria,35000,-0.62392,Sí
+Ciudad de Santiago,250000,Hombre,55,,7500,-1.12929,Indeciso
+Ciudad de Santiago,250000,Hombre,49,Secundaria,35000,1.50986,Sí
+Ciudad de Santiago,250000,Hombre,31,Postsecundaria,35000,-1.29617,
+Ciudad de Santiago,250000,Mujer,40,Secundaria,15000,0.29175,Indeciso
+Ciudad de Santiago,250000,Mujer,28,Postsecundaria,75000,,Indeciso
+Ciudad de Santiago,250000,Mujer,53,Postsecundaria,15000,-0.27889,Abstención
+Ciudad de Santiago,250000,Hombre,22,Secundaria,35000,-0.43626,No
+Ciudad de Santiago,250000,Hombre,45,Secundaria,35000,-0.18888,Abstención
+Ciudad de Santiago,250000,Mujer,18,Secundaria,200000,-1.18011,No
+Ciudad de Santiago,250000,Mujer,42,Postsecundaria,35000,1.15278,
+Ciudad de Santiago,250000,Mujer,46,Secundaria,,2.02141,Indeciso
+Ciudad de Santiago,250000,Mujer,21,Postsecundaria,15000,-1.21834,No
+Ciudad de Santiago,250000,Hombre,19,Secundaria,7500,-0.8308,No
+Ciudad de Santiago,250000,Mujer,59,Primaria,15000,-1.04005,Indeciso
+Ciudad de Santiago,250000,Mujer,60,Primaria,35000,-0.6809,No
+Ciudad de Santiago,250000,Hombre,55,Primaria,2500,-0.61862,
+Ciudad de Santiago,250000,Mujer,20,Primaria,15000,-1.13038,No
+Ciudad de Santiago,250000,Mujer,62,Secundaria,75000,1.5877,Sí
+Ciudad de Santiago,250000,Hombre,24,Secundaria,15000,-0.14715,Sí
+Ciudad de Santiago,250000,Mujer,70,Primaria,35000,1.55399,Sí
+Ciudad de Santiago,250000,Hombre,42,Secundaria,35000,1.50846,Abstención
+Ciudad de Santiago,250000,Hombre,21,Postsecundaria,35000,-1.22285,No
+Ciudad de Santiago,250000,Mujer,50,Secundaria,75000,0.22716,Sí
+Ciudad de Santiago,250000,Mujer,60,Primaria,35000,-0.57897,Indeciso
+Ciudad de Santiago,250000,Mujer,22,Primaria,75000,-1.12024,No
+Ciudad de Santiago,250000,Hombre,,Primaria,15000,-1.08507,Indeciso
+Ciudad de Santiago,250000,Mujer,56,Secundaria,35000,0.53532,Sí
+Ciudad de Santiago,250000,Hombre,70,Primaria,35000,1.42686,
+Ciudad de Santiago,250000,Hombre,22,Secundaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,42,Secundaria,35000,0.934,Sí
+Ciudad de Santiago,250000,Hombre,53,Primaria,15000,1.4277,Sí
+Ciudad de Santiago,250000,Mujer,30,Secundaria,15000,-1.26325,No
+Ciudad de Santiago,250000,Hombre,24,Postsecundaria,200000,-1.00115,No
+Ciudad de Santiago,250000,Mujer,55,Primaria,15000,0.14613,
+Ciudad de Santiago,250000,Mujer,37,Secundaria,35000,0.91144,Sí
+Ciudad de Santiago,250000,Hombre,55,Postsecundaria,15000,-1.02974,No
+Ciudad de Santiago,250000,Hombre,41,Secundaria,75000,-1.04685,No
+Ciudad de Santiago,250000,Mujer,21,Secundaria,35000,-0.9465,Abstención
+Ciudad de Santiago,250000,Mujer,36,Secundaria,7500,-0.40386,Abstención
+Ciudad de Santiago,250000,Mujer,29,Primaria,15000,-0.73164,Abstención
+Ciudad de Santiago,250000,Hombre,21,Secundaria,75000,-0.087,Indeciso
+Ciudad de Santiago,250000,Hombre,55,Primaria,15000,-1.16446,No
+Ciudad de Santiago,250000,Hombre,62,Secundaria,15000,-0.44734,
+Ciudad de Santiago,250000,Mujer,59,Secundaria,15000,0.70457,Indeciso
+Ciudad de Santiago,250000,Hombre,27,Secundaria,35000,0.18113,Indeciso
+Ciudad de Santiago,250000,Mujer,30,Secundaria,35000,0.71686,Abstención
+Ciudad de Santiago,250000,Hombre,18,Primaria,15000,-0.03066,
+Ciudad de Santiago,250000,Mujer,44,Primaria,7500,-0.70865,Indeciso
+Ciudad de Santiago,250000,Hombre,58,Primaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,30,Secundaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,44,Primaria,7500,-1.2204,No
+Ciudad de Santiago,250000,Hombre,52,Primaria,15000,0.94667,Sí
+Ciudad de Santiago,250000,Mujer,30,Secundaria,15000,-0.92566,No
+Ciudad de Santiago,250000,Hombre,20,Secundaria,15000,-0.27723,Indeciso
+Ciudad de Santiago,250000,Mujer,59,Primaria,7500,-0.55051,Indeciso
+Ciudad de Santiago,250000,Hombre,18,Secundaria,15000,1.20547,Sí
+Ciudad de Santiago,250000,Hombre,24,Secundaria,35000,1.15313,Abstención
+Ciudad de Santiago,250000,Mujer,39,Primaria,,0.47939,Indeciso
+Ciudad de Santiago,250000,Mujer,21,Secundaria,35000,1.32923,Sí
+Ciudad de Santiago,250000,Hombre,49,Primaria,7500,-0.15941,Indeciso
+Ciudad de Santiago,250000,Hombre,58,Secundaria,35000,0.12745,Sí
+Ciudad de Santiago,250000,Mujer,25,Secundaria,15000,-1.30809,Abstención
+Ciudad de Santiago,250000,Hombre,21,Secundaria,35000,-1.11348,No
+Ciudad de Santiago,250000,Mujer,60,Secundaria,15000,0.52689,Indeciso
+Ciudad de Santiago,250000,Hombre,54,Primaria,7500,-1.30296,Indeciso
+Ciudad de Santiago,250000,Mujer,43,Primaria,7500,-1.29617,No
+Ciudad de Santiago,250000,Hombre,30,Secundaria,15000,0.66365,No
+Ciudad de Santiago,250000,Hombre,49,Secundaria,35000,-0.95176,No
+Ciudad de Santiago,250000,Mujer,54,Primaria,2500,-0.25607,Sí
+Ciudad de Santiago,250000,Mujer,19,Secundaria,15000,-0.80563,Indeciso
+Ciudad de Santiago,250000,Mujer,36,Secundaria,15000,-1.17637,Indeciso
+Ciudad de Santiago,250000,Mujer,58,Primaria,15000,0.82026,Indeciso
+Ciudad de Santiago,250000,Mujer,32,Postsecundaria,,0.31918,Abstención
+Ciudad de Santiago,250000,Hombre,52,Primaria,75000,-1.07772,
+Ciudad de Santiago,250000,Hombre,42,Secundaria,35000,0.00476,Indeciso
+Ciudad de Santiago,250000,Hombre,35,Secundaria,15000,0.24119,Indeciso
+Ciudad de Santiago,250000,Mujer,44,Primaria,35000,-0.69008,Abstención
+Ciudad de Santiago,250000,Mujer,23,Postsecundaria,75000,0.17177,Sí
+Ciudad de Santiago,250000,Hombre,24,Postsecundaria,35000,-0.76975,Abstención
+Ciudad de Santiago,250000,Hombre,60,Primaria,35000,1.5877,Sí
+Ciudad de Santiago,250000,Hombre,54,Primaria,7500,0.32214,Indeciso
+Ciudad de Santiago,250000,Hombre,33,Primaria,2500,-1.29617,
+Ciudad de Santiago,250000,Mujer,70,Primaria,,0.75768,Indeciso
+Ciudad de Santiago,250000,Mujer,38,Primaria,35000,-0.71844,Sí
+Ciudad de Santiago,250000,Mujer,35,Secundaria,2500,-1.2727,
+Ciudad de Santiago,250000,Hombre,40,Secundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,18,Secundaria,7500,-0.60959,Indeciso
+Ciudad de Santiago,250000,Mujer,49,Primaria,35000,0.90167,Sí
+Ciudad de Santiago,250000,Hombre,43,Postsecundaria,75000,1.33092,Sí
+Ciudad de Santiago,250000,Mujer,34,Postsecundaria,75000,-1.22424,No
+Ciudad de Santiago,250000,Mujer,54,Primaria,35000,0.0032,Indeciso
+Ciudad de Santiago,250000,Hombre,18,Secundaria,35000,-1.30351,No
+Ciudad de Santiago,250000,Mujer,26,Secundaria,7500,-1.1212,Indeciso
+Ciudad de Santiago,250000,Mujer,68,,7500,0.88202,Sí
+Ciudad de Santiago,250000,Hombre,52,Secundaria,7500,1.19812,Sí
+Ciudad de Santiago,250000,Hombre,55,Secundaria,2500,-1.29617,No
+Ciudad de Santiago,250000,Hombre,23,Secundaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,38,Primaria,15000,-1.19739,No
+Ciudad de Santiago,250000,Mujer,36,Primaria,2500,-1.05197,Indeciso
+Ciudad de Santiago,250000,Mujer,46,Primaria,7500,-0.98023,No
+Ciudad de Santiago,250000,Mujer,33,Primaria,7500,-1.12528,No
+Ciudad de Santiago,250000,Hombre,43,Secundaria,15000,0.15515,Indeciso
+Ciudad de Santiago,250000,Hombre,21,Secundaria,35000,0.60084,Sí
+Ciudad de Santiago,250000,Hombre,49,Primaria,15000,1.35626,Sí
+Ciudad de Santiago,250000,Mujer,21,Primaria,15000,1.19147,Sí
+Ciudad de Santiago,250000,Mujer,56,Primaria,7500,0.38583,Sí
+Ciudad de Santiago,250000,Mujer,35,Primaria,7500,-0.80037,Indeciso
+Ciudad de Santiago,250000,Hombre,18,Secundaria,15000,1.02608,Sí
+Ciudad de Santiago,250000,Mujer,41,Primaria,2500,-0.41295,Indeciso
+Ciudad de Santiago,250000,Mujer,49,Primaria,35000,0.38253,Indeciso
+Ciudad de Santiago,250000,Hombre,37,Secundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,55,Primaria,7500,0.81641,Indeciso
+Ciudad de Santiago,250000,Mujer,49,Primaria,2500,1.29338,Indeciso
+Ciudad de Santiago,250000,Hombre,22,Secundaria,7500,0.87797,No
+Ciudad de Santiago,250000,Mujer,26,Secundaria,15000,0.12779,Sí
+Ciudad de Santiago,250000,Hombre,51,Primaria,15000,1.47784,Sí
+Ciudad de Santiago,250000,Mujer,56,Primaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,51,,7500,0.45718,Indeciso
+Ciudad de Santiago,250000,Mujer,30,Primaria,15000,1.03464,Indeciso
+Ciudad de Santiago,250000,Hombre,45,Secundaria,15000,-1.21834,No
+Ciudad de Santiago,250000,Hombre,31,Primaria,35000,-0.53827,Indeciso
+Ciudad de Santiago,250000,Hombre,35,Primaria,7500,-0.93981,Indeciso
+Ciudad de Santiago,250000,Hombre,53,Primaria,15000,-1.18011,No
+Ciudad de Santiago,250000,Hombre,63,Primaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,25,Secundaria,7500,1.43653,Sí
+Ciudad de Santiago,250000,Mujer,40,Primaria,2500,-1.30469,No
+Ciudad de Santiago,250000,Mujer,54,Primaria,7500,-1.21834,No
+Ciudad de Santiago,250000,Mujer,62,Primaria,35000,0.88557,Sí
+Ciudad de Santiago,250000,Mujer,19,Secundaria,35000,-1.25795,Indeciso
+Ciudad de Santiago,250000,Hombre,26,Secundaria,15000,-0.71001,No
+Ciudad de Santiago,250000,Hombre,61,Primaria,7500,1.01062,Sí
+Ciudad de Santiago,250000,Mujer,67,,15000,1.05155,Sí
+Ciudad de Santiago,250000,Hombre,39,Primaria,15000,-0.72982,Abstención
+Ciudad de Santiago,250000,Hombre,22,Primaria,7500,-0.04564,Sí
+Ciudad de Santiago,250000,Hombre,21,Secundaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,59,Primaria,7500,-0.17956,Sí
+Ciudad de Santiago,250000,Mujer,37,Secundaria,15000,-1.02385,
+Ciudad de Santiago,250000,Hombre,65,Primaria,15000,0.04302,Indeciso
+Ciudad de Santiago,250000,Mujer,61,Primaria,7500,0.54606,Sí
+Ciudad de Santiago,250000,Mujer,30,Primaria,7500,-0.25119,Indeciso
+Ciudad de Santiago,250000,Hombre,27,Secundaria,35000,0.13241,Sí
+Ciudad de Santiago,250000,Hombre,60,Primaria,15000,0.55837,Sí
+Ciudad de Santiago,250000,Hombre,33,Secundaria,75000,-1.19132,Abstención
+Ciudad de Santiago,250000,Mujer,32,Secundaria,35000,0.38569,Indeciso
+Ciudad de Santiago,250000,Mujer,38,Secundaria,35000,-1.04685,Indeciso
+Ciudad de Santiago,250000,Hombre,56,Primaria,35000,0.41755,Sí
+Ciudad de Santiago,250000,Mujer,45,Secundaria,15000,0.89367,Sí
+Ciudad de Santiago,250000,Mujer,18,Secundaria,35000,0.43887,Sí
+Ciudad de Santiago,250000,Mujer,39,Secundaria,35000,-0.12671,Indeciso
+Ciudad de Santiago,250000,Hombre,57,Primaria,15000,0.53539,Indeciso
+Ciudad de Santiago,250000,Hombre,51,Primaria,7500,-1.29617,No
+Ciudad de Santiago,250000,Hombre,32,Secundaria,15000,-0.84836,No
+Ciudad de Santiago,250000,Hombre,70,Primaria,35000,0.72449,Sí
+Ciudad de Santiago,250000,Mujer,20,Secundaria,15000,1.00364,Sí
+Ciudad de Santiago,250000,Mujer,46,Secundaria,7500,-0.42243000000000003,No
+Ciudad de Santiago,250000,Mujer,55,Primaria,35000,-0.55903,No
+Ciudad de Santiago,250000,Hombre,23,Secundaria,35000,0.22104,Abstención
+Ciudad de Santiago,250000,Mujer,28,Secundaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,22,Secundaria,35000,-1.17702,Indeciso
+Ciudad de Santiago,250000,Hombre,23,Postsecundaria,35000,-1.30351,No
+Ciudad de Santiago,250000,Mujer,37,Primaria,35000,-1.12566,Indeciso
+Ciudad de Santiago,250000,Hombre,47,Secundaria,15000,-0.80419,Indeciso
+Ciudad de Santiago,250000,Hombre,42,Primaria,35000,-0.86525,Abstención
+Ciudad de Santiago,250000,Mujer,47,Secundaria,15000,-1.22502,No
+Ciudad de Santiago,250000,Mujer,45,Secundaria,125000,-0.60096,Indeciso
+Ciudad de Santiago,250000,Hombre,18,Secundaria,75000,-1.06848,No
+Ciudad de Santiago,250000,Mujer,27,Primaria,7500,-0.05229,Indeciso
+Ciudad de Santiago,250000,Mujer,48,Primaria,35000,0.58275,Sí
+Ciudad de Santiago,250000,Mujer,18,Secundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,44,Postsecundaria,75000,-0.59351,
+Ciudad de Santiago,250000,Mujer,33,Primaria,2500,-0.32492,Indeciso
+Ciudad de Santiago,250000,Hombre,27,Secundaria,7500,-1.34392,No
+Ciudad de Santiago,250000,Hombre,48,Primaria,35000,-1.19504,No
+Ciudad de Santiago,250000,Mujer,45,Primaria,35000,-0.49641,Indeciso
+Ciudad de Santiago,250000,Mujer,32,Postsecundaria,35000,-0.93492,Indeciso
+Ciudad de Santiago,250000,Hombre,34,Primaria,15000,-0.17177,Indeciso
+Ciudad de Santiago,250000,Mujer,36,Postsecundaria,35000,5.5e-4,Indeciso
+Ciudad de Santiago,250000,Hombre,49,Secundaria,125000,-1.25795,No
+Ciudad de Santiago,250000,Mujer,43,Secundaria,35000,0.25319,Sí
+Ciudad de Santiago,250000,Mujer,19,Secundaria,75000,1.35136,Sí
+Ciudad de Santiago,250000,Hombre,24,Secundaria,35000,-1.15762,No
+Ciudad de Santiago,250000,Hombre,49,Postsecundaria,35000,-1.14049,No
+Ciudad de Santiago,250000,Hombre,24,Postsecundaria,75000,-0.96014,No
+Ciudad de Santiago,250000,Hombre,56,Secundaria,75000,-1.10273,No
+Ciudad de Santiago,250000,Mujer,47,Primaria,15000,1.54808,Sí
+Ciudad de Santiago,250000,Mujer,35,Secundaria,15000,-0.35334,Abstención
+Ciudad de Santiago,250000,Hombre,45,Postsecundaria,35000,-1.04016,No
+Ciudad de Santiago,250000,Mujer,52,Primaria,35000,1.02747,
+Ciudad de Santiago,250000,Mujer,26,Secundaria,15000,-1.14952,No
+Ciudad de Santiago,250000,Hombre,48,Secundaria,7500,-0.46328,Abstención
+Ciudad de Santiago,250000,Hombre,20,Secundaria,35000,-1.07386,No
+Ciudad de Santiago,250000,Mujer,26,Secundaria,125000,0.30352,Sí
+Ciudad de Santiago,250000,Mujer,64,Primaria,2500,-1.29617,Indeciso
+Ciudad de Santiago,250000,Hombre,41,Secundaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,22,Secundaria,35000,0.14497,Indeciso
+Ciudad de Santiago,250000,Mujer,42,Secundaria,75000,-1.25656,No
+Ciudad de Santiago,250000,Mujer,44,Primaria,2500,-1.29617,No
+Ciudad de Santiago,250000,Hombre,36,Primaria,7500,-1.29617,No
+Ciudad de Santiago,250000,Mujer,24,Secundaria,15000,-0.73585,Abstención
+Ciudad de Santiago,250000,Hombre,19,Postsecundaria,15000,-0.54187,
+Ciudad de Santiago,250000,Hombre,27,Secundaria,15000,-0.37315,No
+Ciudad de Santiago,250000,Hombre,24,Postsecundaria,15000,-0.65961,No
+Ciudad de Santiago,250000,Mujer,30,Secundaria,35000,1.24478,Sí
+Ciudad de Santiago,250000,Mujer,21,Postsecundaria,35000,,Abstención
+Ciudad de Santiago,250000,Hombre,47,Primaria,35000,-0.98792,No
+Ciudad de Santiago,250000,Mujer,55,Primaria,15000,-0.10726,Sí
+Ciudad de Santiago,250000,Mujer,54,Primaria,7500,-1.29617,No
+Ciudad de Santiago,250000,Mujer,34,Primaria,15000,-1.00272,Indeciso
+Ciudad de Santiago,250000,Hombre,30,Secundaria,15000,-0.45937,Indeciso
+Ciudad de Santiago,250000,Hombre,66,Secundaria,35000,-1.31083,
+Ciudad de Santiago,250000,Hombre,56,Primaria,35000,-0.40479,Sí
+Ciudad de Santiago,250000,Mujer,42,Secundaria,15000,-0.35685,Indeciso
+Ciudad de Santiago,250000,Mujer,43,Primaria,7500,-1.29617,No
+Ciudad de Santiago,250000,Hombre,68,Primaria,7500,-0.70372,No
+Ciudad de Santiago,250000,Mujer,23,Postsecundaria,75000,0.11608,Indeciso
+Ciudad de Santiago,250000,Hombre,33,Secundaria,35000,-1.14049,No
+Ciudad de Santiago,250000,Mujer,69,Secundaria,35000,0.34293,Indeciso
+Ciudad de Santiago,250000,Mujer,22,Postsecundaria,75000,-1.26305,Abstención
+Ciudad de Santiago,250000,Hombre,33,Secundaria,15000,-0.10246,Sí
+Ciudad de Santiago,250000,Mujer,42,Secundaria,75000,1.26053,Indeciso
+Ciudad de Santiago,250000,Hombre,62,Secundaria,35000,-0.96901,No
+Ciudad de Santiago,250000,Mujer,20,Secundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,58,Postsecundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,22,Postsecundaria,35000,-1.1517,No
+Ciudad de Santiago,250000,Hombre,37,Secundaria,35000,-1.03486,No
+Ciudad de Santiago,250000,Mujer,42,Secundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,36,Secundaria,35000,0.5922,Sí
+Ciudad de Santiago,250000,Mujer,25,Secundaria,35000,-1.08055,Abstención
+Ciudad de Santiago,250000,Hombre,62,Secundaria,75000,1.29875,Sí
+Ciudad de Santiago,250000,Hombre,34,Secundaria,35000,-0.82904,Indeciso
+Ciudad de Santiago,250000,Mujer,55,Primaria,7500,1.15429,Indeciso
+Ciudad de Santiago,250000,Hombre,33,Postsecundaria,75000,-0.86276,No
+Ciudad de Santiago,250000,Hombre,45,Secundaria,35000,1.19997,Sí
+Ciudad de Santiago,250000,Hombre,60,Secundaria,35000,1.5877,Sí
+Ciudad de Santiago,250000,Mujer,27,Secundaria,7500,-1.29617,No
+Ciudad de Santiago,250000,Mujer,50,Secundaria,75000,1.5877,Sí
+Ciudad de Santiago,250000,Mujer,58,Primaria,7500,0.3111,
+Ciudad de Santiago,250000,Hombre,22,Secundaria,35000,-0.78022,Indeciso
+Ciudad de Santiago,250000,Mujer,35,Primaria,15000,-0.51037,Indeciso
+Ciudad de Santiago,250000,Hombre,60,Primaria,,0.04343,Indeciso
+Ciudad de Santiago,250000,Hombre,28,Secundaria,7500,-1.29617,No
+Ciudad de Santiago,250000,Hombre,63,Primaria,35000,1.18876,Sí
+Ciudad de Santiago,250000,Mujer,27,Primaria,7500,-1.29617,Abstención
+Ciudad de Santiago,250000,Hombre,50,Secundaria,35000,-1.23032,Indeciso
+Ciudad de Santiago,250000,Mujer,42,Primaria,75000,0.90769,Indeciso
+Ciudad de Santiago,250000,Hombre,24,Postsecundaria,35000,1.41464,Sí
+Ciudad de Santiago,250000,Mujer,24,Postsecundaria,35000,0.06047,Abstención
+Ciudad de Santiago,250000,Mujer,36,Primaria,15000,0.07043,
+Ciudad de Santiago,250000,Hombre,28,Secundaria,35000,0.03189,Indeciso
+Ciudad de Santiago,250000,Hombre,70,Secundaria,15000,-0.35884,
+Ciudad de Santiago,250000,Mujer,36,Secundaria,35000,1.1092,Indeciso
+Ciudad de Santiago,250000,Hombre,64,Primaria,2500,-0.23703,Indeciso
+Ciudad de Santiago,250000,Mujer,48,Primaria,15000,-0.16364,Abstención
+Ciudad de Santiago,250000,Hombre,44,Postsecundaria,15000,-0.32082,Indeciso
+Ciudad de Santiago,250000,Mujer,30,Secundaria,35000,-0.22533,Abstención
+Ciudad de Santiago,250000,Hombre,26,Secundaria,,1.61195,Indeciso
+Ciudad de Santiago,250000,Mujer,43,Primaria,7500,0.13591,Sí
+Ciudad de Santiago,250000,Mujer,50,Primaria,15000,0.5567,Indeciso
+Ciudad de Santiago,250000,Hombre,60,Primaria,35000,-0.88715,No
+Ciudad de Santiago,250000,Mujer,22,Primaria,7500,-0.63484,Indeciso
+Ciudad de Santiago,250000,Hombre,23,Primaria,7500,-1.10367,No
+Ciudad de Santiago,250000,Mujer,60,Primaria,2500,0.36597,Sí
+Ciudad de Santiago,250000,Hombre,19,Secundaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,39,Secundaria,7500,-0.56363,Indeciso
+Ciudad de Santiago,250000,Hombre,38,Primaria,15000,-0.40009,No
+Ciudad de Santiago,250000,Hombre,37,Secundaria,7500,-0.66692,No
+Ciudad de Santiago,250000,Hombre,35,Primaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,59,Secundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,35,Primaria,35000,-1.13471,Abstención
+Ciudad de Santiago,250000,Mujer,68,Primaria,2500,-1.04685,No
+Ciudad de Santiago,250000,Mujer,42,Primaria,15000,-0.62868,Indeciso
+Ciudad de Santiago,250000,Hombre,25,Secundaria,15000,0.4566,Sí
+Ciudad de Santiago,250000,Mujer,28,Primaria,7500,-1.29617,No
+Ciudad de Santiago,250000,Mujer,45,Primaria,15000,-0.42882,No
+Ciudad de Santiago,250000,Mujer,38,Primaria,15000,-0.7714,Indeciso
+Ciudad de Santiago,250000,Hombre,64,Primaria,,-0.25612,Abstención
+Ciudad de Santiago,250000,Mujer,23,Postsecundaria,35000,-0.87985,Indeciso
+Ciudad de Santiago,250000,Mujer,46,Secundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,68,Secundaria,15000,1.5877,Sí
+Ciudad de Santiago,250000,Hombre,65,Secundaria,,-0.03639,
+Ciudad de Santiago,250000,Hombre,21,Postsecundaria,75000,0.44665,Abstención
+Ciudad de Santiago,250000,Hombre,25,Postsecundaria,35000,1.36539,Sí
+Ciudad de Santiago,250000,Mujer,36,Secundaria,35000,-1.29617,Indeciso
+Ciudad de Santiago,250000,Hombre,68,Primaria,15000,1.52184,
+Ciudad de Santiago,250000,Mujer,22,Postsecundaria,35000,0.15722,Abstención
+Ciudad de Santiago,250000,Mujer,61,Secundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,19,Secundaria,7500,0.47772,Abstención
+Ciudad de Santiago,250000,Hombre,62,Primaria,35000,-1.21834,No
+Ciudad de Santiago,250000,Mujer,40,Primaria,15000,1.5877,Sí
+Ciudad de Santiago,250000,Mujer,21,Postsecundaria,35000,-1.72594,No
+Ciudad de Santiago,250000,Hombre,37,Primaria,35000,1.36478,
+Ciudad de Santiago,250000,Mujer,25,Primaria,7500,1.51869,Sí
+Ciudad de Santiago,250000,Hombre,35,Secundaria,35000,-0.89647,Indeciso
+Ciudad de Santiago,250000,Mujer,40,Primaria,7500,1.5877,Sí
+Ciudad de Santiago,250000,Mujer,43,Secundaria,2500,0.80245,No
+Ciudad de Santiago,250000,Hombre,64,Primaria,7500,-0.91383,Indeciso
+Ciudad de Santiago,250000,Mujer,35,Secundaria,35000,1.1425,Sí
+Ciudad de Santiago,250000,Hombre,67,Primaria,,1.3811,Sí
+Ciudad de Santiago,250000,Mujer,23,Postsecundaria,35000,1.51515,Sí
+Ciudad de Santiago,250000,Mujer,39,Primaria,75000,0.3898,Sí
+Ciudad de Santiago,250000,Hombre,18,Postsecundaria,75000,1.40042,Sí
+Ciudad de Santiago,250000,Hombre,54,Secundaria,35000,1.46885,Sí
+Ciudad de Santiago,250000,Mujer,21,Secundaria,35000,-0.37796,
+Ciudad de Santiago,250000,Hombre,34,Secundaria,75000,0.49205,
+Ciudad de Santiago,250000,Hombre,42,Secundaria,125000,-1.2105,No
+Ciudad de Santiago,250000,Mujer,42,Secundaria,7500,-0.93171,No
+Ciudad de Santiago,250000,Mujer,60,Primaria,7500,1.37276,Sí
+Ciudad de Santiago,250000,Mujer,31,Secundaria,15000,-1.29617,Abstención
+Ciudad de Santiago,250000,Hombre,60,Primaria,7500,0.09968,Sí
+Ciudad de Santiago,250000,Hombre,20,Primaria,15000,-1.10678,No
+Ciudad de Santiago,250000,Hombre,25,Primaria,7500,-1.07069,No
+Ciudad de Santiago,250000,Hombre,30,Primaria,7500,0.99912,Sí
+Ciudad de Santiago,250000,Mujer,35,Secundaria,15000,-0.24978,No
+Ciudad de Santiago,250000,Hombre,65,Primaria,35000,-0.97492,No
+Ciudad de Santiago,250000,Mujer,62,Postsecundaria,15000,-1.06935,Abstención
+Ciudad de Santiago,250000,Mujer,50,Secundaria,75000,0.15413,Sí
+Ciudad de Santiago,250000,Mujer,20,Secundaria,35000,-0.73822,Indeciso
+Ciudad de Santiago,250000,Hombre,24,Primaria,15000,-1.26247,No
+Ciudad de Santiago,250000,Mujer,61,Primaria,2500,-1.18602,Abstención
+Ciudad de Santiago,250000,Hombre,44,Primaria,35000,-0.16244,Indeciso
+Ciudad de Santiago,250000,Hombre,59,Primaria,7500,-0.97169,Indeciso
+Ciudad de Santiago,250000,Mujer,23,Primaria,7500,0.87023,Sí
+Ciudad de Santiago,250000,Hombre,22,Secundaria,35000,1.1763,Indeciso
+Ciudad de Santiago,250000,Hombre,45,Primaria,35000,0.20171,Sí
+Ciudad de Santiago,250000,Mujer,40,Secundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,66,Primaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,60,Primaria,75000,1.55399,Sí
+Ciudad de Santiago,250000,Mujer,29,Secundaria,15000,-0.92834,Abstención
+Ciudad de Santiago,250000,Mujer,38,Secundaria,,0.51284,Indeciso
+Ciudad de Santiago,250000,Hombre,31,Secundaria,15000,1.16822,Sí
+Ciudad de Santiago,250000,Mujer,29,Secundaria,75000,-0.78516,Indeciso
+Ciudad de Santiago,250000,Hombre,24,Secundaria,15000,-0.67418,Sí
+Ciudad de Santiago,250000,Hombre,59,Primaria,35000,1.27849,Sí
+Ciudad de Santiago,250000,Mujer,29,Secundaria,75000,1.40361,Sí
+Ciudad de Santiago,250000,Mujer,48,Primaria,15000,-0.05921,Indeciso
+Ciudad de Santiago,250000,Mujer,45,Primaria,35000,-1.03643,Abstención
+Ciudad de Santiago,250000,Hombre,63,Primaria,7500,-0.20918,
+Ciudad de Santiago,250000,Mujer,23,Secundaria,35000,-1.15795,No
+Ciudad de Santiago,250000,Hombre,70,Primaria,7500,-1.25795,No
+Ciudad de Santiago,250000,Hombre,34,Postsecundaria,35000,-1.21777,No
+Ciudad de Santiago,250000,Mujer,52,Primaria,15000,-1.22954,Indeciso
+Ciudad de Santiago,250000,Mujer,23,Postsecundaria,15000,-1.14049,No
+Ciudad de Santiago,250000,Hombre,18,Secundaria,35000,-1.25795,No
+Ciudad de Santiago,250000,Mujer,46,,15000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,58,Primaria,7500,1.37986,Indeciso
+Ciudad de Santiago,250000,Hombre,67,Primaria,15000,-1.2629,Indeciso
+Ciudad de Santiago,250000,Mujer,23,Primaria,7500,-0.26963,No
+Ciudad de Santiago,250000,Hombre,43,Primaria,15000,0.16466,Indeciso
+Ciudad de Santiago,250000,Hombre,18,Secundaria,7500,-0.79979,Sí
+Ciudad de Santiago,250000,Hombre,43,Primaria,75000,1.44541,Sí
+Ciudad de Santiago,250000,Mujer,45,Primaria,35000,-1.06673,Indeciso
+Ciudad de Santiago,250000,Mujer,57,Primaria,7500,0.11796,Indeciso
+Ciudad de Santiago,250000,Mujer,23,Secundaria,35000,-1.16369,No
+Ciudad de Santiago,250000,Mujer,45,Primaria,15000,1.42782,Indeciso
+Ciudad de Santiago,250000,Hombre,37,Primaria,15000,0.50129,No
+Ciudad de Santiago,250000,Hombre,24,Secundaria,35000,1.25589,Sí
+Ciudad de Santiago,250000,Mujer,40,Primaria,35000,-0.97614,No
+Ciudad de Santiago,250000,Mujer,35,Primaria,7500,1.54808,Sí
+Ciudad de Santiago,250000,Hombre,27,Secundaria,7500,0.19955,No
+Ciudad de Santiago,250000,Hombre,45,Primaria,35000,1.51515,Sí
+Ciudad de Santiago,250000,Hombre,43,Primaria,2500,0.51876,Abstención
+Ciudad de Santiago,250000,Mujer,32,Primaria,7500,-0.05572,Abstención
+Ciudad de Santiago,250000,Mujer,57,Primaria,2500,0.19502,Indeciso
+Ciudad de Santiago,250000,Hombre,28,Secundaria,15000,-0.86034,Abstención
+Ciudad de Santiago,250000,Mujer,46,Primaria,15000,0.96365,Sí
+Ciudad de Santiago,250000,Hombre,38,Secundaria,2500,-0.96979,Indeciso
+Ciudad de Santiago,250000,Mujer,25,Secundaria,15000,1.05131,Sí
+Ciudad de Santiago,250000,Hombre,18,Secundaria,15000,-0.88433,No
+Ciudad de Santiago,250000,Mujer,39,Primaria,15000,-1.20559,Indeciso
+Ciudad de Santiago,250000,Hombre,44,Secundaria,7500,-0.07422,Indeciso
+Ciudad de Santiago,250000,Hombre,46,Primaria,15000,-1.1008,No
+Ciudad de Santiago,250000,Mujer,20,Primaria,7500,-1.21974,No
+Ciudad de Santiago,250000,Mujer,60,Primaria,15000,-1.11727,Indeciso
+Ciudad de Santiago,250000,Hombre,20,Secundaria,35000,0.39838,Indeciso
+Ciudad de Santiago,250000,Mujer,55,Primaria,2500,-1.19286,No
+Ciudad de Santiago,250000,Hombre,70,Primaria,7500,0.18178,Indeciso
+Ciudad de Santiago,250000,Mujer,18,Secundaria,15000,0.10006,Indeciso
+Ciudad de Santiago,250000,Mujer,50,Primaria,15000,0.14497,Indeciso
+Ciudad de Santiago,250000,Hombre,38,Primaria,35000,-1.21834,No
+Ciudad de Santiago,250000,Hombre,55,Primaria,35000,-1.21834,No
+Ciudad de Santiago,250000,Hombre,18,Secundaria,35000,1.12067,Sí
+Ciudad de Santiago,250000,Mujer,21,Secundaria,15000,-1.10757,
+Ciudad de Santiago,250000,Mujer,40,Primaria,35000,0.33514,Sí
+Ciudad de Santiago,250000,Hombre,21,Secundaria,35000,-1.21834,No
+Ciudad de Santiago,250000,Hombre,49,Primaria,15000,-1.21834,No
+Ciudad de Santiago,250000,Hombre,37,Secundaria,15000,-1.04094,Sí
+Ciudad de Santiago,250000,Hombre,37,Secundaria,35000,1.04274,Indeciso
+Ciudad de Santiago,250000,Hombre,36,Secundaria,15000,-1.18151,No
+Ciudad de Santiago,250000,Mujer,24,Secundaria,7500,-1.29617,No
+Ciudad de Santiago,250000,Hombre,25,Postsecundaria,15000,-0.91941,No
+Ciudad de Santiago,250000,Mujer,58,Primaria,7500,1.5368,Sí
+Ciudad de Santiago,250000,Mujer,54,Secundaria,35000,1.47476,Sí
+Ciudad de Santiago,250000,Hombre,53,Secundaria,35000,-1.0444,No
+Ciudad de Santiago,250000,Mujer,20,Secundaria,,-1.05006,No
+Ciudad de Santiago,250000,Hombre,19,Secundaria,35000,-1.14719,No
+Ciudad de Santiago,250000,Hombre,59,Primaria,35000,0.20745,Sí
+Ciudad de Santiago,250000,Mujer,36,Primaria,35000,-1.17871,No
+Ciudad de Santiago,250000,Mujer,31,Secundaria,15000,0.93119,Sí
+Ciudad de Santiago,250000,Hombre,18,Secundaria,7500,1.18721,Indeciso
+Ciudad de Santiago,250000,Hombre,43,Primaria,15000,-0.92939,Indeciso
+Ciudad de Santiago,250000,Hombre,27,Secundaria,15000,1.18527,Indeciso
+Ciudad de Santiago,250000,Mujer,25,Secundaria,7500,1.1535,Indeciso
+Ciudad de Santiago,250000,Mujer,45,Primaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,18,Secundaria,35000,1.23212,Sí
+Ciudad de Santiago,250000,Hombre,38,Primaria,15000,1.29875,Sí
+Ciudad de Santiago,250000,Hombre,66,Primaria,15000,-0.91715,Indeciso
+Ciudad de Santiago,250000,Hombre,55,Primaria,15000,-1.29617,Abstención
+Ciudad de Santiago,250000,Mujer,37,Primaria,15000,-0.29711,Indeciso
+Ciudad de Santiago,250000,Mujer,39,Primaria,15000,-0.76404,No
+Ciudad de Santiago,250000,Hombre,65,Primaria,2500,1.54947,Sí
+Ciudad de Santiago,250000,Hombre,29,Secundaria,15000,-0.14864,Abstención
+Ciudad de Santiago,250000,Hombre,39,Primaria,15000,-0.45208,No
+Ciudad de Santiago,250000,Mujer,27,Secundaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,58,Secundaria,15000,0.9196,
+Ciudad de Santiago,250000,Mujer,48,Secundaria,15000,-1.25656,Abstención
+Ciudad de Santiago,250000,Hombre,18,Secundaria,15000,-0.42745,No
+Ciudad de Santiago,250000,Hombre,27,Postsecundaria,75000,-1.17723,No
+Ciudad de Santiago,250000,Mujer,56,Secundaria,125000,-1.27876,Abstención
+Ciudad de Santiago,250000,Mujer,21,Secundaria,7500,-0.36225,Abstención
+Ciudad de Santiago,250000,Hombre,36,Postsecundaria,75000,1.44593,Sí
+Ciudad de Santiago,250000,Hombre,61,Primaria,35000,1.28789,
+Ciudad de Santiago,250000,Mujer,28,Secundaria,15000,-0.60491,Sí
+Ciudad de Santiago,250000,Mujer,33,Postsecundaria,35000,-0.67038,No
+Ciudad de Santiago,250000,Mujer,51,Primaria,35000,1.3309,Sí
+Ciudad de Santiago,250000,Hombre,51,Postsecundaria,35000,-1.02895,No
+Ciudad de Santiago,250000,Hombre,22,Postsecundaria,15000,-0.55476,No
+Ciudad de Santiago,250000,Mujer,25,Primaria,15000,-1.10496,Indeciso
+Ciudad de Santiago,250000,Mujer,36,Primaria,7500,-0.39733,No
+Ciudad de Santiago,250000,Mujer,45,Secundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,21,Primaria,7500,-1.29617,No
+Ciudad de Santiago,250000,Hombre,38,Primaria,7500,-1.14103,No
+Ciudad de Santiago,250000,Mujer,28,Postsecundaria,7500,-0.90906,No
+Ciudad de Santiago,250000,Hombre,68,Primaria,75000,-1.10507,Indeciso
+Ciudad de Santiago,250000,Mujer,36,Primaria,35000,-0.98083,Indeciso
+Ciudad de Santiago,250000,Mujer,40,Secundaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,22,Postsecundaria,15000,-1.2307,No
+Ciudad de Santiago,250000,Hombre,67,Postsecundaria,35000,0.1054,
+Ciudad de Santiago,250000,Hombre,28,Postsecundaria,125000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,53,Primaria,,1.40039,Sí
+Ciudad de Santiago,250000,Mujer,58,Primaria,35000,0.93995,Indeciso
+Ciudad de Santiago,250000,Mujer,26,Secundaria,15000,-0.30841,Indeciso
+Ciudad de Santiago,250000,Mujer,69,Secundaria,35000,0.26058,Indeciso
+Ciudad de Santiago,250000,Mujer,28,Postsecundaria,35000,-0.8623,Indeciso
+Ciudad de Santiago,250000,Mujer,66,Primaria,15000,0.64595,Indeciso
+Ciudad de Santiago,250000,Hombre,51,Secundaria,35000,1.53157,Sí
+Ciudad de Santiago,250000,Hombre,18,Secundaria,75000,-0.65243,Indeciso
+Ciudad de Santiago,250000,Hombre,68,Secundaria,200000,1.48145,Sí
+Ciudad de Santiago,250000,Hombre,63,Secundaria,35000,1.3368,Sí
+Ciudad de Santiago,250000,Mujer,24,Secundaria,35000,-0.10004,Abstención
+Ciudad de Santiago,250000,Mujer,43,Secundaria,15000,-0.75506,Indeciso
+Ciudad de Santiago,250000,Hombre,22,Postsecundaria,35000,-0.92939,No
+Ciudad de Santiago,250000,Hombre,19,Secundaria,125000,-1.04221,No
+Ciudad de Santiago,250000,Mujer,53,Primaria,15000,-0.36198,Indeciso
+Ciudad de Santiago,250000,Mujer,21,Secundaria,35000,-0.79353,No
+Ciudad de Santiago,250000,Hombre,40,Postsecundaria,75000,1.5877,Sí
+Ciudad de Santiago,250000,Mujer,70,Postsecundaria,75000,0.07535,Indeciso
+Ciudad de Santiago,250000,Mujer,42,Secundaria,75000,0.04202,Abstención
+Ciudad de Santiago,250000,Mujer,29,Secundaria,15000,-1.25656,No
+Ciudad de Santiago,250000,Hombre,32,Secundaria,,1.26582,
+Ciudad de Santiago,250000,Hombre,60,Secundaria,75000,-1.10502,No
+Ciudad de Santiago,250000,Hombre,44,Secundaria,35000,0.04743,Indeciso
+Ciudad de Santiago,250000,Mujer,62,Primaria,15000,1.5877,Sí
+Ciudad de Santiago,250000,Mujer,24,Postsecundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,25,Postsecundaria,7500,-1.21974,No
+Ciudad de Santiago,250000,Mujer,48,Primaria,15000,0.1906,Abstención
+Ciudad de Santiago,250000,Hombre,47,Secundaria,75000,-0.92313,
+Ciudad de Santiago,250000,Mujer,59,Secundaria,35000,-0.74848,Abstención
+Ciudad de Santiago,250000,Hombre,68,Secundaria,35000,-1.25795,No
+Ciudad de Santiago,250000,Mujer,26,Secundaria,35000,-1.10757,No
+Ciudad de Santiago,250000,Hombre,57,Secundaria,75000,1.40361,Sí
+Ciudad de Santiago,250000,Hombre,19,Secundaria,15000,-1.25795,No
+Ciudad de Santiago,250000,Mujer,22,Secundaria,35000,-0.44948,No
+Ciudad de Santiago,250000,Mujer,54,Primaria,15000,-1.14049,No
+Ciudad de Santiago,250000,Mujer,67,Secundaria,7500,-0.11911,No
+Ciudad de Santiago,250000,Hombre,65,Primaria,75000,-1.08055,No
+Ciudad de Santiago,250000,Hombre,33,Primaria,15000,0.69205,Indeciso
+Ciudad de Santiago,250000,Mujer,46,Secundaria,15000,1.01625,Sí
+Ciudad de Santiago,250000,Mujer,55,Secundaria,75000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,20,Secundaria,35000,-1.25795,No
+Ciudad de Santiago,250000,Hombre,45,Secundaria,15000,0.57007,Sí
+Ciudad de Santiago,250000,Hombre,29,Secundaria,15000,-1.18323,No
+Ciudad de Santiago,250000,Hombre,36,Secundaria,7500,-1.29617,No
+Ciudad de Santiago,250000,Mujer,64,Primaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,20,Secundaria,15000,-0.81078,No
+Ciudad de Santiago,250000,Mujer,67,Primaria,7500,-0.99558,No
+Ciudad de Santiago,250000,Mujer,27,Secundaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,59,Primaria,7500,-1.29617,No
+Ciudad de Santiago,250000,Hombre,25,Postsecundaria,35000,-1.18011,No
+Ciudad de Santiago,250000,Mujer,23,Postsecundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,60,Secundaria,15000,-0.32866,Indeciso
+Ciudad de Santiago,250000,Mujer,48,Secundaria,75000,-1.14579,No
+Ciudad de Santiago,250000,Mujer,28,Secundaria,15000,-0.78735,Sí
+Ciudad de Santiago,250000,Mujer,48,Primaria,7500,-1.03937,Indeciso
+Ciudad de Santiago,250000,Hombre,45,Secundaria,15000,-1.14049,No
+Ciudad de Santiago,250000,Hombre,26,Secundaria,15000,-0.9353,No
+Ciudad de Santiago,250000,Mujer,37,Primaria,35000,-1.18011,No
+Ciudad de Santiago,250000,Mujer,24,Secundaria,35000,0.13025,No
+Ciudad de Santiago,250000,Hombre,32,Secundaria,75000,0.27062,Indeciso
+Ciudad de Santiago,250000,Mujer,38,Postsecundaria,35000,-1.14049,No
+Ciudad de Santiago,250000,Hombre,63,Secundaria,75000,-1.00723,Indeciso
+Ciudad de Santiago,250000,Hombre,38,Postsecundaria,75000,-1.29617,Abstención
+Ciudad de Santiago,250000,Hombre,36,Postsecundaria,125000,-1.02263,No
+Ciudad de Santiago,250000,Mujer,39,Secundaria,75000,-0.92939,Indeciso
+Ciudad de Santiago,250000,Mujer,32,Postsecundaria,75000,-1.29617,Indeciso
+Ciudad de Santiago,250000,Hombre,35,Secundaria,75000,-0.01265,Indeciso
+Ciudad de Santiago,250000,Mujer,37,Postsecundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,42,Primaria,15000,-1.23032,No
+Ciudad de Santiago,250000,Hombre,30,Secundaria,35000,-0.89647,Indeciso
+Ciudad de Santiago,250000,Mujer,20,Secundaria,35000,-1.00607,Indeciso
+Ciudad de Santiago,250000,Mujer,57,Primaria,35000,1.32047,Sí
+Ciudad de Santiago,250000,Hombre,47,Primaria,35000,-1.21834,No
+Ciudad de Santiago,250000,Mujer,45,Secundaria,7500,-1.04094,No
+Ciudad de Santiago,250000,Mujer,20,Secundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,38,Postsecundaria,15000,-0.95617,Indeciso
+Ciudad de Santiago,250000,Hombre,47,Primaria,35000,-1.14049,No
+Ciudad de Santiago,250000,Hombre,22,Secundaria,35000,-1.21834,No
+Ciudad de Santiago,250000,Mujer,21,Secundaria,15000,-0.64023,Indeciso
+Ciudad de Santiago,250000,Mujer,36,Primaria,35000,0.1869,Indeciso
+Ciudad de Santiago,250000,Hombre,24,Primaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,48,Primaria,7500,0.51408,Indeciso
+Ciudad de Santiago,250000,Hombre,40,Secundaria,15000,-0.37943,Indeciso
+Ciudad de Santiago,250000,Mujer,19,Secundaria,15000,-0.68396,No
+Ciudad de Santiago,250000,Hombre,43,Primaria,35000,-1.105,No
+Ciudad de Santiago,250000,Hombre,24,Primaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,58,Primaria,15000,-0.16141,Sí
+Ciudad de Santiago,250000,Mujer,40,Primaria,7500,1.4612,Indeciso
+Ciudad de Santiago,250000,Mujer,30,Secundaria,75000,-0.61249,No
+Ciudad de Santiago,250000,Hombre,39,Secundaria,35000,0.95428,Indeciso
+Ciudad de Santiago,250000,Mujer,37,Postsecundaria,75000,-0.49725,No
+Ciudad de Santiago,250000,Hombre,65,Secundaria,75000,0.61694,Sí
+Ciudad de Santiago,250000,Hombre,26,Secundaria,75000,-0.90783,No
+Ciudad de Santiago,250000,Mujer,69,Secundaria,75000,1.5877,Sí
+Ciudad de Santiago,250000,Mujer,39,Primaria,15000,-0.00248,Indeciso
+Ciudad de Santiago,250000,Hombre,21,Postsecundaria,75000,0.82279,Sí
+Ciudad de Santiago,250000,Mujer,30,Secundaria,125000,0.86028,Sí
+Ciudad de Santiago,250000,Hombre,62,Secundaria,125000,1.54808,Sí
+Ciudad de Santiago,250000,Mujer,62,Primaria,35000,1.2102,
+Ciudad de Santiago,250000,Hombre,30,Secundaria,75000,0.4505,No
+Ciudad de Santiago,250000,Hombre,40,Postsecundaria,35000,-1.07812,No
+Ciudad de Santiago,250000,Mujer,26,Postsecundaria,125000,-1.21834,No
+Ciudad de Santiago,250000,Mujer,40,Postsecundaria,125000,-0.97431,Indeciso
+Ciudad de Santiago,250000,Hombre,50,Postsecundaria,35000,-0.89595,No
+Ciudad de Santiago,250000,Hombre,21,Secundaria,15000,-0.42948,No
+Ciudad de Santiago,250000,Mujer,39,Secundaria,15000,1.5877,Sí
+Ciudad de Santiago,250000,Mujer,18,Secundaria,200000,-1.21834,No
+Ciudad de Santiago,250000,Hombre,51,Secundaria,125000,-0.77762,No
+Ciudad de Santiago,250000,Hombre,59,Secundaria,15000,0.15666,
+Ciudad de Santiago,250000,Hombre,52,Primaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,57,Primaria,15000,-1.07801,Indeciso
+Ciudad de Santiago,250000,Hombre,20,Secundaria,15000,-0.57538,Sí
+Ciudad de Santiago,250000,Mujer,29,Secundaria,35000,-1.23667,No
+Ciudad de Santiago,250000,Mujer,29,Secundaria,15000,-0.4905,Indeciso
+Ciudad de Santiago,250000,Mujer,37,Secundaria,35000,0.56853,Indeciso
+Ciudad de Santiago,250000,Hombre,39,Primaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,36,Secundaria,7500,-1.29617,
+Ciudad de Santiago,250000,Hombre,18,Secundaria,75000,0.12997,Sí
+Ciudad de Santiago,250000,Mujer,44,Secundaria,125000,0.59566,Sí
+Ciudad de Santiago,250000,Hombre,18,Secundaria,125000,-1.04094,Abstención
+Ciudad de Santiago,250000,Mujer,32,Postsecundaria,35000,-1.2164,No
+Ciudad de Santiago,250000,Hombre,41,Postsecundaria,75000,-1.21834,No
+Ciudad de Santiago,250000,Mujer,25,Postsecundaria,35000,1.47725,Sí
+Ciudad de Santiago,250000,Mujer,50,Postsecundaria,35000,-1.21695,No
+Ciudad de Santiago,250000,Hombre,19,Secundaria,125000,-1.21923,Indeciso
+Ciudad de Santiago,250000,Hombre,43,Postsecundaria,200000,-1.19755,No
+Ciudad de Santiago,250000,Hombre,37,Postsecundaria,125000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,30,Postsecundaria,200000,-1.14799,No
+Ciudad de Santiago,250000,Mujer,25,Postsecundaria,125000,0.12788,Abstención
+Ciudad de Santiago,250000,Mujer,54,Secundaria,200000,-1.07456,No
+Ciudad de Santiago,250000,Hombre,36,Postsecundaria,15000,-0.79562,No
+Ciudad de Santiago,250000,Mujer,45,Postsecundaria,125000,-0.89052,No
+Ciudad de Santiago,250000,Hombre,33,Postsecundaria,35000,0.49274,Sí
+Ciudad de Santiago,250000,Hombre,36,Secundaria,125000,-1.01959,No
+Ciudad de Santiago,250000,Mujer,25,Postsecundaria,200000,-0.70916,Sí
+Ciudad de Santiago,250000,Hombre,19,Secundaria,75000,-0.2023,No
+Ciudad de Santiago,250000,Mujer,51,Secundaria,75000,0.79215,Sí
+Ciudad de Santiago,250000,Mujer,59,Secundaria,7500,0.34139,Indeciso
+Ciudad de Santiago,250000,Mujer,44,Primaria,15000,-0.98019,Indeciso
+Ciudad de Santiago,250000,Mujer,24,Secundaria,35000,1.35051,Indeciso
+Ciudad de Santiago,250000,Hombre,40,Primaria,35000,0.80029,Indeciso
+Ciudad de Santiago,250000,Hombre,44,Primaria,35000,1.10941,
+Ciudad de Santiago,250000,Hombre,35,Secundaria,35000,0.56362,Indeciso
+Ciudad de Santiago,250000,Hombre,54,Primaria,2500,-0.76673,Indeciso
+Ciudad de Santiago,250000,Hombre,19,Primaria,15000,0.81038,No
+Ciudad de Santiago,250000,Mujer,59,Primaria,15000,1.17809,Sí
+Ciudad de Santiago,250000,Mujer,43,Primaria,2500,0.19986,Indeciso
+Ciudad de Santiago,250000,Mujer,21,Secundaria,7500,-1.28924,No
+Ciudad de Santiago,250000,Hombre,45,Primaria,15000,-0.25284,Sí
+Ciudad de Santiago,250000,Mujer,18,Secundaria,15000,-1.11716,No
+Ciudad de Santiago,250000,Mujer,39,Postsecundaria,35000,1.51307,Sí
+Ciudad de Santiago,250000,Mujer,56,Postsecundaria,35000,0.8355,Sí
+Ciudad de Santiago,250000,Hombre,25,Secundaria,35000,-1.10496,No
+Ciudad de Santiago,250000,Hombre,20,Primaria,7500,-1.14301,No
+Ciudad de Santiago,250000,Mujer,23,Primaria,15000,0.4373,Sí
+Ciudad de Santiago,250000,Mujer,48,Primaria,7500,-1.20796,Indeciso
+Ciudad de Santiago,250000,Hombre,52,Secundaria,7500,-0.54071,Sí
+Ciudad de Santiago,250000,Hombre,37,Postsecundaria,35000,1.45597,Sí
+Ciudad de Santiago,250000,Mujer,49,Primaria,35000,1.49042,
+Ciudad de Santiago,250000,Mujer,32,Secundaria,15000,0.28981,Indeciso
+Ciudad de Santiago,250000,Hombre,25,Secundaria,35000,-0.70525,No
+Ciudad de Santiago,250000,Hombre,51,Primaria,15000,1.3991,Sí
+Ciudad de Santiago,250000,Mujer,41,Primaria,15000,-0.88148,Indeciso
+Ciudad de Santiago,250000,Hombre,39,Primaria,35000,1.09571,Indeciso
+Ciudad de Santiago,250000,Mujer,45,Secundaria,7500,-1.07386,Indeciso
+Ciudad de Santiago,250000,Hombre,20,Secundaria,15000,-0.40275,No
+Ciudad de Santiago,250000,Mujer,21,Secundaria,15000,-1.15838,Indeciso
+Ciudad de Santiago,250000,Hombre,70,Primaria,15000,1.48678,Sí
+Ciudad de Santiago,250000,Hombre,36,Secundaria,15000,0.20902,Abstención
+Ciudad de Santiago,250000,Mujer,42,Primaria,15000,0.03978,Indeciso
+Ciudad de Santiago,250000,Mujer,43,Secundaria,15000,-1.21834,No
+Ciudad de Santiago,250000,Mujer,20,Secundaria,15000,-0.58372,No
+Ciudad de Santiago,250000,Hombre,34,Secundaria,35000,-0.65956,No
+Ciudad de Santiago,250000,Hombre,60,Primaria,2500,0.81317,Sí
+Ciudad de Santiago,250000,Hombre,36,Secundaria,35000,-1.2727,Indeciso
+Ciudad de Santiago,250000,Hombre,21,Secundaria,15000,-0.31678,Sí
+Ciudad de Santiago,250000,Mujer,20,Secundaria,15000,-1.21974,No
+Ciudad de Santiago,250000,Mujer,36,Secundaria,15000,-0.78437,Indeciso
+Ciudad de Santiago,250000,Mujer,62,Primaria,35000,0.19019,Sí
+Ciudad de Santiago,250000,Mujer,20,Secundaria,35000,-1.25795,No
+Ciudad de Santiago,250000,Hombre,38,Secundaria,200000,-0.7933,No
+Ciudad de Santiago,250000,Hombre,20,Postsecundaria,75000,-1.11878,No
+Ciudad de Santiago,250000,Hombre,35,Postsecundaria,200000,1.2692,Sí
+Ciudad de Santiago,250000,Hombre,18,Secundaria,200000,0.53171,No
+Ciudad de Santiago,250000,Mujer,29,Secundaria,75000,-0.16923,Indeciso
+Ciudad de Santiago,250000,Mujer,18,Secundaria,125000,-1.1464,No
+Ciudad de Santiago,250000,Mujer,43,Secundaria,75000,-0.08924,Abstención
+Ciudad de Santiago,250000,Hombre,42,Postsecundaria,75000,1.16774,Sí
+Ciudad de Santiago,250000,Mujer,27,Postsecundaria,200000,-1.10282,No
+Ciudad de Santiago,250000,Hombre,32,Postsecundaria,125000,-1.21974,No
+Ciudad de Santiago,250000,Hombre,63,Secundaria,75000,0.49426,No
+Ciudad de Santiago,250000,Mujer,36,Postsecundaria,75000,0.18235,Sí
+Ciudad de Santiago,250000,Hombre,36,Secundaria,125000,0.51557,No
+Ciudad de Santiago,250000,Hombre,33,Postsecundaria,200000,-0.87064,No
+Ciudad de Santiago,250000,Hombre,69,Secundaria,125000,1.38413,Sí
+Ciudad de Santiago,250000,Mujer,31,Secundaria,200000,-0.65985,No
+Ciudad de Santiago,250000,Mujer,58,Secundaria,125000,0.8853,Indeciso
+Ciudad de Santiago,250000,Mujer,42,Secundaria,125000,1.55399,Sí
+Ciudad de Santiago,250000,Mujer,22,Postsecundaria,35000,-1.01283,No
+Ciudad de Santiago,250000,Mujer,57,Postsecundaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,43,Postsecundaria,125000,-0.68084,No
+Ciudad de Santiago,250000,Hombre,41,Postsecundaria,75000,0.91259,Sí
+Ciudad de Santiago,250000,Hombre,57,Secundaria,200000,0.04134,
+Ciudad de Santiago,250000,Hombre,28,Postsecundaria,75000,-0.83829,No
+Ciudad de Santiago,250000,Mujer,20,Postsecundaria,200000,1.40361,Sí
+Ciudad de Santiago,250000,Mujer,24,Postsecundaria,125000,-1.04256,No
+Ciudad de Santiago,250000,Mujer,45,Postsecundaria,200000,0.92804,
+Ciudad de Santiago,250000,Hombre,42,Postsecundaria,125000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,61,Postsecundaria,75000,1.55477,Sí
+Ciudad de Santiago,250000,Hombre,34,Postsecundaria,125000,0.54349,No
+Ciudad de Santiago,250000,Mujer,26,Postsecundaria,200000,0.86287,Sí
+Ciudad de Santiago,250000,Mujer,60,Postsecundaria,200000,1.39831,Sí
+Ciudad de Santiago,250000,Mujer,36,Postsecundaria,200000,1.04278,Sí
+Ciudad de Santiago,250000,Mujer,41,Postsecundaria,200000,-0.31354,Indeciso
+Ciudad de Santiago,250000,Hombre,67,Postsecundaria,200000,1.44244,Sí
+Ciudad de Santiago,250000,Mujer,19,Postsecundaria,,-0.2941,Sí
+Ciudad de Santiago,250000,Mujer,50,Secundaria,200000,1.01542,Sí
+Ciudad de Santiago,250000,Hombre,46,Postsecundaria,200000,0.8246,Sí
+Ciudad de Santiago,250000,Mujer,57,Secundaria,,-0.6293,Abstención
+Ciudad de Santiago,250000,Mujer,42,Postsecundaria,35000,-1.10454,No
+Ciudad de Santiago,250000,Hombre,42,Postsecundaria,,1.34448,Sí
+Ciudad de Santiago,250000,Mujer,19,Secundaria,,-0.79884,No
+Ciudad de Santiago,250000,Mujer,42,Secundaria,35000,-1.48144,
+Ciudad de Santiago,250000,Mujer,63,Primaria,7500,0.02698,
+Ciudad de Santiago,250000,Mujer,46,Secundaria,125000,-1.02597,No
+Ciudad de Santiago,250000,Mujer,31,Secundaria,75000,-1.21862,No
+Ciudad de Santiago,250000,Hombre,70,Secundaria,35000,0.4676,
+Ciudad de Santiago,250000,Hombre,28,Postsecundaria,200000,1.21705,Sí
+Ciudad de Santiago,250000,Mujer,54,Postsecundaria,15000,0.81109,Sí
+Ciudad de Santiago,250000,Mujer,36,Postsecundaria,200000,-1.29617,No
+Ciudad de Santiago,250000,Hombre,38,Postsecundaria,,1.39381,Sí
+Ciudad de Santiago,250000,Mujer,45,Secundaria,200000,-1.00115,Abstención
+Ciudad de Santiago,250000,Mujer,30,Secundaria,125000,-0.19523,
+Ciudad de Santiago,250000,Hombre,69,Postsecundaria,75000,0.13858,
+Ciudad de Santiago,250000,Mujer,59,Primaria,15000,0.88849,Sí
+Ciudad de Santiago,250000,Hombre,22,Secundaria,,-0.15216,No
+Ciudad de Santiago,250000,Mujer,45,Primaria,7500,0.51627,No
+Ciudad de Santiago,250000,Mujer,24,Postsecundaria,200000,-1.14049,No
+Ciudad de Santiago,250000,Mujer,47,Secundaria,125000,1.07339,Sí
+Ciudad de Santiago,250000,Hombre,31,Postsecundaria,200000,1.44322,
+Ciudad de Santiago,250000,Hombre,46,Postsecundaria,200000,-0.66689,No
+Ciudad de Santiago,250000,Mujer,21,Postsecundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,39,Postsecundaria,200000,-1.25656,No
+Ciudad de Santiago,250000,Mujer,36,Secundaria,75000,-0.94168,No
+Ciudad de Santiago,250000,Mujer,58,Secundaria,35000,-0.40122,No
+Ciudad de Santiago,250000,Hombre,53,Secundaria,125000,-1.0295,No
+Ciudad de Santiago,250000,Mujer,26,Postsecundaria,125000,-1.21834,No
+Ciudad de Santiago,250000,Mujer,22,Secundaria,,0.90393,Indeciso
+Ciudad de Santiago,250000,Hombre,19,Postsecundaria,200000,1.51858,Sí
+Ciudad de Santiago,250000,Hombre,53,Postsecundaria,200000,-0.30982,Indeciso
+Ciudad de Santiago,250000,Hombre,55,Secundaria,200000,1.27096,Sí
+Ciudad de Santiago,250000,Mujer,23,Postsecundaria,200000,0.64011,Sí
+Ciudad de Santiago,250000,Mujer,58,Secundaria,125000,1.1348,Sí
+Ciudad de Santiago,250000,Hombre,60,Postsecundaria,200000,1.21964,Sí
+Ciudad de Santiago,250000,Mujer,68,Secundaria,75000,0.84667,Sí
+Ciudad de Santiago,250000,Mujer,35,Postsecundaria,200000,0.7711,Sí
+Ciudad de Santiago,250000,Hombre,27,Postsecundaria,200000,1.29798,Sí
+Ciudad de Santiago,250000,Mujer,25,Postsecundaria,125000,1.39006,Sí
+Ciudad de Santiago,250000,Mujer,62,Secundaria,35000,-0.95218,Indeciso
+Ciudad de Santiago,250000,Hombre,70,Postsecundaria,125000,-1.06052,No
+Ciudad de Santiago,250000,Hombre,21,Postsecundaria,200000,0.43376,Sí
+Ciudad de Santiago,250000,Mujer,35,Postsecundaria,125000,1.15286,Sí
+Ciudad de Santiago,250000,Mujer,35,Postsecundaria,200000,-0.93773,No
+Ciudad de Santiago,250000,Hombre,22,Postsecundaria,,-0.0163,No
+Ciudad de Santiago,250000,Mujer,27,Postsecundaria,200000,0.97308,Sí
+Ciudad de Santiago,250000,Mujer,40,Postsecundaria,200000,0.94765,No
+Ciudad de Santiago,250000,Mujer,62,Primaria,75000,0.73707,
+Ciudad de Santiago,250000,Hombre,44,Postsecundaria,200000,0.47231,Sí
+Ciudad de Santiago,250000,Hombre,40,Primaria,15000,1.26093,Sí
+Ciudad de Santiago,250000,Mujer,27,Primaria,7500,1.34623,Indeciso
+Ciudad de Santiago,250000,Mujer,42,Secundaria,35000,0.13769,Indeciso
+Ciudad de Santiago,250000,Hombre,29,Secundaria,35000,1.47615,Sí
+Ciudad de Santiago,250000,Mujer,42,Secundaria,15000,-0.15878,Indeciso
+Ciudad de Santiago,250000,Hombre,23,Secundaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,53,Primaria,15000,0.47051,Indeciso
+Ciudad de Santiago,250000,Mujer,53,Primaria,35000,0.13118,Sí
+Ciudad de Santiago,250000,Mujer,20,Postsecundaria,35000,-0.01053,Indeciso
+Ciudad de Santiago,250000,Hombre,44,Secundaria,35000,1.43793,Sí
+Ciudad de Santiago,250000,Hombre,39,Postsecundaria,200000,1.33168,Sí
+Ciudad de Santiago,250000,Hombre,25,Postsecundaria,125000,1.32577,Sí
+Ciudad de Santiago,250000,Mujer,64,Secundaria,35000,1.14675,Sí
+Ciudad de Santiago,250000,Mujer,30,Postsecundaria,200000,-0.23212,Indeciso
+Ciudad de Santiago,250000,Mujer,27,Postsecundaria,125000,0.29437,No
+Ciudad de Santiago,250000,Hombre,33,Postsecundaria,75000,-1.11336,No
+Ciudad de Santiago,250000,Hombre,59,Postsecundaria,35000,-0.98643,No
+Ciudad de Santiago,250000,Mujer,57,Postsecundaria,75000,-0.62986,No
+Ciudad de Santiago,250000,Mujer,28,Postsecundaria,125000,1.51437,Sí
+Ciudad de Santiago,250000,Mujer,38,Postsecundaria,125000,0.0074400000000000004,Indeciso
+Ciudad de Santiago,250000,Mujer,65,Secundaria,75000,-1.2727,No
+Ciudad de Santiago,250000,Mujer,24,Postsecundaria,75000,-0.45879,No
+Ciudad de Santiago,250000,Hombre,18,Secundaria,125000,0.9846,Sí
+Ciudad de Santiago,250000,Hombre,45,Postsecundaria,200000,1.14072,Sí
+Ciudad de Santiago,250000,Mujer,59,Secundaria,200000,-0.56959,No
+Ciudad de Santiago,250000,Mujer,36,Secundaria,125000,-1.0404,No
+Ciudad de Santiago,250000,Hombre,26,Postsecundaria,75000,-0.41596,No
+Ciudad de Santiago,250000,Mujer,24,Secundaria,75000,-0.84257,Abstención
+Ciudad de Santiago,250000,Mujer,44,Postsecundaria,200000,-1.09949,No
+Ciudad de Santiago,250000,Hombre,36,Postsecundaria,200000,1.24045,Sí
+Ciudad de Santiago,250000,Mujer,19,Postsecundaria,15000,-1.08103,Indeciso
+Ciudad de Santiago,250000,Hombre,18,Secundaria,75000,0.01777,
+Ciudad de Santiago,250000,Hombre,36,Postsecundaria,35000,-0.59471,Indeciso
+Ciudad de Santiago,250000,Mujer,37,Primaria,15000,-1.25795,Abstención
+Ciudad de Santiago,250000,Hombre,65,Postsecundaria,35000,-0.72986,Indeciso
+Ciudad de Santiago,250000,Hombre,25,Secundaria,35000,-0.50191,No
+Ciudad de Santiago,250000,Hombre,42,Postsecundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,48,Secundaria,15000,-0.69361,Indeciso
+Ciudad de Santiago,250000,Mujer,64,Primaria,35000,0.33848,Indeciso
+Ciudad de Santiago,250000,Mujer,21,Secundaria,7500,-1.29617,Indeciso
+Ciudad de Santiago,250000,Hombre,40,Secundaria,15000,-1.11196,No
+Ciudad de Santiago,250000,Mujer,18,Postsecundaria,75000,-0.89384,No
+Ciudad de Santiago,250000,Hombre,18,Secundaria,35000,-0.29008,Abstención
+Ciudad de Santiago,250000,Hombre,70,Primaria,35000,0.83966,Indeciso
+Ciudad de Santiago,250000,Mujer,70,Secundaria,7500,0.63256,Sí
+Ciudad de Santiago,250000,Hombre,36,Secundaria,35000,1.12501,Sí
+Ciudad de Santiago,250000,Mujer,37,Secundaria,35000,1.5877,Sí
+Ciudad de Santiago,250000,Hombre,32,Secundaria,125000,0.6372,Sí
+Ciudad de Santiago,250000,Mujer,23,Secundaria,35000,-0.72594,Indeciso
+Ciudad de Santiago,250000,Hombre,70,Secundaria,35000,0.67226,
+Ciudad de Santiago,250000,Mujer,51,Primaria,7500,1.50846,Sí
+Ciudad de Santiago,250000,Mujer,44,Secundaria,35000,0.6934,
+Ciudad de Santiago,250000,Mujer,24,Primaria,15000,0.47213,Sí
+Ciudad de Santiago,250000,Hombre,67,Secundaria,7500,1.54808,Sí
+Ciudad de Santiago,250000,Hombre,18,Secundaria,,1.0616,Sí
+Ciudad de Santiago,250000,Mujer,66,Primaria,7500,0.59034,Indeciso
+Ciudad de Santiago,250000,Hombre,22,Primaria,,0.14292,
+Ciudad de Santiago,250000,Mujer,42,Primaria,15000,,Indeciso
+Ciudad de Santiago,250000,Mujer,26,Secundaria,15000,0.089,Indeciso
+Ciudad de Santiago,250000,Hombre,66,Primaria,7500,-1.06805,
+Ciudad de Santiago,250000,Hombre,43,Postsecundaria,15000,-0.73756,No
+Ciudad de Santiago,250000,Mujer,21,Postsecundaria,7500,-1.15231,No
+Ciudad de Santiago,250000,Mujer,54,Primaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,57,Primaria,2500,-1.18463,No
+Ciudad de Santiago,250000,Hombre,21,Secundaria,,-1.29617,No
+Ciudad de Santiago,250000,Hombre,33,Secundaria,15000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,49,Primaria,35000,0.2803,Sí
+Ciudad de Santiago,250000,Hombre,40,Secundaria,7500,-0.6577,
+Ciudad de Santiago,250000,Mujer,49,Primaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,18,Secundaria,15000,1.25462,Sí
+Ciudad de Santiago,250000,Hombre,23,Secundaria,,-1.26942,No
+Ciudad de Santiago,250000,Mujer,44,Primaria,7500,-1.29617,No
+Ciudad de Santiago,250000,Mujer,23,Secundaria,7500,-1.29617,No
+Ciudad de Santiago,250000,Mujer,37,Secundaria,15000,-0.88301,Indeciso
+Ciudad de Santiago,250000,Hombre,48,Primaria,,1.45187,Sí
+Ciudad de Santiago,250000,Hombre,65,Secundaria,35000,-1.25656,No
+Ciudad de Santiago,250000,Hombre,53,Postsecundaria,,0.5445,Indeciso
+Ciudad de Santiago,250000,Mujer,47,Secundaria,75000,0.8666,Sí
+Ciudad de Santiago,250000,Mujer,18,Secundaria,75000,0.88085,Sí
+Ciudad de Santiago,250000,Hombre,26,Postsecundaria,,-1.29617,No
+Ciudad de Santiago,250000,Mujer,68,Primaria,15000,-0.94732,Sí
+Ciudad de Santiago,250000,Mujer,34,Secundaria,15000,-0.13523,No
+Ciudad de Santiago,250000,Hombre,19,Postsecundaria,15000,-0.43799,Indeciso
+Ciudad de Santiago,250000,Mujer,37,Primaria,35000,-1.06713,No
+Ciudad de Santiago,250000,Hombre,46,Secundaria,15000,-0.03259,Indeciso
+Ciudad de Santiago,250000,Mujer,56,Primaria,7500,-1.08236,Abstención
+Ciudad de Santiago,250000,Hombre,43,Primaria,15000,1.31037,Indeciso
+Ciudad de Santiago,250000,Mujer,24,Postsecundaria,35000,-0.27129,Indeciso
+Ciudad de Santiago,250000,Hombre,40,Primaria,7500,-0.7414,Sí
+Ciudad de Santiago,250000,Hombre,23,Secundaria,7500,-0.69755,
+Ciudad de Santiago,250000,Mujer,45,Secundaria,15000,-0.23627,Indeciso
+Ciudad de Santiago,250000,Mujer,70,Secundaria,,1.50394,Sí
+Ciudad de Santiago,250000,Hombre,46,Postsecundaria,125000,0.35459,Sí
+Ciudad de Santiago,250000,Mujer,25,Secundaria,15000,0.46676,Indeciso
+Ciudad de Santiago,250000,Hombre,23,Secundaria,75000,-1.06529,No
+Ciudad de Santiago,250000,Mujer,39,Secundaria,35000,-0.32437,Indeciso
+Ciudad de Santiago,250000,Hombre,70,Secundaria,35000,-0.96744,No
+Ciudad de Santiago,250000,Hombre,21,Postsecundaria,15000,-0.57825,No
+Ciudad de Santiago,250000,Hombre,64,Secundaria,35000,-1.29617,No
+Ciudad de Santiago,250000,Mujer,18,Secundaria,7500,0.30916,No
+Ciudad de Santiago,250000,Hombre,60,Secundaria,35000,-0.99525,No
+Ciudad de Santiago,250000,Hombre,21,Secundaria,35000,-0.15297,No
+Ciudad de Santiago,250000,Mujer,29,Postsecundaria,15000,1.11064,Sí
+Ciudad de Santiago,250000,Mujer,36,Secundaria,35000,0.28844,Sí
+Ciudad de Santiago,250000,Mujer,62,Secundaria,15000,1.35,Sí
+Ciudad de Santiago,250000,Hombre,40,Postsecundaria,15000,-1.1464,Abstención
+Ciudad de Santiago,250000,Mujer,44,Primaria,7500,1.20702,Sí
+Ciudad de Santiago,250000,Mujer,21,Secundaria,35000,-1.25795,No
+Ciudad de Santiago,250000,Hombre,34,Secundaria,15000,-0.77873,No
+Ciudad de Santiago,250000,Hombre,39,,,1.00817,Sí
+Metropolitana,62500,Hombre,52,Primaria,35000,1.5877,Sí
+Metropolitana,62500,Mujer,33,Primaria,125000,1.59296,Sí
+Metropolitana,62500,Mujer,36,Postsecundaria,15000,1.28539,Sí
+Metropolitana,62500,Mujer,60,Primaria,2500,0.14736,Sí
+Metropolitana,62500,Hombre,32,Primaria,7500,0.62706,Abstención
+Metropolitana,62500,Hombre,34,Secundaria,15000,1.47693,Sí
+Metropolitana,62500,Mujer,29,Primaria,15000,0.96567,Sí
+Metropolitana,62500,Mujer,32,Primaria,2500,-1.16306,No
+Metropolitana,62500,Mujer,46,Primaria,7500,-1.22114,Sí
+Metropolitana,62500,Hombre,51,Secundaria,7500,1.5877,
+Metropolitana,62500,Hombre,39,Secundaria,35000,0.76436,Sí
+Metropolitana,62500,Hombre,24,Secundaria,,0.13073,
+Metropolitana,62500,Mujer,22,Secundaria,35000,-0.70446,No
+Metropolitana,62500,Hombre,60,Secundaria,15000,-1.29617,No
+Metropolitana,62500,Mujer,38,Primaria,15000,1.28086,Sí
+Metropolitana,62500,Hombre,27,Primaria,15000,-1.22876,No
+Metropolitana,62500,Hombre,56,Secundaria,15000,0.16247,
+Metropolitana,62500,Mujer,37,Primaria,15000,0.72189,Indeciso
+Metropolitana,62500,Hombre,25,Secundaria,7500,0.83264,Sí
+Metropolitana,62500,Mujer,34,Secundaria,35000,0.70951,
+Metropolitana,15000,Mujer,45,Primaria,15000,0.7318,
+Metropolitana,15000,Hombre,45,Secundaria,35000,0.149,
+Metropolitana,15000,Mujer,18,Secundaria,35000,1.28615,Sí
+Metropolitana,15000,Hombre,19,Secundaria,,1.21003,Indeciso
+Metropolitana,15000,Mujer,35,Primaria,7500,0.28762,Indeciso
+Metropolitana,15000,Hombre,18,Secundaria,35000,-0.50889,Sí
+Metropolitana,15000,Mujer,44,Primaria,,-0.38686,Indeciso
+Metropolitana,15000,Hombre,33,Secundaria,35000,-0.71349,
+Metropolitana,15000,Mujer,19,Secundaria,,-0.57723,Indeciso
+Metropolitana,15000,Hombre,65,Primaria,35000,0.43236,Sí
+Metropolitana,15000,Hombre,54,Primaria,35000,0.73822,Indeciso
+Metropolitana,15000,Mujer,45,Secundaria,15000,1.08531,Indeciso
+Metropolitana,15000,Hombre,60,Primaria,15000,0.38846,
+Metropolitana,15000,Hombre,26,Secundaria,15000,-1.08862,No
+Metropolitana,15000,Mujer,26,Postsecundaria,35000,-1.29617,No
+Metropolitana,15000,Mujer,33,Primaria,7500,0.12468,Indeciso
+Metropolitana,15000,Mujer,38,Secundaria,7500,-0.63807,
+Metropolitana,15000,Mujer,57,Primaria,2500,-0.15649,Indeciso
+Metropolitana,15000,Hombre,24,Secundaria,15000,-0.59665,
+Metropolitana,15000,Hombre,36,Secundaria,,-0.57165,No
+Metropolitana,25000,Hombre,41,Primaria,,-1.30045,Indeciso
+Metropolitana,25000,Hombre,32,Secundaria,,0.75873,Sí
+Metropolitana,25000,Hombre,21,Secundaria,15000,0.80466,Indeciso
+Metropolitana,25000,Mujer,40,Secundaria,35000,-0.67588,No
+Metropolitana,25000,Mujer,35,Primaria,15000,1.41575,Indeciso
+Metropolitana,25000,Mujer,19,Primaria,7500,-0.5399,No
+Metropolitana,25000,Mujer,26,Secundaria,15000,-0.52483,Indeciso
+Metropolitana,25000,Mujer,68,Primaria,35000,1.12768,Indeciso
+Metropolitana,25000,Hombre,25,Secundaria,7500,0.08413,Abstención
+Metropolitana,25000,Hombre,60,Primaria,35000,-0.98577,No
+Metropolitana,25000,Mujer,19,Secundaria,7500,0.13353,
+Metropolitana,25000,Hombre,32,Primaria,35000,1.29393,Sí
+Metropolitana,25000,Mujer,42,Primaria,7500,1.43577,Sí
+Metropolitana,25000,Hombre,42,Primaria,15000,-0.82448,
+Metropolitana,25000,Hombre,47,Primaria,35000,-0.11712,
+Metropolitana,25000,Mujer,20,Secundaria,15000,1.61371,Indeciso
+Metropolitana,25000,Mujer,55,Primaria,7500,-0.33917,Sí
+Metropolitana,25000,Mujer,47,Primaria,15000,0.78755,Indeciso
+Metropolitana,25000,Hombre,45,Primaria,15000,0.82865,
+Metropolitana,25000,Hombre,27,Secundaria,7500,-1.74401,
+Metropolitana,87500,Mujer,55,Secundaria,35000,1.44322,Sí
+Metropolitana,87500,Hombre,27,Secundaria,75000,1.24288,No
+Metropolitana,87500,Mujer,40,Secundaria,15000,-0.09014,Sí
+Metropolitana,87500,Hombre,42,Secundaria,75000,-0.43601,No
+Metropolitana,87500,Mujer,21,Secundaria,35000,0.95741,Sí
+Metropolitana,87500,Hombre,18,Secundaria,15000,0.16797,No
+Metropolitana,87500,Hombre,38,Primaria,15000,1.33029,Indeciso
+Metropolitana,87500,Mujer,22,Primaria,35000,0.33831,Indeciso
+Metropolitana,87500,Mujer,67,Primaria,7500,-1.29617,No
+Metropolitana,87500,Hombre,33,Primaria,15000,-1.02512,Sí
+Metropolitana,87500,Hombre,42,Postsecundaria,125000,1.318,Sí
+Metropolitana,87500,Mujer,27,Secundaria,35000,1.47693,Sí
+Metropolitana,87500,Mujer,36,Postsecundaria,75000,1.29875,Sí
+Metropolitana,87500,Mujer,20,Postsecundaria,75000,-0.6093,Indeciso
+Metropolitana,87500,Hombre,21,Secundaria,75000,-0.49903,No
+Metropolitana,87500,Hombre,26,Secundaria,15000,0.51739,Sí
+Metropolitana,87500,Hombre,38,Primaria,7500,-1.19458,Indeciso
+Metropolitana,87500,Mujer,41,Primaria,35000,1.54243,Sí
+Metropolitana,87500,Mujer,57,Primaria,35000,1.54947,Sí
+Metropolitana,87500,Mujer,21,Primaria,35000,1.35,Sí
+Metropolitana,15000,Hombre,34,Primaria,15000,-1.33066,No
+Metropolitana,15000,Hombre,51,Primaria,7500,-1.25795,No
+Metropolitana,15000,Mujer,25,Primaria,2500,0.35489,Sí
+Metropolitana,15000,Mujer,55,Primaria,15000,-0.58617,
+Metropolitana,15000,Hombre,46,Primaria,15000,1.43143,
+Metropolitana,15000,Mujer,62,Primaria,15000,1.44059,Sí
+Metropolitana,15000,Hombre,32,Secundaria,15000,1.51655,Sí
+Metropolitana,15000,Mujer,43,Primaria,35000,-0.17755,Sí
+Metropolitana,15000,Hombre,56,Primaria,15000,1.46057,Sí
+Metropolitana,15000,Mujer,22,Secundaria,75000,0.87335,
+Metropolitana,15000,Hombre,20,Primaria,35000,0.85425,Sí
+Metropolitana,15000,Mujer,21,Secundaria,35000,1.22231,Sí
+Metropolitana,15000,Mujer,19,Primaria,2500,-0.33442,Indeciso
+Metropolitana,15000,Mujer,41,Primaria,7500,-0.61449,Indeciso
+Metropolitana,15000,Hombre,42,Secundaria,35000,-0.00233,Indeciso
+Metropolitana,15000,Hombre,42,Primaria,15000,-1.26247,No
+Metropolitana,15000,Mujer,28,Primaria,15000,1.3295,Sí
+Metropolitana,15000,Mujer,44,Primaria,75000,1.42045,Sí
+Metropolitana,15000,Hombre,21,Secundaria,75000,0.18315,
+Metropolitana,15000,Hombre,20,Postsecundaria,35000,1.38179,Sí
